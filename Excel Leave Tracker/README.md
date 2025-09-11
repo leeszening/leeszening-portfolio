@@ -24,4 +24,5 @@ Created a Google Sheets tracker with:
 - [Excel Leave Tracker](https://docs.google.com/spreadsheets/d/1ZZJeajul9dkDAvFxreRVMuxRSyuhXj9G/edit?gid=943798988#gid=943798988)
 
 ## Screenshot
-![Excel Leave Tracker](Screenshot_Excel_Leave_Tracker.png)
+![Excel Leave Tracker](Screenshot_Excel_Leave_Tracker_1.png)
+![Excel Leave Tracker](Screenshot_Excel_Leave_Tracker_2.png)
