@@ -17,7 +17,8 @@ Developed a clean, scrollable one-page website that highlights all performances,
 - Easy-to-navigate website presenting all performance services  
 - Embedded videos allow clients to preview performances online  
 - Improved client engagement and professional presentation  
-- Hosted on GitHub Pages for easy access and sharing  
+- Hosted on GitHub Pages for easy access and sharing
+- [Web project](https://leeszening.github.io/whooshwushu/)
 
 ## Screenshot
 ![web project](Screenshot_webproject.png)
