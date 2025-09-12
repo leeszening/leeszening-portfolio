@@ -1,0 +1,1003 @@
+Customer_ID,Food_Item,Category,Date_of_Visit,Time,Weather,Price,Weekend,Public_Holiday
+1075,Smoothie,Cold,24/03/2023,12:30,Sunny,14.88,No,No
+1030,Soup,Hot,19/03/2023,14:30,Raining,6.7176,Yes,No
+1055,Ice Cream,Cold,24/03/2023,10:30,Sunny,14.27,No,No
+1058,Ice Cream,Cold,05/03/2023,22:00,Sunny,14.688,Yes,No
+1084,Smoothie,Cold,29/03/2023,16:30,Sunny,8.844,No,Yes
+1007,Ice Cream,Cold,03/03/2023,15:00,Sunny,17.92,No,No
+1032,Ice Cream,Cold,04/04/2023,13:30,Sunny,12.72,No,No
+1088,Smoothie,Cold,10/02/2023,13:30,Sunny,7.11,No,No
+1003,Smoothie,Cold,07/02/2023,14:00,Sunny,19.44,No,No
+1081,Ice Cream,Cold,21/01/2023,22:30,Sunny,9.42,Yes,No
+1093,Ice Cream,Cold,05/03/2023,11:30,Sunny,6.42,Yes,No
+1001,Ice Cream,Cold,20/02/2023,10:30,Sunny,5.73,No,No
+1059,Tea,Hot,05/03/2023,11:00,Raining,10.0332,Yes,No
+1074,Ice Cream,Cold,14/01/2023,16:00,Sunny,19.752,Yes,No
+1023,Ice Cream,Cold,06/01/2023,17:30,Sunny,13.3,No,No
+1003,Smoothie,Cold,19/02/2023,13:30,Sunny,8.316,Yes,No
+1023,Tea,Hot,20/02/2023,20:30,Raining,14.688,No,No
+1096,Smoothie,Cold,19/03/2023,17:00,Sunny,8.472,Yes,Yes
+1085,Smoothie,Cold,02/03/2023,15:30,Sunny,9.92,No,No
+1077,Ice Cream,Cold,10/02/2023,19:00,Sunny,13.91,No,No
+1084,Ice Cream,Cold,07/03/2023,12:00,Sunny,17.24,No,No
+1052,Ice Cream,Cold,12/02/2023,16:30,Sunny,20.34,Yes,No
+1086,Smoothie,Cold,30/03/2023,11:00,Sunny,15.82,No,No
+1095,Ice Cream,Cold,03/03/2023,19:00,Sunny,7.22,No,No
+1012,Smoothie,Cold,01/02/2023,22:30,Sunny,5.28,No,No
+1034,Ice Cream,Cold,23/02/2023,19:00,Sunny,18.09,No,No
+1007,Coffee,Hot,04/04/2023,11:00,Raining,8.892,No,No
+1016,,Cold,03/03/2023,22:00,Sunny,18.68,No,No
+1097,Ice Cream,Cold,11/03/2023,17:30,Sunny,16.98,Yes,No
+1002,Ice Cream,Cold,01/02/2023,17:30,Sunny,16.57,No,No
+1060,Tea,Hot,27/01/2023,10:00,Raining,12.069,No,No
+1051,Ice Cream,Cold,03/04/2023,20:30,Sunny,18.44,No,No
+1016,Soup,Hot,14/02/2023,17:00,Raining,10.0548,No,Yes
+1056,Coffee,Hot,11/01/2023,10:30,Raining,10.971,No,No
+1023,Soup,Hot,10/03/2023,10:00,Raining,5.976,No,No
+1057,Smoothie,Cold,17/03/2023,21:30,Sunny,14.57,No,No
+1059,Smoothie,Cold,13/01/2023,17:30,Sunny,5.08,No,No
+1028,Ice Cream,Cold,21/01/2023,11:00,Sunny,14.592,Yes,No
+1050,Smoothie,Cold,07/04/2023,20:30,Sunny,18.62,No,No
+1077,Smoothie,Cold,25/03/2023,18:30,Sunny,22.44,Yes,No
+1056,Soup,Hot,23/02/2023,22:00,Raining,17.964,No,No
+1008,,Hot,05/03/2023,20:30,Raining,19.602,Yes,No
+1074,Ice Cream,Cold,08/02/2023,10:30,Sunny,9.27,No,No
+1075,Ice Cream,Cold,11/03/2023,13:00,Sunny,10.908,Yes,No
+1050,Ice Cream,Cold,15/01/2023,19:00,Sunny,18.936,Yes,No
+1021,Soup,Hot,05/04/2023,14:30,Raining,6.867,No,No
+1096,Ice Cream,Cold,23/03/2023,21:30,Sunny,6.3,No,No
+1030,Soup,Hot,13/01/2023,22:00,Raining,4.59,No,No
+1057,Tea,Hot,31/01/2023,13:00,Raining,12.366,No,No
+1020,Smoothie,Cold,02/01/2023,17:30,Sunny,15.02,No,No
+1057,Ice Cream,Cold,09/02/2023,17:30,Sunny,15.35,No,No
+1074,Smoothie,Cold,07/02/2023,18:00,Sunny,12.17,No,No
+1054,Ice Cream,Cold,06/04/2023,17:30,Sunny,16.36,No,No
+1073,,Cold,27/03/2023,15:00,Sunny,12.88,No,No
+1079,Smoothie,Cold,01/04/2023,17:30,Sunny,20.916,Yes,No
+1091,Ice Cream,Cold,06/03/2023,22:00,Sunny,21.384,No,Yes
+1053,Smoothie,Cold,15/01/2023,13:00,Sunny,22.176,Yes,No
+1052,Smoothie,Cold,08/01/2023,20:30,Sunny,16.056,Yes,No
+1053,Smoothie,Cold,09/02/2023,11:30,Sunny,16.19,No,No
+1098,Smoothie,Cold,10/01/2023,20:30,Sunny,19.02,No,No
+1049,Smoothie,Cold,02/03/2023,22:30,Sunny,19.788,No,Yes
+1073,Ice Cream,Cold,24/03/2023,17:30,Sunny,11.73,No,No
+1044,Smoothie,Cold,18/02/2023,11:30,Sunny,17.76,Yes,No
+1096,Soup,Hot,16/01/2023,21:30,Raining,14.328,No,No
+1095,Ice Cream,Cold,01/01/2023,11:30,Sunny,15.576,Yes,No
+1002,Smoothie,Cold,30/01/2023,13:30,Sunny,22.872,No,Yes
+1086,Smoothie,Cold,08/04/2023,13:00,Sunny,10.332,Yes,No
+1080,Smoothie,Cold,13/01/2023,20:30,Sunny,8.67,No,No
+1050,Smoothie,Cold,21/02/2023,17:30,Sunny,7.1,No,No
+1008,,Hot,30/01/2023,14:30,Raining,12.573,No,No
+1053,Smoothie,Cold,11/02/2023,18:30,Sunny,13.44,Yes,Yes
+1030,Soup,Hot,08/01/2023,14:00,Raining,15.5412,Yes,No
+1085,Ice Cream,Cold,13/03/2023,21:30,Sunny,16.79,No,No
+1032,Smoothie,Cold,31/03/2023,19:00,Sunny,16.32,No,No
+1000,Smoothie,Cold,31/01/2023,12:30,Sunny,17.09,No,No
+1048,Smoothie,Cold,08/01/2023,13:00,Sunny,12.996,Yes,No
+1035,Ice Cream,Cold,27/01/2023,19:00,Sunny,6.39,No,No
+1015,Smoothie,Cold,25/01/2023,19:30,Sunny,18.1,No,No
+1000,Tea,Hot,08/04/2023,19:30,Raining,8.7804,Yes,No
+1020,Soup,Hot,12/02/2023,17:00,Raining,20.9844,Yes,Yes
+1034,Smoothie,Cold,06/04/2023,20:30,Sunny,10.95,No,No
+1023,Coffee,Hot,12/03/2023,21:00,Raining,15.9084,Yes,No
+1024,Smoothie,Cold,03/02/2023,19:30,Sunny,17.04,No,No
+1053,Tea,Hot,02/03/2023,14:30,Raining,8.721,No,No
+1006,Ice Cream,Cold,14/03/2023,11:00,Sunny,15.96,No,Yes
+1023,Ice Cream,Cold,16/03/2023,12:00,Sunny,10.14,No,Yes
+1023,Ice Cream,Cold,16/03/2023,12:00,Sunny,10.14,No,Yes
+1028,Ice Cream,Cold,01/02/2023,15:30,Sunny,8.86,No,No
+1033,Tea,Hot,04/03/2023,22:00,Raining,8.1216,Yes,No
+1004,Smoothie,Cold,15/02/2023,18:30,Sunny,18.75,No,No
+1011,Smoothie,Cold,24/03/2023,16:30,Sunny,23.016,No,Yes
+1069,Smoothie,Cold,07/01/2023,14:00,Sunny,7.224,Yes,Yes
+1089,Ice Cream,Cold,02/01/2023,22:30,Sunny,14.89,No,No
+1001,Ice Cream,Cold,01/01/2023,15:30,Sunny,15.648,Yes,Yes
+1068,Soup,Hot,03/01/2023,13:00,Raining,5.949,No,No
+1052,Ice Cream,Cold,09/03/2023,20:00,Sunny,17.23,No,No
+1081,Smoothie,Cold,20/02/2023,20:30,Sunny,19.85,No,No
+1018,Coffee,Hot,08/02/2023,22:30,Raining,17.7012,No,Yes
+1084,Smoothie,Cold,21/02/2023,17:30,Sunny,15.54,No,No
+1061,Smoothie,Cold,05/03/2023,22:30,Sunny,22.104,Yes,No
+1072,Ice Cream,Cold,06/01/2023,21:30,Sunny,9.07,No,No
+1093,Coffee,Hot,10/01/2023,22:30,Raining,13.383,No,No
+1043,Coffee,Hot,10/02/2023,15:30,Raining,15.579,No,No
+1025,Ice Cream,Cold,10/01/2023,17:00,Sunny,15.16,No,No
+1050,Coffee,Hot,12/02/2023,11:00,Raining,17.1288,Yes,Yes
+1061,Smoothie,Cold,06/04/2023,13:30,Sunny,21.096,No,Yes
+1026,Ice Cream,Cold,19/03/2023,15:30,Sunny,6.528,Yes,No
+1049,Ice Cream,Cold,27/02/2023,19:00,Sunny,11.48,No,No
+1044,Ice Cream,Cold,16/03/2023,21:00,Sunny,16.97,No,No
+1019,Smoothie,Cold,10/01/2023,18:00,Sunny,16.09,No,No
+1040,Ice Cream,Cold,16/02/2023,11:00,Sunny,10.4,No,No
+1091,Ice Cream,Cold,14/01/2023,13:30,Sunny,7.86,Yes,No
+1077,Ice Cream,Cold,15/02/2023,19:30,Sunny,17.96,No,No
+1023,Smoothie,Cold,07/02/2023,17:30,Sunny,16.296,No,Yes
+1085,Ice Cream,Cold,29/03/2023,16:30,Sunny,12.4,No,No
+1007,Smoothie,Cold,22/01/2023,11:00,Sunny,12.504,Yes,No
+1087,Smoothie,Cold,01/02/2023,16:00,Sunny,11.87,No,No
+1085,,Hot,08/02/2023,10:00,Raining,9.63,No,No
+1004,Smoothie,Cold,12/02/2023,21:30,Sunny,11.412,Yes,No
+1018,Ice Cream,Cold,30/03/2023,19:00,Sunny,23.436,No,Yes
+1018,Smoothie,Cold,05/04/2023,16:30,Sunny,9.89,No,No
+1089,Smoothie,Cold,20/02/2023,22:30,Sunny,15.23,No,No
+1028,Soup,Hot,04/01/2023,10:30,Raining,10.422,No,No
+1018,Tea,Hot,30/03/2023,18:00,Raining,13.581,No,No
+1098,Ice Cream,Cold,23/03/2023,17:00,Sunny,16.84,No,No
+1003,,Cold,27/02/2023,10:00,Sunny,13.15,No,No
+1005,Coffee,Hot,16/02/2023,20:00,Raining,16.848,No,No
+1087,Smoothie,Cold,09/04/2023,22:30,Sunny,16.14,Yes,No
+1016,Ice Cream,Cold,28/03/2023,20:00,Sunny,6.59,No,No
+1025,Smoothie,Cold,03/02/2023,14:00,Sunny,11.69,No,No
+1065,Smoothie,Cold,01/03/2023,11:30,Sunny,10.17,No,No
+1075,Smoothie,Cold,03/03/2023,13:00,Sunny,6.74,No,No
+1075,Smoothie,Cold,03/03/2023,13:00,Sunny,6.74,No,No
+1027,Smoothie,Cold,04/04/2023,21:30,Sunny,12.82,No,No
+1096,Ice Cream,Cold,02/03/2023,17:30,Sunny,6.01,No,No
+1050,Smoothie,Cold,01/04/2023,15:30,Sunny,18.192,Yes,No
+1035,Ice Cream,Cold,05/04/2023,20:00,Sunny,13.4,No,No
+1027,Soup,Hot,01/03/2023,15:30,Raining,13.149,No,No
+1061,Tea,Hot,20/02/2023,19:00,Raining,12.492,No,No
+1085,Smoothie,Cold,01/01/2023,17:30,Sunny,16.392,Yes,No
+1052,Smoothie,Cold,10/03/2023,12:30,Sunny,10.728,No,Yes
+1028,Tea,Hot,04/03/2023,21:30,Raining,15.3036,Yes,No
+1095,Smoothie,Cold,15/01/2023,16:30,Sunny,20.652,Yes,No
+1046,Smoothie,Cold,08/02/2023,11:00,Sunny,11.64,No,Yes
+1037,Ice Cream,Cold,09/02/2023,21:00,Sunny,11.27,No,No
+1064,Smoothie,Cold,15/03/2023,14:00,Sunny,13.32,No,No
+1025,Smoothie,Cold,06/02/2023,14:00,Sunny,17.98,No,No
+1022,Ice Cream,Cold,02/01/2023,17:30,Sunny,11.14,No,No
+1050,Soup,Hot,23/02/2023,18:30,Raining,12.132,No,No
+1004,Ice Cream,Cold,08/04/2023,20:30,Sunny,9.024,Yes,No
+1015,Coffee,Hot,14/03/2023,11:00,Raining,6.03,No,No
+1010,Smoothie,Cold,04/02/2023,10:00,Sunny,19.68,Yes,No
+1014,Coffee,Hot,11/03/2023,22:30,Raining,17.5716,Yes,Yes
+1053,Smoothie,Cold,05/01/2023,22:00,Sunny,11.59,No,No
+1034,Ice Cream,Cold,10/04/2023,15:00,Sunny,17.92,No,No
+1008,Smoothie,Cold,22/03/2023,21:30,Sunny,20.64,No,Yes
+1084,Smoothie,Cold,08/01/2023,11:30,Sunny,11.82,Yes,No
+1044,Smoothie,Cold,07/02/2023,13:30,Sunny,7.03,No,No
+1016,Smoothie,Cold,22/02/2023,11:00,Sunny,15.52,No,No
+1036,Coffee,Hot,01/02/2023,10:00,Raining,9.801,No,No
+1002,Ice Cream,Cold,15/03/2023,19:30,Sunny,6.13,No,No
+1094,Ice Cream,Cold,09/04/2023,14:30,Sunny,14.184,Yes,No
+1066,Smoothie,Cold,11/02/2023,22:30,Sunny,19.152,Yes,No
+1012,Ice Cream,Cold,23/03/2023,20:30,Sunny,8.27,No,No
+1024,Ice Cream,Cold,28/01/2023,10:30,Sunny,15.852,Yes,No
+1061,Smoothie,Cold,14/03/2023,11:00,Sunny,5.69,No,No
+1015,Ice Cream,Cold,28/02/2023,15:30,Sunny,11.85,No,No
+1027,Coffee,Hot,24/02/2023,22:00,Raining,8.577,No,No
+1052,Ice Cream,Cold,05/02/2023,14:30,Sunny,17.964,Yes,No
+1039,Smoothie,Cold,22/01/2023,13:30,Sunny,13.728,Yes,No
+1061,Smoothie,Cold,01/04/2023,21:30,Sunny,16.692,Yes,No
+1009,Smoothie,Cold,29/03/2023,19:30,Sunny,19.82,No,No
+1097,Smoothie,Cold,30/03/2023,13:30,Sunny,15.96,No,No
+1028,Ice Cream,Cold,14/01/2023,12:30,Sunny,19.92,Yes,No
+1083,Coffee,Hot,18/01/2023,17:00,Raining,14.526,No,Yes
+1008,,Cold,25/03/2023,18:30,Sunny,22.56,Yes,No
+1082,Soup,Hot,29/03/2023,19:00,Raining,7.668,No,Yes
+1072,Ice Cream,Cold,17/03/2023,14:00,Sunny,16.87,No,No
+1072,Ice Cream,Cold,05/02/2023,10:30,Sunny,20.016,Yes,No
+1076,Soup,Hot,04/01/2023,14:00,Raining,11.493,No,No
+1099,Smoothie,Cold,25/01/2023,12:30,Sunny,12.42,No,No
+1062,Smoothie,Cold,31/01/2023,15:30,Sunny,23.76,No,Yes
+1051,Ice Cream,Cold,10/02/2023,13:30,Sunny,10.48,No,No
+1057,Smoothie,Cold,23/01/2023,10:30,Sunny,5.25,No,No
+1035,Ice Cream,Cold,02/01/2023,20:00,Sunny,12.6,No,No
+1038,Tea,Hot,02/04/2023,17:30,Raining,6.7392,Yes,No
+1034,Smoothie,Cold,10/03/2023,11:30,Sunny,15.204,No,Yes
+1058,Smoothie,Cold,20/01/2023,11:30,Sunny,9.65,No,No
+1048,Soup,Hot,04/04/2023,18:30,Raining,20.3796,No,Yes
+1007,Smoothie,Cold,28/02/2023,20:30,Sunny,6.79,No,No
+1079,Ice Cream,Cold,18/01/2023,20:00,Sunny,12.85,No,No
+1048,Ice Cream,Cold,03/04/2023,10:00,Sunny,19.188,No,Yes
+1034,Ice Cream,Cold,09/04/2023,21:30,Sunny,15.432,Yes,No
+1051,Ice Cream,Cold,02/04/2023,12:30,Sunny,15.192,Yes,Yes
+1089,Ice Cream,Cold,05/03/2023,14:30,Sunny,19.92,Yes,No
+1092,Coffee,Hot,15/03/2023,20:30,Raining,4.536,No,No
+1029,Smoothie,Cold,02/01/2023,19:30,Sunny,7.68,No,No
+1038,Coffee,Hot,05/01/2023,19:30,Raining,10.161,No,No
+1013,Soup,Hot,01/02/2023,19:00,Raining,12.213,No,No
+1004,Coffee,Hot,06/03/2023,16:30,Raining,21.2976,No,Yes
+1037,Tea,Hot,21/02/2023,18:00,Raining,8.919,No,No
+1094,Ice Cream,Cold,28/02/2023,13:00,Sunny,16.09,No,No
+1069,Smoothie,Cold,01/03/2023,18:00,Sunny,15.99,No,No
+1039,Ice Cream,Cold,08/04/2023,10:30,Sunny,6.432,Yes,Yes
+1042,Tea,Hot,14/02/2023,18:00,Raining,4.518,No,No
+1037,Soup,Hot,18/02/2023,12:30,Raining,13.986,Yes,No
+1016,Soup,Hot,23/02/2023,11:30,Raining,14.103,No,No
+1084,Ice Cream,Cold,06/01/2023,19:00,Sunny,15.51,No,No
+1096,Coffee,Hot,28/02/2023,13:30,Raining,6.3,No,No
+1038,Smoothie,Cold,20/02/2023,17:00,Sunny,10.26,No,Yes
+1095,Coffee,Hot,10/02/2023,19:00,Raining,8.901,No,No
+1046,Smoothie,Cold,04/02/2023,19:30,Sunny,8.796,Yes,No
+1035,Ice Cream,Cold,27/02/2023,18:00,Sunny,23.364,No,Yes
+1051,Smoothie,Cold,27/02/2023,21:00,Sunny,7.36,No,No
+1071,Soup,Hot,08/02/2023,21:00,Raining,15.786,No,No
+1066,Tea,Hot,19/01/2023,12:30,Raining,11.43,No,No
+1018,Tea,Hot,08/02/2023,17:00,Raining,19.2456,No,Yes
+1034,Smoothie,Cold,06/04/2023,13:30,Sunny,6.82,No,No
+1043,Ice Cream,Cold,10/04/2023,14:00,Sunny,15.29,No,No
+1085,Smoothie,Cold,24/03/2023,17:00,Sunny,5.33,No,No
+1034,Smoothie,Cold,26/01/2023,18:30,Sunny,18.58,No,No
+1093,Smoothie,Cold,12/02/2023,13:30,Sunny,22.632,Yes,No
+1021,Ice Cream,Cold,03/04/2023,14:00,Sunny,7.59,No,No
+1002,Smoothie,Cold,24/01/2023,22:30,Sunny,14.21,No,No
+1015,Ice Cream,Cold,01/02/2023,20:00,Sunny,5.91,No,No
+1015,Smoothie,Cold,19/02/2023,14:30,Sunny,17.352,Yes,No
+1073,Ice Cream,Cold,11/03/2023,20:30,Sunny,14.64,Yes,No
+1026,Tea,Hot,04/03/2023,20:30,Raining,9.7848,Yes,No
+1057,Ice Cream,Cold,10/02/2023,11:00,Sunny,5.88,No,No
+1011,Soup,Hot,09/03/2023,17:00,Raining,5.85,No,No
+1036,Smoothie,Cold,31/01/2023,20:00,Sunny,16.46,No,No
+1058,Tea,Hot,29/01/2023,17:30,Raining,20.5524,Yes,No
+1049,Ice Cream,Cold,23/01/2023,14:30,Sunny,18.71,No,No
+1088,Smoothie,Cold,01/04/2023,12:00,Sunny,16.14,Yes,No
+1000,Smoothie,Cold,05/03/2023,20:00,Sunny,7.008,Yes,No
+1058,Smoothie,Cold,29/01/2023,16:00,Sunny,20.52,Yes,Yes
+1026,Tea,Hot,02/04/2023,19:00,Raining,6.3612,Yes,No
+1008,Coffee,Hot,17/03/2023,17:30,Raining,16.119,No,No
+1038,,Hot,10/01/2023,20:30,Raining,5.868,No,No
+1035,Tea,Hot,11/02/2023,22:30,Raining,18.2304,Yes,No
+1038,Ice Cream,Cold,04/03/2023,11:00,Sunny,10.02,Yes,No
+1011,Smoothie,Cold,23/01/2023,14:30,Sunny,7.67,No,No
+1092,Smoothie,Cold,31/03/2023,18:00,Sunny,7.73,No,No
+1099,Ice Cream,Cold,20/03/2023,10:00,Sunny,8.532,No,Yes
+1040,Smoothie,Cold,10/01/2023,20:30,Sunny,17.32,No,No
+1018,Tea,Hot,23/03/2023,21:30,Raining,7.335,No,No
+1061,Smoothie,Cold,09/01/2023,21:00,Sunny,6.864,No,Yes
+1051,Tea,Hot,04/04/2023,14:00,Raining,16.407,No,No
+1047,Smoothie,Cold,11/03/2023,11:30,Sunny,8.928,Yes,No
+1003,Smoothie,Cold,05/01/2023,18:30,Sunny,6.11,No,No
+1027,Soup,Hot,18/02/2023,22:00,Raining,10.8756,Yes,No
+1094,Smoothie,Cold,03/03/2023,17:30,Sunny,14.11,No,No
+1057,Smoothie,Cold,21/01/2023,16:30,Sunny,13.368,Yes,No
+1045,Tea,Hot,03/04/2023,17:00,Raining,8.514,No,No
+1052,Smoothie,Cold,07/01/2023,14:00,Sunny,6.984,Yes,No
+1071,Ice Cream,Cold,24/02/2023,13:00,Sunny,8,No,No
+1057,Ice Cream,Cold,27/01/2023,19:00,Sunny,17.66,No,No
+1024,Smoothie,Cold,20/02/2023,20:30,Sunny,14.63,No,No
+1031,Tea,Hot,24/01/2023,21:30,Raining,5.103,No,No
+1069,Smoothie,Cold,01/03/2023,21:30,Sunny,7.27,No,No
+1032,Ice Cream,Cold,27/03/2023,17:30,Sunny,19.56,No,No
+1011,Ice Cream,Cold,30/01/2023,19:30,Sunny,19.48,No,No
+1060,Soup,Hot,02/03/2023,12:30,Raining,9.828,No,No
+1051,Smoothie,Cold,02/04/2023,14:30,Sunny,8.16,Yes,No
+1012,Soup,Hot,27/02/2023,12:30,Raining,18.5004,No,Yes
+1033,Smoothie,Cold,06/01/2023,16:30,Sunny,19.96,No,No
+1056,Smoothie,Cold,19/01/2023,16:00,Sunny,6.31,No,No
+1034,Ice Cream,Cold,20/02/2023,13:30,Sunny,18.76,No,No
+1023,Smoothie,Cold,31/03/2023,13:30,Sunny,11.22,No,No
+1008,Smoothie,Cold,14/03/2023,20:30,Sunny,18.87,No,No
+1073,Tea,Hot,10/04/2023,19:00,Raining,16.353,No,No
+1032,Smoothie,Cold,19/02/2023,11:00,Sunny,9.096,Yes,No
+1025,Smoothie,Cold,19/01/2023,10:30,Sunny,10.94,No,No
+1022,Ice Cream,Cold,12/02/2023,12:30,Sunny,22.152,Yes,No
+1001,Tea,Hot,13/02/2023,20:30,Raining,16.083,No,No
+1091,Coffee,Hot,13/01/2023,15:30,Raining,12.582,No,Yes
+1011,Soup,Hot,11/02/2023,13:00,Raining,8.4456,Yes,No
+1011,Ice Cream,Cold,22/02/2023,13:30,Sunny,17.32,No,No
+1099,Smoothie,Cold,21/01/2023,16:30,Sunny,20.052,Yes,No
+1068,Smoothie,Cold,14/03/2023,19:00,Sunny,17.55,No,No
+1069,Smoothie,Cold,05/01/2023,15:30,Sunny,9.11,No,No
+1002,Smoothie,Cold,01/03/2023,10:30,Sunny,8.63,No,No
+1075,Ice Cream,Cold,18/03/2023,10:00,Sunny,12.192,Yes,No
+1013,Soup,Hot,03/02/2023,13:00,Raining,11.664,No,Yes
+1042,Coffee,Hot,15/03/2023,16:30,Raining,7.542,No,No
+1087,Smoothie,Cold,04/02/2023,14:30,Sunny,14.532,Yes,Yes
+1036,Ice Cream,Cold,24/03/2023,12:30,Sunny,16.956,No,Yes
+1077,Tea,Hot,09/02/2023,16:00,Raining,16.587,No,No
+1062,Ice Cream,Cold,14/02/2023,16:30,Sunny,13.77,No,No
+1086,Coffee,Hot,07/03/2023,15:30,Raining,13.239,No,No
+1075,Ice Cream,Cold,06/02/2023,22:30,Sunny,19.83,No,No
+1017,Ice Cream,Cold,11/02/2023,12:00,Sunny,9.396,Yes,No
+1051,Coffee,Hot,08/04/2023,18:00,Raining,11.9448,Yes,No
+1067,Tea,Hot,29/03/2023,14:00,Raining,8.001,No,No
+1075,Coffee,Hot,21/02/2023,21:30,Raining,15.516,No,No
+1020,Ice Cream,Cold,03/04/2023,10:00,Sunny,18.6,No,No
+1060,Smoothie,Cold,15/02/2023,21:30,Sunny,11.292,No,Yes
+1008,Smoothie,Cold,17/01/2023,13:30,Sunny,19.2,No,No
+1020,Ice Cream,Cold,12/02/2023,11:00,Sunny,13.572,Yes,No
+1003,Smoothie,Cold,12/02/2023,17:00,Sunny,14.472,Yes,No
+1016,Ice Cream,Cold,23/03/2023,10:30,Sunny,18.34,No,No
+1061,Ice Cream,Cold,16/01/2023,21:00,Sunny,5.81,No,No
+1051,Coffee,Hot,20/01/2023,14:30,Raining,16.551,No,No
+1015,Soup,Hot,19/01/2023,15:00,Raining,13.2948,No,Yes
+1057,Ice Cream,Cold,23/01/2023,12:30,Sunny,9.768,No,Yes
+1048,Soup,Hot,22/01/2023,21:30,Raining,7.4952,Yes,No
+1057,Ice Cream,Cold,23/03/2023,11:00,Sunny,5.07,No,No
+1023,Ice Cream,Cold,26/01/2023,16:00,Sunny,19.62,No,Yes
+1031,Smoothie,Cold,25/01/2023,22:30,Sunny,8.39,No,No
+1042,Ice Cream,Cold,14/02/2023,11:30,Sunny,7.51,No,No
+1002,Coffee,Hot,06/01/2023,22:30,Raining,12.555,No,No
+1050,Ice Cream,Cold,25/02/2023,14:30,Sunny,12.468,Yes,Yes
+1000,Soup,Hot,22/01/2023,22:30,Raining,9.1044,Yes,No
+1074,Soup,Hot,17/01/2023,13:30,Raining,6.165,No,No
+1098,Ice Cream,Cold,25/03/2023,20:30,Sunny,19.884,Yes,No
+1099,Coffee,Hot,07/01/2023,20:30,Raining,18.9432,Yes,No
+1038,Ice Cream,Cold,30/03/2023,16:30,Sunny,12.12,No,No
+1076,Ice Cream,Cold,27/01/2023,16:30,Sunny,17.904,No,Yes
+1016,Ice Cream,Cold,08/03/2023,22:30,Sunny,17.46,No,No
+1064,Smoothie,Cold,07/03/2023,17:30,Sunny,12.47,No,No
+1075,Smoothie,Cold,26/01/2023,15:30,Sunny,10.37,No,No
+1006,Smoothie,Cold,07/02/2023,22:00,Sunny,15.32,No,No
+1015,Smoothie,Cold,12/02/2023,20:00,Sunny,21.036,Yes,No
+1030,Soup,Hot,05/03/2023,20:00,Raining,17.118,Yes,No
+1040,Ice Cream,Cold,02/02/2023,17:00,Sunny,8.96,No,No
+1003,Ice Cream,Cold,13/01/2023,17:30,Sunny,12.48,No,Yes
+1018,Soup,Hot,10/02/2023,13:30,Raining,5.562,No,Yes
+1064,Ice Cream,Cold,26/03/2023,20:00,Sunny,23.196,Yes,No
+1000,Smoothie,Cold,04/04/2023,14:30,Sunny,11.01,No,No
+1016,Tea,Hot,28/02/2023,11:30,Raining,15.3,No,No
+1039,Smoothie,Cold,22/01/2023,13:00,Sunny,7.872,Yes,No
+1089,Soup,Hot,17/03/2023,11:30,Raining,12.753,No,No
+1088,Smoothie,Cold,15/02/2023,20:30,Sunny,12.25,No,No
+1066,Ice Cream,Cold,15/01/2023,22:00,Sunny,17.784,Yes,Yes
+1023,,Cold,01/04/2023,15:00,Sunny,23.604,Yes,No
+1030,Smoothie,Cold,13/02/2023,15:30,Sunny,11.49,No,No
+1074,Ice Cream,Cold,01/02/2023,11:00,Sunny,7.23,No,No
+1064,Coffee,Hot,13/03/2023,22:30,Raining,20.5416,No,Yes
+1089,Ice Cream,Cold,02/03/2023,11:00,Sunny,11.772,No,Yes
+1047,Ice Cream,Cold,05/02/2023,11:00,Sunny,13.26,Yes,No
+1054,Smoothie,Cold,11/01/2023,16:30,Sunny,17.85,No,No
+1059,Soup,Hot,10/02/2023,10:30,Raining,5.886,No,No
+1044,Ice Cream,Cold,05/01/2023,14:00,Sunny,18.35,No,No
+1025,Ice Cream,Cold,27/01/2023,11:00,Sunny,17.38,No,No
+1091,Ice Cream,Cold,29/01/2023,21:00,Sunny,18.9,Yes,No
+1098,Smoothie,Cold,02/04/2023,19:30,Sunny,6.036,Yes,No
+1063,Tea,Hot,23/03/2023,20:30,Raining,13.977,No,No
+1006,Ice Cream,Cold,22/01/2023,22:30,Sunny,7.92,Yes,No
+1070,Smoothie,Cold,26/01/2023,18:30,Sunny,11.86,No,No
+1026,Smoothie,Cold,25/01/2023,22:30,Sunny,18.9,No,No
+1013,Ice Cream,Cold,28/03/2023,20:30,Sunny,14.88,No,No
+1063,Coffee,Hot,06/03/2023,16:00,Raining,6.1884,No,Yes
+1078,Smoothie,Cold,25/02/2023,13:00,Sunny,18.456,Yes,No
+1044,Ice Cream,Cold,04/04/2023,13:00,Sunny,12.56,No,No
+1066,Tea,Hot,23/02/2023,13:30,Raining,9.873,No,No
+1020,Coffee,Hot,07/02/2023,19:30,Raining,16.74,No,Yes
+1026,Tea,Hot,07/03/2023,17:00,Raining,14.112,No,No
+1078,Ice Cream,Cold,12/03/2023,19:30,Sunny,18.36,Yes,No
+1046,Soup,Hot,28/03/2023,13:30,Raining,11.304,No,No
+1062,Coffee,Hot,23/03/2023,15:00,Raining,10.989,No,No
+1035,Ice Cream,Cold,27/03/2023,18:30,Sunny,18.16,No,No
+1097,Smoothie,Cold,02/01/2023,13:30,Sunny,15.05,No,No
+1050,Coffee,Hot,04/02/2023,22:00,Raining,9.4608,Yes,No
+1074,Coffee,Hot,08/01/2023,12:30,Raining,5.9184,Yes,No
+1064,Smoothie,Cold,27/02/2023,19:00,Sunny,16.14,No,No
+1092,Ice Cream,Cold,19/02/2023,20:30,Sunny,18.468,Yes,No
+1072,Ice Cream,Cold,18/02/2023,13:00,Sunny,23.388,Yes,No
+1008,Ice Cream,Cold,02/01/2023,18:00,Sunny,17.45,No,No
+1089,Coffee,Hot,23/03/2023,17:30,Raining,11.88,No,No
+1018,Tea,Hot,26/01/2023,21:30,Raining,8.2728,No,Yes
+1057,Soup,Hot,10/01/2023,12:30,Raining,9.594,No,No
+1050,Ice Cream,Cold,05/02/2023,10:30,Sunny,6.096,Yes,Yes
+1054,Ice Cream,Cold,01/04/2023,21:30,Sunny,16.74,Yes,Yes
+1048,Coffee,Hot,22/03/2023,11:30,Raining,11.925,No,No
+1053,Smoothie,Cold,01/04/2023,15:30,Sunny,20.148,Yes,No
+1093,Smoothie,Cold,23/02/2023,22:30,Sunny,21.9,No,Yes
+1070,Ice Cream,Cold,12/02/2023,17:30,Sunny,23.94,Yes,No
+1002,Ice Cream,Cold,07/04/2023,11:00,Sunny,8.61,No,No
+1008,Ice Cream,Cold,20/03/2023,11:00,Sunny,10.72,No,No
+1002,Smoothie,Cold,15/01/2023,21:00,Sunny,22.404,Yes,No
+1033,Ice Cream,Cold,09/04/2023,17:00,Sunny,6.792,Yes,No
+1050,Smoothie,Cold,25/03/2023,15:00,Sunny,9.012,Yes,Yes
+1063,Smoothie,Cold,09/04/2023,19:00,Sunny,18.072,Yes,No
+1048,Smoothie,Cold,28/01/2023,16:30,Sunny,15.684,Yes,No
+1031,Smoothie,Cold,05/04/2023,10:00,Sunny,16.2,No,No
+1050,Soup,Hot,04/01/2023,16:30,Raining,6.2748,No,Yes
+1094,Ice Cream,Cold,02/02/2023,19:00,Sunny,11.11,No,No
+1095,Smoothie,Cold,22/03/2023,11:00,Sunny,15.624,No,Yes
+1075,Smoothie,Cold,03/04/2023,10:30,Sunny,15.51,No,No
+1053,Ice Cream,Cold,15/02/2023,16:30,Sunny,14.1,No,No
+1059,Smoothie,Cold,08/04/2023,19:00,Sunny,14.532,Yes,No
+1023,Coffee,Hot,29/01/2023,22:30,Raining,10.1736,Yes,No
+1094,Ice Cream,Cold,19/01/2023,22:30,Sunny,19.36,No,No
+1099,Smoothie,Cold,12/03/2023,20:00,Sunny,16.308,Yes,Yes
+1089,Coffee,Hot,10/03/2023,20:30,Raining,14.508,No,No
+1056,Smoothie,Cold,14/02/2023,13:30,Sunny,7.41,No,No
+1053,Smoothie,Cold,20/03/2023,16:00,Sunny,21.324,No,Yes
+1007,Smoothie,Cold,12/03/2023,22:00,Sunny,10.512,Yes,Yes
+1036,Smoothie,Cold,03/04/2023,20:30,Sunny,15.07,No,No
+1054,Ice Cream,Cold,13/01/2023,11:30,Sunny,12.29,No,No
+1016,Ice Cream,Cold,20/03/2023,16:30,Sunny,17.12,No,No
+1027,Smoothie,Cold,24/02/2023,12:30,Sunny,15.68,No,No
+1075,,Hot,25/02/2023,18:30,Raining,10.7676,Yes,Yes
+1000,Smoothie,Cold,01/03/2023,10:00,Sunny,7.64,No,No
+1060,Smoothie,Cold,11/01/2023,22:00,Sunny,8.95,No,No
+1003,Coffee,Hot,22/03/2023,18:00,Raining,13.023,No,No
+1061,Smoothie,Cold,16/03/2023,17:00,Sunny,13.27,No,No
+1066,Ice Cream,Cold,11/03/2023,22:00,Sunny,10.02,Yes,Yes
+1017,Coffee,Hot,17/03/2023,22:30,Raining,13.6728,No,Yes
+1008,Smoothie,Cold,16/02/2023,13:00,Sunny,16.36,No,No
+1046,Smoothie,Cold,27/02/2023,17:30,Sunny,16.04,No,No
+1062,Smoothie,Cold,15/02/2023,19:00,Sunny,8.97,No,No
+1067,Ice Cream,Cold,06/01/2023,21:30,Sunny,10.82,No,No
+1044,Ice Cream,Cold,28/02/2023,13:00,Sunny,6.55,No,No
+1012,Tea,Hot,08/03/2023,10:00,Raining,12.312,No,No
+1028,Smoothie,Cold,23/01/2023,13:30,Sunny,12.75,No,No
+1086,Ice Cream,Cold,29/01/2023,22:30,Sunny,14.76,Yes,No
+1060,Smoothie,Cold,19/03/2023,10:00,Sunny,10.14,Yes,Yes
+1068,Ice Cream,Cold,24/03/2023,20:30,Sunny,16.836,No,Yes
+1091,Smoothie,Cold,16/01/2023,21:00,Sunny,12.22,No,No
+1088,Ice Cream,Cold,03/03/2023,17:00,Sunny,5.34,No,No
+1002,Smoothie,Cold,17/01/2023,18:30,Sunny,22.032,No,Yes
+1026,Ice Cream,Cold,08/01/2023,11:00,Sunny,16.788,Yes,Yes
+1089,Tea,Hot,23/03/2023,11:00,Raining,17.289,No,No
+1080,Soup,Hot,27/02/2023,14:00,Raining,7.461,No,No
+1056,Soup,Hot,18/03/2023,10:00,Raining,15.498,Yes,No
+1093,Tea,Hot,03/02/2023,15:30,Raining,12.555,No,No
+1049,Smoothie,Cold,30/01/2023,14:30,Sunny,15.408,No,Yes
+1004,Smoothie,Cold,06/03/2023,22:30,Sunny,9.192,No,Yes
+1081,Smoothie,Cold,20/03/2023,11:00,Sunny,6.4,No,No
+1007,Ice Cream,Cold,17/01/2023,19:00,Sunny,12.83,No,No
+1098,Ice Cream,Cold,06/01/2023,14:30,Sunny,16.84,No,No
+1094,Coffee,Hot,14/02/2023,11:00,Raining,12.276,No,No
+1086,Smoothie,Cold,18/01/2023,14:30,Sunny,9.25,No,No
+1076,Smoothie,Cold,11/03/2023,22:30,Sunny,16.404,Yes,Yes
+1034,Ice Cream,Cold,08/03/2023,11:00,Sunny,11.13,No,No
+1070,Ice Cream,Cold,20/01/2023,13:30,Sunny,13.47,No,No
+1027,Ice Cream,Cold,05/02/2023,13:00,Sunny,9.216,Yes,No
+1089,Ice Cream,Cold,13/03/2023,11:00,Sunny,16.61,No,No
+1042,Coffee,Hot,05/04/2023,21:30,Raining,7.605,No,No
+1048,Ice Cream,Cold,31/03/2023,11:00,Sunny,16.79,No,No
+1073,Smoothie,Cold,12/03/2023,10:30,Sunny,13.008,Yes,No
+1034,Ice Cream,Cold,01/01/2023,18:00,Sunny,7.584,Yes,Yes
+1051,Ice Cream,Cold,29/01/2023,21:30,Sunny,22.752,Yes,Yes
+1092,Smoothie,Cold,20/03/2023,20:00,Sunny,19.19,No,No
+1038,Ice Cream,Cold,23/01/2023,18:00,Sunny,9.504,No,Yes
+1076,Smoothie,Cold,18/03/2023,12:30,Sunny,18.132,Yes,No
+1029,Ice Cream,Cold,31/01/2023,11:00,Sunny,20.04,No,Yes
+1003,Smoothie,Cold,27/03/2023,14:00,Sunny,16.05,No,No
+1049,Ice Cream,Cold,12/01/2023,17:30,Sunny,10.21,No,No
+1033,Ice Cream,Cold,05/02/2023,15:30,Sunny,16.344,Yes,Yes
+1095,Ice Cream,Cold,23/01/2023,11:00,Sunny,10.1,No,No
+1034,Ice Cream,Cold,07/03/2023,11:30,Sunny,15.41,No,No
+1024,Ice Cream,Cold,18/02/2023,19:30,Sunny,23.304,Yes,No
+1012,Tea,Hot,29/03/2023,14:30,Raining,6.066,No,No
+1035,Coffee,Hot,18/02/2023,10:00,Raining,9.126,Yes,No
+1060,Ice Cream,Cold,22/02/2023,19:00,Sunny,8.72,No,No
+1084,Coffee,Hot,21/02/2023,16:30,Raining,17.073,No,No
+1033,Smoothie,Cold,10/02/2023,17:30,Sunny,19.21,No,No
+1057,Soup,Hot,25/01/2023,18:30,Raining,16.281,No,No
+1087,Tea,Hot,30/01/2023,22:00,Raining,6.606,No,No
+1070,Ice Cream,Cold,16/01/2023,15:30,Sunny,14.21,No,No
+1024,Ice Cream,Cold,11/03/2023,16:30,Sunny,14.868,Yes,No
+1079,Ice Cream,Cold,15/03/2023,15:00,Sunny,13.164,No,Yes
+1016,Ice Cream,Cold,15/03/2023,10:00,Sunny,19.09,No,No
+1091,Smoothie,Cold,06/03/2023,17:00,Sunny,11.86,No,No
+1040,Smoothie,Cold,31/03/2023,20:00,Sunny,15.11,No,No
+1017,Ice Cream,Cold,16/03/2023,19:00,Sunny,7.81,No,No
+1051,Ice Cream,Cold,31/01/2023,13:00,Sunny,7.76,No,No
+1031,Tea,Hot,27/01/2023,14:00,Raining,8.271,No,No
+1083,Soup,Hot,15/03/2023,17:30,Raining,14.229,No,No
+1016,Smoothie,Cold,31/01/2023,21:30,Sunny,17,No,No
+1089,Tea,Hot,20/01/2023,13:30,Raining,7.5816,No,Yes
+1026,Ice Cream,Cold,22/03/2023,15:30,Sunny,9.5,No,No
+1025,Smoothie,Cold,14/03/2023,13:00,Sunny,8.23,No,No
+1058,Ice Cream,Cold,02/03/2023,15:00,Sunny,8.9,No,No
+1029,Soup,Hot,13/03/2023,14:00,Raining,10.062,No,No
+1047,Smoothie,Cold,28/03/2023,17:30,Sunny,19.69,No,No
+1047,Ice Cream,Cold,15/02/2023,22:00,Sunny,18.34,No,No
+1094,Smoothie,Cold,20/03/2023,15:30,Sunny,14.61,No,No
+1080,Smoothie,Cold,13/02/2023,12:00,Sunny,6.19,No,No
+1020,Ice Cream,Cold,30/01/2023,12:00,Sunny,14.08,No,No
+1016,Ice Cream,Cold,04/02/2023,22:00,Sunny,19.464,Yes,No
+1057,Smoothie,Cold,27/02/2023,17:30,Sunny,15.92,No,No
+1085,Soup,Hot,02/02/2023,21:30,Raining,6.75,No,No
+1014,Soup,Hot,13/01/2023,22:30,Raining,4.86,No,No
+1008,Coffee,Hot,09/03/2023,20:00,Raining,7.9164,No,Yes
+1004,Ice Cream,Cold,19/02/2023,17:00,Sunny,17.28,Yes,No
+1087,Ice Cream,Cold,09/03/2023,13:00,Sunny,21.492,No,Yes
+1007,Tea,Hot,02/03/2023,20:30,Raining,11.907,No,No
+1085,,Cold,31/03/2023,13:30,Sunny,12.85,No,No
+1074,Soup,Hot,10/03/2023,19:00,Raining,15.363,No,No
+1053,Smoothie,Cold,09/02/2023,15:30,Sunny,6,No,Yes
+1031,Smoothie,Cold,08/04/2023,14:00,Sunny,18.384,Yes,No
+1050,Ice Cream,Cold,07/04/2023,11:00,Sunny,13.96,No,No
+1002,Ice Cream,Cold,01/01/2023,21:30,Sunny,13.104,Yes,No
+1028,Smoothie,Cold,02/04/2023,16:30,Sunny,10.728,Yes,No
+1097,Ice Cream,Cold,22/03/2023,21:30,Sunny,9.27,No,No
+1049,Smoothie,Cold,10/03/2023,12:00,Sunny,9.288,No,Yes
+1008,Ice Cream,Cold,15/01/2023,21:00,Sunny,9.384,Yes,No
+1037,Soup,Hot,20/01/2023,16:30,Raining,9.9684,No,Yes
+1011,Soup,Hot,02/04/2023,17:00,Raining,5.6376,Yes,No
+1058,Ice Cream,Cold,13/02/2023,12:00,Sunny,11.96,No,No
+1091,Smoothie,Cold,05/01/2023,19:00,Sunny,5.84,No,No
+1084,Ice Cream,Cold,20/02/2023,22:30,Sunny,20.712,No,Yes
+1004,Tea,Hot,02/01/2023,13:00,Raining,14.913,No,No
+1059,Coffee,Hot,01/02/2023,18:00,Raining,17.8848,No,Yes
+1057,Ice Cream,Cold,27/03/2023,22:00,Sunny,19.04,No,No
+1003,Smoothie,Cold,22/03/2023,19:30,Sunny,8.8,No,No
+1092,Smoothie,Cold,08/02/2023,20:00,Sunny,23.52,No,Yes
+1074,Ice Cream,Cold,23/03/2023,14:00,Sunny,16.524,No,Yes
+1032,Coffee,Hot,01/02/2023,18:00,Raining,10.917,No,No
+1016,Tea,Hot,20/01/2023,17:00,Raining,5.733,No,No
+1098,Soup,Hot,13/02/2023,10:00,Raining,5.31,No,No
+1016,Ice Cream,Cold,20/01/2023,20:00,Sunny,10.188,No,Yes
+1080,Smoothie,Cold,24/03/2023,11:30,Sunny,5.32,No,No
+1032,Ice Cream,Cold,15/02/2023,21:00,Sunny,15.6,No,No
+1089,Smoothie,Cold,07/02/2023,20:00,Sunny,15.78,No,Yes
+1047,Smoothie,Cold,04/04/2023,16:00,Sunny,6.03,No,No
+1062,Tea,Hot,27/02/2023,16:00,Raining,4.509,No,No
+1092,Coffee,Hot,06/03/2023,17:30,Raining,16.065,No,No
+1084,Ice Cream,Cold,21/03/2023,15:30,Sunny,9.42,No,Yes
+1057,Ice Cream,Cold,05/03/2023,19:30,Sunny,13.38,Yes,No
+1013,Smoothie,Cold,15/01/2023,16:30,Sunny,9.216,Yes,Yes
+1041,Ice Cream,Cold,26/01/2023,11:00,Sunny,17.844,No,Yes
+1015,Smoothie,Cold,21/03/2023,20:00,Sunny,16.908,No,Yes
+1001,Soup,Hot,02/01/2023,13:00,Raining,10.818,No,No
+1074,Ice Cream,Cold,08/01/2023,15:00,Sunny,20.796,Yes,No
+1094,Soup,Hot,01/04/2023,19:30,Raining,17.2908,Yes,No
+1022,Soup,Hot,08/02/2023,18:00,Raining,5.868,No,No
+1031,Smoothie,Cold,10/03/2023,15:00,Sunny,13.55,No,No
+1058,Soup,Hot,23/01/2023,19:00,Raining,14.841,No,No
+1023,Smoothie,Cold,15/02/2023,20:30,Sunny,7.5,No,No
+1083,Ice Cream,Cold,12/03/2023,17:30,Sunny,22.8,Yes,No
+1091,Tea,Hot,10/02/2023,13:30,Raining,10.071,No,No
+1013,Coffee,Hot,25/02/2023,15:00,Raining,14.2344,Yes,No
+1031,Tea,Hot,09/04/2023,13:30,Raining,12.6468,Yes,No
+1008,Smoothie,Cold,01/01/2023,17:00,Sunny,15.312,Yes,No
+1066,Ice Cream,Cold,08/02/2023,10:00,Sunny,5.33,No,No
+1033,Smoothie,Cold,30/03/2023,22:00,Sunny,6.41,No,No
+1018,Smoothie,Cold,15/02/2023,20:30,Sunny,8.49,No,No
+1076,Smoothie,Cold,08/02/2023,18:00,Sunny,16.01,No,No
+1002,Smoothie,Cold,11/02/2023,20:30,Sunny,16.716,Yes,No
+1074,Soup,Hot,05/01/2023,16:00,Raining,16.947,No,No
+1021,Soup,Hot,14/02/2023,11:30,Raining,16.245,No,No
+1001,Coffee,Hot,06/04/2023,16:30,Raining,14.994,No,No
+1053,Smoothie,Cold,07/01/2023,17:00,Sunny,11.88,Yes,No
+1037,Ice Cream,Cold,29/01/2023,19:00,Sunny,23.484,Yes,No
+1032,Ice Cream,Cold,18/03/2023,17:30,Sunny,20.16,Yes,No
+1008,Smoothie,Cold,17/01/2023,19:00,Sunny,13.22,No,No
+1070,Smoothie,Cold,11/01/2023,11:00,Sunny,16.43,No,No
+1015,Smoothie,Cold,13/03/2023,20:00,Sunny,13.42,No,No
+1007,Ice Cream,Cold,09/03/2023,14:30,Sunny,9.85,No,No
+1093,Ice Cream,Cold,15/03/2023,11:30,Sunny,10.22,No,No
+1032,Smoothie,Cold,14/02/2023,20:30,Sunny,19.81,No,No
+1015,Smoothie,Cold,26/02/2023,13:30,Sunny,9.6,Yes,Yes
+1062,Coffee,Hot,20/01/2023,17:30,Raining,6.2856,No,Yes
+1055,Ice Cream,Cold,21/03/2023,19:00,Sunny,5.21,No,No
+1062,Smoothie,Cold,15/01/2023,17:00,Sunny,19.32,Yes,Yes
+1011,Ice Cream,Cold,27/01/2023,15:30,Sunny,14.35,No,No
+1077,Smoothie,Cold,30/03/2023,22:00,Sunny,8.83,No,No
+1059,Soup,Hot,06/02/2023,19:00,Raining,10.773,No,No
+1001,Ice Cream,Cold,02/01/2023,19:30,Sunny,17.96,No,No
+1037,Tea,Hot,07/02/2023,21:00,Raining,11.367,No,No
+1074,Smoothie,Cold,13/01/2023,15:00,Sunny,7.8,No,No
+1061,Soup,Hot,28/02/2023,19:30,Raining,20.3364,No,Yes
+1098,Ice Cream,Cold,12/02/2023,16:00,Sunny,18.312,Yes,Yes
+1063,Ice Cream,Cold,22/03/2023,16:00,Sunny,17.18,No,No
+1022,Smoothie,Cold,02/02/2023,22:00,Sunny,19.16,No,No
+1055,Smoothie,Cold,05/02/2023,19:30,Sunny,7.584,Yes,No
+1053,Smoothie,Cold,08/03/2023,19:00,Sunny,11.26,No,No
+1020,Tea,Hot,20/01/2023,13:30,Raining,10.566,No,No
+1087,Smoothie,Cold,27/01/2023,16:30,Sunny,17.94,No,No
+1092,Tea,Hot,30/03/2023,16:30,Raining,17.946,No,No
+1085,Smoothie,Cold,09/04/2023,18:00,Sunny,11.712,Yes,No
+1086,Soup,Hot,10/03/2023,18:00,Raining,17.1828,No,Yes
+1065,Tea,Hot,10/02/2023,10:30,Raining,10.485,No,No
+1051,Soup,Hot,23/03/2023,18:00,Raining,7.128,No,Yes
+1088,Coffee,Hot,04/01/2023,17:00,Raining,12.159,No,No
+1031,Smoothie,Cold,18/03/2023,15:30,Sunny,18.384,Yes,Yes
+1095,Coffee,Hot,18/01/2023,13:00,Raining,9.549,No,No
+1062,Smoothie,Cold,19/02/2023,11:30,Sunny,6.576,Yes,Yes
+1024,Smoothie,Cold,02/01/2023,17:00,Sunny,16.37,No,No
+1077,Coffee,Hot,23/01/2023,18:30,Raining,11.115,No,No
+1019,Smoothie,Cold,28/02/2023,22:00,Sunny,14.12,No,No
+1049,Smoothie,Cold,18/02/2023,12:00,Sunny,15.372,Yes,No
+1093,Soup,Hot,28/02/2023,21:00,Raining,11.502,No,No
+1032,Smoothie,Cold,05/04/2023,21:00,Sunny,7.85,No,No
+1069,Ice Cream,Cold,20/02/2023,14:30,Sunny,7.5,No,No
+1002,Smoothie,Cold,20/03/2023,22:30,Sunny,11.95,No,No
+1006,Coffee,Hot,27/02/2023,11:00,Raining,20.5956,No,Yes
+1055,Smoothie,Cold,11/03/2023,16:30,Sunny,9.216,Yes,No
+1054,Ice Cream,Cold,02/04/2023,12:30,Sunny,11.832,Yes,No
+1039,Smoothie,Cold,02/04/2023,10:30,Sunny,8.052,Yes,No
+1005,Smoothie,Cold,23/03/2023,12:30,Sunny,10.68,No,No
+1024,Smoothie,Cold,06/01/2023,17:00,Sunny,7.43,No,No
+1089,Tea,Hot,23/01/2023,15:30,Raining,14.355,No,No
+1056,Smoothie,Cold,27/02/2023,12:00,Sunny,23.292,No,Yes
+1071,Ice Cream,Cold,21/03/2023,20:00,Sunny,13.15,No,No
+1020,Ice Cream,Cold,19/03/2023,22:00,Sunny,14.172,Yes,No
+1053,Ice Cream,Cold,11/01/2023,13:00,Sunny,14.3,No,No
+1086,Ice Cream,Cold,27/01/2023,16:30,Sunny,6.66,No,Yes
+1051,Ice Cream,Cold,05/01/2023,16:00,Sunny,18.81,No,No
+1017,Tea,Hot,14/01/2023,19:00,Raining,15.3036,Yes,Yes
+1091,Ice Cream,Cold,31/03/2023,21:30,Sunny,16.24,No,No
+1029,Tea,Hot,05/01/2023,14:30,Raining,15.57,No,No
+1045,Smoothie,Cold,24/02/2023,14:30,Sunny,6.83,No,No
+1050,Smoothie,Cold,05/02/2023,17:00,Sunny,17.016,Yes,No
+1087,Soup,Hot,15/03/2023,14:00,Raining,11.025,No,No
+1000,Tea,Hot,19/03/2023,14:30,Raining,15.2604,Yes,No
+1040,Smoothie,Cold,03/02/2023,22:00,Sunny,14.21,No,No
+1091,Smoothie,Cold,08/03/2023,21:30,Sunny,18.25,No,No
+1031,Soup,Hot,01/04/2023,21:00,Raining,12.9276,Yes,Yes
+1002,Tea,Hot,16/01/2023,18:00,Raining,10.089,No,No
+1085,Coffee,Hot,14/02/2023,14:00,Raining,7.218,No,No
+1059,Ice Cream,Cold,02/02/2023,12:00,Sunny,16.51,No,No
+1010,Smoothie,Cold,29/03/2023,12:00,Sunny,17.48,No,No
+1071,Ice Cream,Cold,12/02/2023,15:00,Sunny,20.352,Yes,No
+1006,Ice Cream,Cold,18/01/2023,11:00,Sunny,11.94,No,No
+1064,Tea,Hot,22/02/2023,16:30,Raining,12.123,No,No
+1038,Ice Cream,Cold,10/02/2023,21:30,Sunny,16.99,No,No
+1055,Soup,Hot,15/02/2023,16:30,Raining,9.081,No,No
+1031,Tea,Hot,22/03/2023,19:00,Raining,7.029,No,No
+1034,Soup,Hot,07/04/2023,21:00,Raining,8.163,No,No
+1047,Ice Cream,Cold,05/03/2023,20:00,Sunny,9.888,Yes,No
+1035,Smoothie,Cold,23/01/2023,22:30,Sunny,22.44,No,Yes
+1096,Soup,Hot,06/03/2023,18:00,Raining,7.065,No,No
+1055,Tea,Hot,03/03/2023,22:30,Raining,6.435,No,No
+1068,Soup,Hot,13/01/2023,12:00,Raining,7.272,No,No
+1061,Soup,Hot,28/02/2023,13:00,Raining,8.694,No,No
+1050,Ice Cream,Cold,29/03/2023,14:00,Sunny,22.008,No,Yes
+1014,Ice Cream,Cold,08/03/2023,19:30,Sunny,14.58,No,No
+1057,,Cold,11/02/2023,19:00,Sunny,19.908,Yes,No
+1060,Smoothie,Cold,16/01/2023,12:30,Sunny,19.37,No,No
+1007,Ice Cream,Cold,07/03/2023,19:00,Sunny,9.07,No,No
+1077,Smoothie,Cold,01/04/2023,18:00,Sunny,11.604,Yes,No
+1066,Ice Cream,Cold,13/02/2023,20:30,Sunny,22.26,No,Yes
+1003,Smoothie,Cold,14/01/2023,14:00,Sunny,18.684,Yes,No
+1095,Coffee,Hot,17/03/2023,11:00,Raining,9.297,No,No
+1058,Soup,Hot,26/01/2023,10:00,Raining,17.649,No,No
+1091,Ice Cream,Cold,08/04/2023,22:30,Sunny,7.752,Yes,Yes
+1017,Soup,Hot,29/03/2023,17:00,Raining,17.289,No,No
+1004,Coffee,Hot,20/03/2023,12:00,Raining,16.884,No,No
+1047,Smoothie,Cold,11/02/2023,20:30,Sunny,12.324,Yes,Yes
+1016,Soup,Hot,22/01/2023,20:00,Raining,13.6296,Yes,No
+1024,Smoothie,Cold,02/04/2023,10:30,Sunny,20.268,Yes,No
+1083,Smoothie,Cold,01/03/2023,17:30,Sunny,13.22,No,No
+1017,Ice Cream,Cold,03/03/2023,11:00,Sunny,16.76,No,No
+1057,Smoothie,Cold,14/03/2023,19:00,Sunny,14.94,No,No
+1017,Soup,Hot,05/04/2023,10:00,Raining,12.492,No,No
+1018,Ice Cream,Cold,11/02/2023,21:30,Sunny,23.208,Yes,No
+1003,Ice Cream,Cold,18/03/2023,13:00,Sunny,11.892,Yes,No
+1016,Smoothie,Cold,26/03/2023,11:00,Sunny,19.632,Yes,No
+1064,Ice Cream,Cold,20/01/2023,19:30,Sunny,7.93,No,No
+1012,Ice Cream,Cold,10/02/2023,17:00,Sunny,18.78,No,No
+1055,Soup,Hot,25/02/2023,11:00,Raining,14.8392,Yes,No
+1027,Soup,Hot,07/03/2023,14:30,Raining,9.486,No,No
+1043,Tea,Hot,07/01/2023,20:00,Raining,7.182,Yes,No
+1059,Ice Cream,Cold,04/01/2023,20:00,Sunny,15.68,No,No
+1024,Ice Cream,Cold,18/02/2023,11:00,Sunny,8.508,Yes,No
+1001,Soup,Hot,19/02/2023,14:30,Raining,10.0764,Yes,No
+1033,Smoothie,Cold,27/03/2023,17:00,Sunny,8.592,No,Yes
+1007,Smoothie,Cold,04/03/2023,13:30,Sunny,8.472,Yes,No
+1077,Ice Cream,Cold,23/02/2023,10:30,Sunny,14.35,No,No
+1054,Ice Cream,Cold,07/03/2023,21:30,Sunny,8.39,No,No
+1031,Smoothie,Cold,19/03/2023,11:00,Sunny,18.816,Yes,No
+1010,Smoothie,Cold,22/02/2023,19:00,Sunny,13.52,No,No
+1060,Smoothie,Cold,17/02/2023,13:00,Sunny,7.13,No,No
+1015,Tea,Hot,09/03/2023,14:30,Raining,11.475,No,No
+1000,Smoothie,Cold,20/03/2023,13:00,Sunny,15.26,No,No
+1060,Smoothie,Cold,16/03/2023,11:30,Sunny,12.03,No,No
+1022,Tea,Hot,02/03/2023,18:30,Raining,8.406,No,No
+1014,Ice Cream,Cold,30/03/2023,20:30,Sunny,5.92,No,No
+1000,Ice Cream,Cold,16/03/2023,18:30,Sunny,17.13,No,No
+1052,Smoothie,Cold,04/01/2023,15:30,Sunny,21.324,No,Yes
+1098,Ice Cream,Cold,02/02/2023,13:30,Sunny,5.21,No,No
+1087,Coffee,Hot,19/03/2023,11:00,Raining,12.636,Yes,No
+1000,Soup,Hot,23/01/2023,17:30,Raining,15.291,No,No
+1004,Coffee,Hot,05/01/2023,15:30,Raining,17.109,No,No
+1050,Soup,Hot,05/03/2023,17:30,Raining,16.1028,Yes,No
+1056,Ice Cream,Cold,23/03/2023,15:30,Sunny,5.81,No,No
+1032,Ice Cream,Cold,07/04/2023,22:30,Sunny,14.568,No,Yes
+1033,Tea,Hot,06/04/2023,18:00,Raining,13.725,No,No
+1022,Smoothie,Cold,02/03/2023,20:00,Sunny,9.33,No,No
+1052,Smoothie,Cold,27/02/2023,14:30,Sunny,6.46,No,No
+1090,Coffee,Hot,23/03/2023,17:30,Raining,16.092,No,No
+1029,Coffee,Hot,04/02/2023,22:00,Raining,11.7396,Yes,No
+1095,Smoothie,Cold,28/03/2023,19:00,Sunny,12.8,No,No
+1018,Smoothie,Cold,30/03/2023,18:30,Sunny,20.976,No,Yes
+1023,Ice Cream,Cold,22/02/2023,11:00,Sunny,8.29,No,No
+1000,Smoothie,Cold,02/02/2023,15:00,Sunny,19.08,No,No
+1036,Smoothie,Cold,28/01/2023,22:00,Sunny,7.56,Yes,Yes
+1099,Smoothie,Cold,17/01/2023,11:30,Sunny,18.44,No,No
+1055,Smoothie,Cold,24/01/2023,20:00,Sunny,14.58,No,No
+1085,Ice Cream,Cold,05/02/2023,15:30,Sunny,10.632,Yes,No
+1058,Tea,Hot,10/01/2023,18:30,Raining,17.946,No,No
+1066,Smoothie,Cold,03/02/2023,21:30,Sunny,14.15,No,No
+1027,Ice Cream,Cold,24/03/2023,11:30,Sunny,8.28,No,No
+1073,Smoothie,Cold,14/01/2023,14:00,Sunny,7.308,Yes,No
+1088,Tea,Hot,04/04/2023,17:00,Raining,7.8084,No,Yes
+1017,Smoothie,Cold,01/01/2023,18:00,Sunny,18.6,Yes,No
+1060,Ice Cream,Cold,20/02/2023,12:30,Sunny,12.17,No,No
+1098,Soup,Hot,04/04/2023,20:00,Raining,5.454,No,Yes
+1098,Coffee,Hot,30/03/2023,20:30,Raining,20.5524,No,Yes
+1091,Smoothie,Cold,12/02/2023,11:30,Sunny,12.576,Yes,Yes
+1097,Tea,Hot,13/02/2023,12:30,Raining,13.248,No,No
+1005,Tea,Hot,12/03/2023,21:00,Raining,16.6752,Yes,No
+1049,Ice Cream,Cold,14/01/2023,12:00,Sunny,19.236,Yes,No
+1046,Smoothie,Cold,05/01/2023,15:00,Sunny,12.34,No,No
+1007,Ice Cream,Cold,11/03/2023,21:30,Sunny,23.4,Yes,No
+1001,Smoothie,Cold,05/01/2023,11:00,Sunny,11.08,No,No
+1011,Smoothie,Cold,25/03/2023,16:00,Sunny,19.344,Yes,No
+1031,Soup,Hot,10/01/2023,12:30,Raining,10.863,No,No
+1026,Smoothie,Cold,21/03/2023,20:30,Sunny,7.58,No,No
+1003,Soup,Hot,09/02/2023,18:30,Raining,15.777,No,No
+1046,Smoothie,Cold,14/01/2023,11:30,Sunny,7.14,Yes,No
+1078,Coffee,Hot,24/02/2023,14:30,Raining,9.927,No,No
+1040,Smoothie,Cold,29/03/2023,17:30,Sunny,16.46,No,No
+1088,Ice Cream,Cold,23/01/2023,14:00,Sunny,7.52,No,No
+1094,Smoothie,Cold,12/03/2023,18:30,Sunny,8.4,Yes,No
+1091,Ice Cream,Cold,22/03/2023,18:30,Sunny,7.452,No,Yes
+1086,Ice Cream,Cold,23/01/2023,19:00,Sunny,11.24,No,No
+1072,Ice Cream,Cold,09/04/2023,21:30,Sunny,15.42,Yes,No
+1035,Smoothie,Cold,31/01/2023,13:00,Sunny,15.76,No,No
+1027,Tea,Hot,12/01/2023,12:30,Raining,4.563,No,No
+1074,Coffee,Hot,25/01/2023,20:00,Raining,9.387,No,No
+1081,Smoothie,Cold,11/03/2023,21:30,Sunny,10.98,Yes,No
+1071,Ice Cream,Cold,15/01/2023,10:30,Sunny,14.952,Yes,No
+1093,Ice Cream,Cold,27/03/2023,19:00,Sunny,8.14,No,No
+1092,Soup,Hot,12/02/2023,11:00,Raining,7.0956,Yes,No
+1059,Smoothie,Cold,10/03/2023,14:30,Sunny,7.272,No,Yes
+1054,Smoothie,Cold,03/04/2023,19:30,Sunny,16.21,No,No
+1050,Soup,Hot,11/02/2023,21:30,Raining,9.2448,Yes,No
+1044,Coffee,Hot,26/01/2023,11:30,Raining,13.2516,No,Yes
+1066,Smoothie,Cold,25/02/2023,18:00,Sunny,12.972,Yes,No
+1090,Ice Cream,Cold,28/02/2023,12:00,Sunny,8.03,No,No
+1032,Smoothie,Cold,05/01/2023,11:00,Sunny,17.77,No,No
+1012,Tea,Hot,23/02/2023,20:30,Raining,12.645,No,No
+1054,Smoothie,Cold,23/03/2023,10:30,Sunny,7.56,No,Yes
+1087,Tea,Hot,08/03/2023,17:00,Raining,15.795,No,No
+1006,Smoothie,Cold,02/01/2023,14:00,Sunny,9.91,No,No
+1048,Coffee,Hot,29/01/2023,22:30,Raining,19.9476,Yes,No
+1013,Coffee,Hot,06/01/2023,19:00,Raining,4.95,No,No
+1031,Soup,Hot,20/02/2023,21:00,Raining,10.611,No,No
+1068,Tea,Hot,11/01/2023,19:00,Raining,17.325,No,No
+1036,Smoothie,Cold,15/02/2023,16:00,Sunny,12.2,No,No
+1098,Smoothie,Cold,21/01/2023,20:30,Sunny,23.58,Yes,No
+1018,Tea,Hot,09/04/2023,21:30,Raining,15.552,Yes,No
+1044,Coffee,Hot,23/03/2023,10:30,Raining,10.7892,No,Yes
+1091,Coffee,Hot,07/02/2023,13:30,Raining,11.826,No,No
+1094,Ice Cream,Cold,27/01/2023,19:00,Sunny,16.04,No,No
+1089,Soup,Hot,07/03/2023,14:00,Raining,5.994,No,No
+1023,Smoothie,Cold,01/03/2023,10:30,Sunny,13.41,No,No
+1048,Soup,Hot,27/01/2023,21:30,Raining,13.266,No,No
+1035,Coffee,Hot,07/04/2023,20:30,Raining,14.769,No,No
+1032,Ice Cream,Cold,15/02/2023,15:30,Sunny,5.82,No,No
+1096,Smoothie,Cold,14/02/2023,19:30,Sunny,12.05,No,No
+1090,Ice Cream,Cold,28/03/2023,15:00,Sunny,17,No,No
+1025,Soup,Hot,30/03/2023,12:00,Raining,16.542,No,No
+1015,Smoothie,Cold,12/01/2023,12:30,Sunny,7.968,No,Yes
+1093,Smoothie,Cold,15/01/2023,12:30,Sunny,15.372,Yes,Yes
+1056,Smoothie,Cold,03/01/2023,16:30,Sunny,12.11,No,No
+1014,Smoothie,Cold,26/02/2023,18:00,Sunny,6.396,Yes,No
+1073,Tea,Hot,30/01/2023,16:00,Raining,12.312,No,No
+1028,Ice Cream,Cold,24/03/2023,15:00,Sunny,11.87,No,No
+1067,Tea,Hot,17/01/2023,15:30,Raining,9.072,No,Yes
+1059,Tea,Hot,06/02/2023,18:00,Raining,12.7872,No,Yes
+1031,Smoothie,Cold,21/03/2023,15:30,Sunny,19.6,No,No
+1074,Soup,Hot,01/04/2023,21:00,Raining,9.2556,Yes,No
+1054,Smoothie,Cold,10/02/2023,12:30,Sunny,8.08,No,No
+1079,Ice Cream,Cold,05/01/2023,11:00,Sunny,11.73,No,No
+1099,Ice Cream,Cold,21/01/2023,18:30,Sunny,22.764,Yes,No
+1029,Smoothie,Cold,19/01/2023,22:30,Sunny,19.55,No,No
+1039,Ice Cream,Cold,06/03/2023,17:30,Sunny,19.54,No,No
+1076,Ice Cream,Cold,15/03/2023,11:00,Sunny,10.08,No,No
+1062,Coffee,Hot,04/04/2023,21:00,Raining,7.29,No,Yes
+1075,Soup,Hot,21/02/2023,20:00,Raining,8.91,No,No
+1018,Ice Cream,Cold,24/03/2023,10:30,Sunny,7.94,No,No
+1099,Smoothie,Cold,10/03/2023,12:30,Sunny,19.64,No,No
+1089,Smoothie,Cold,25/01/2023,19:00,Sunny,18.63,No,No
+1092,Tea,Hot,20/02/2023,19:00,Raining,9.531,No,No
+1047,Smoothie,Cold,14/02/2023,16:00,Sunny,8.24,No,No
+1055,Tea,Hot,26/02/2023,22:00,Raining,8.0568,Yes,No
+1011,Coffee,Hot,24/02/2023,21:30,Raining,15.0876,No,Yes
+1004,Ice Cream,Cold,27/01/2023,17:00,Sunny,5.99,No,No
+1038,Ice Cream,Cold,17/03/2023,11:30,Sunny,13.464,No,Yes
+1034,Smoothie,Cold,01/03/2023,18:30,Sunny,7.79,No,No
+1094,Ice Cream,Cold,07/02/2023,19:30,Sunny,17.52,No,No
+1083,Soup,Hot,05/03/2023,19:30,Raining,7.8948,Yes,No
+1074,Ice Cream,Cold,23/03/2023,16:00,Sunny,13.512,No,Yes
+1050,Ice Cream,Cold,30/03/2023,10:30,Sunny,14.88,No,Yes
+1024,Coffee,Hot,09/01/2023,14:30,Raining,10.386,No,No
+1066,Smoothie,Cold,22/03/2023,19:30,Sunny,10.6,No,No
+1075,Soup,Hot,15/03/2023,12:00,Raining,7.7652,No,Yes
+1016,Ice Cream,Cold,30/03/2023,16:30,Sunny,13.548,No,Yes
+1089,Smoothie,Cold,15/02/2023,22:30,Sunny,12.71,No,No
+1009,Soup,Hot,22/03/2023,14:00,Raining,11.844,No,No
+1033,Tea,Hot,10/02/2023,21:00,Raining,13.752,No,No
+1038,Smoothie,Cold,16/02/2023,16:30,Sunny,5.19,No,No
+1094,Soup,Hot,06/02/2023,21:30,Raining,5.886,No,No
+1062,Coffee,Hot,06/03/2023,10:00,Raining,12.78,No,No
+1056,Smoothie,Cold,09/03/2023,17:00,Sunny,11.26,No,No
+1089,Tea,Hot,10/01/2023,21:00,Raining,9.198,No,No
+1076,Coffee,Hot,16/02/2023,12:00,Raining,11.565,No,No
+1024,Soup,Hot,13/02/2023,20:00,Raining,9.0072,No,Yes
+1087,Smoothie,Cold,30/03/2023,21:30,Sunny,6.95,No,No
+1089,Soup,Hot,24/02/2023,12:30,Raining,17.9496,No,Yes
+1012,Smoothie,Cold,25/02/2023,12:30,Sunny,14.448,Yes,Yes
+1000,Smoothie,Cold,02/02/2023,16:30,Sunny,16.74,No,No
+1025,Ice Cream,Cold,19/03/2023,22:30,Sunny,6.528,Yes,No
+1013,Ice Cream,Cold,06/04/2023,11:30,Sunny,7.41,No,No
+1061,Smoothie,Cold,10/04/2023,21:30,Sunny,6.49,No,No
+1098,Ice Cream,Cold,08/04/2023,22:00,Sunny,9.096,Yes,No
+1076,Soup,Hot,10/03/2023,20:00,Raining,20.3148,No,Yes
+1050,Ice Cream,Cold,01/04/2023,14:30,Sunny,18.12,Yes,No
+1070,Smoothie,Cold,24/01/2023,16:00,Sunny,12.71,No,No
+1012,Soup,Hot,15/01/2023,14:30,Raining,13.824,Yes,Yes
+1077,Soup,Hot,08/04/2023,15:00,Raining,6.7284,Yes,No
+1056,Ice Cream,Cold,15/01/2023,15:00,Sunny,18.372,Yes,No
+1037,Ice Cream,Cold,26/02/2023,15:30,Sunny,9.396,Yes,No
+1003,Ice Cream,Cold,02/03/2023,12:00,Sunny,18.096,No,Yes
+1032,Smoothie,Cold,26/02/2023,13:30,Sunny,13.104,Yes,Yes
+1024,Soup,Hot,17/03/2023,19:00,Raining,5.373,No,No
+1099,Ice Cream,Cold,26/01/2023,16:00,Sunny,6.84,No,No
+1065,Ice Cream,Cold,24/02/2023,16:00,Sunny,16.34,No,No
+1073,Ice Cream,Cold,24/03/2023,20:30,Sunny,19.81,No,No
+1093,Tea,Hot,05/02/2023,12:00,Raining,13.3272,Yes,Yes
+1031,Smoothie,Cold,22/03/2023,20:30,Sunny,20.94,No,Yes
+1046,Coffee,Hot,28/03/2023,18:30,Raining,8.91,No,No
+1037,Ice Cream,Cold,21/03/2023,13:30,Sunny,20.268,No,Yes
+1023,Ice Cream,Cold,07/02/2023,15:30,Sunny,17.14,No,No
+1050,Tea,Hot,11/03/2023,22:30,Raining,19.656,Yes,Yes
+1032,Ice Cream,Cold,19/02/2023,22:00,Sunny,6.648,Yes,No
+1027,Coffee,Hot,13/03/2023,16:30,Raining,6.714,No,No
+1062,Soup,Hot,18/01/2023,11:30,Raining,12.177,No,No
+1015,Ice Cream,Cold,26/03/2023,19:30,Sunny,16.116,Yes,No
+1051,Ice Cream,Cold,06/03/2023,21:30,Sunny,14.25,No,No
+1003,Smoothie,Cold,09/04/2023,11:30,Sunny,8.304,Yes,Yes
+1092,Coffee,Hot,14/02/2023,12:00,Raining,10.9296,No,Yes
+1023,Soup,Hot,24/02/2023,11:30,Raining,13.428,No,No
+1072,Smoothie,Cold,31/01/2023,17:30,Sunny,21.636,No,Yes
+1080,Ice Cream,Cold,13/02/2023,18:30,Sunny,14.87,No,No
+1097,Coffee,Hot,14/03/2023,11:30,Raining,10.845,No,No
+1059,Smoothie,Cold,10/02/2023,21:00,Sunny,17.12,No,No
+1059,Ice Cream,Cold,30/03/2023,21:00,Sunny,7.5,No,No
+1023,Smoothie,Cold,16/02/2023,14:00,Sunny,17.61,No,No
+1049,Ice Cream,Cold,28/01/2023,18:00,Sunny,20.484,Yes,No
+1052,Smoothie,Cold,06/04/2023,16:30,Sunny,13.88,No,No
+1049,Soup,Hot,09/01/2023,14:30,Raining,9.189,No,No
+1062,Ice Cream,Cold,25/03/2023,14:00,Sunny,17.94,Yes,No
+1053,Ice Cream,Cold,26/01/2023,14:30,Sunny,15.07,No,No
+1073,Smoothie,Cold,24/01/2023,13:00,Sunny,13.65,No,No
+1001,Tea,Hot,26/03/2023,20:00,Raining,20.5848,Yes,No
+1083,Coffee,Hot,20/03/2023,13:30,Raining,14.31,No,No
+1059,Smoothie,Cold,08/03/2023,19:00,Sunny,19.44,No,Yes
+1065,Smoothie,Cold,08/02/2023,21:00,Sunny,14.51,No,No
+1097,Tea,Hot,22/02/2023,22:00,Raining,13.77,No,No
+1074,Smoothie,Cold,21/02/2023,15:30,Sunny,20.352,No,Yes
+1017,Smoothie,Cold,01/03/2023,18:30,Sunny,8.03,No,No
+1049,Smoothie,Cold,18/01/2023,19:00,Sunny,14.66,No,No
+1063,Soup,Hot,03/04/2023,18:30,Raining,10.4868,No,Yes
+1032,Coffee,Hot,09/01/2023,11:30,Raining,13.374,No,No
+1086,Soup,Hot,20/02/2023,20:30,Raining,6.012,No,No
+1027,Ice Cream,Cold,06/03/2023,18:00,Sunny,12.45,No,No
+1086,Ice Cream,Cold,31/01/2023,11:00,Sunny,17.49,No,No
+1091,Tea,Hot,19/02/2023,22:00,Raining,8.9316,Yes,No
+1070,Tea,Hot,23/01/2023,13:00,Raining,16.146,No,No
+1052,Ice Cream,Cold,04/03/2023,18:30,Sunny,15.828,Yes,No
+1000,Soup,Hot,29/03/2023,14:30,Raining,9.396,No,No
+1017,Smoothie,Cold,17/02/2023,12:00,Sunny,17.62,No,No
+1016,Tea,Hot,07/01/2023,12:30,Raining,14.3532,Yes,No
+1092,Coffee,Hot,23/03/2023,18:30,Raining,6.147,No,No
+1016,Ice Cream,Cold,31/01/2023,21:00,Sunny,22.692,No,Yes
+1044,Smoothie,Cold,02/02/2023,22:30,Sunny,9.46,No,No
+1050,Ice Cream,Cold,21/01/2023,10:00,Sunny,20.208,Yes,No
+1022,Coffee,Hot,11/01/2023,22:00,Raining,10.071,No,No
+1037,Smoothie,Cold,12/02/2023,14:30,Sunny,20.844,Yes,No
+1005,Ice Cream,Cold,03/02/2023,21:30,Sunny,11.8,No,No
+1088,Ice Cream,Cold,08/04/2023,13:30,Sunny,20.244,Yes,Yes
+1090,Smoothie,Cold,01/01/2023,17:30,Sunny,7.992,Yes,No
+1069,Soup,Hot,08/03/2023,10:00,Raining,15.93,No,No
+1071,Coffee,Hot,22/02/2023,20:30,Raining,6.3,No,No
+1044,Soup,Hot,29/03/2023,20:00,Raining,5.643,No,No
+1045,Coffee,Hot,24/01/2023,14:00,Raining,7.533,No,No
+1058,Smoothie,Cold,03/01/2023,20:30,Sunny,18.6,No,No
+1017,Smoothie,Cold,01/03/2023,20:00,Sunny,11.02,No,No
+1024,Smoothie,Cold,18/03/2023,17:00,Sunny,23.052,Yes,No
+1034,Ice Cream,Cold,02/01/2023,11:00,Sunny,17.41,No,No
+1028,Tea,Hot,16/01/2023,10:00,Raining,10.0656,No,Yes
+1028,Smoothie,Cold,18/02/2023,12:30,Sunny,23.916,Yes,No
+1001,Smoothie,Cold,04/04/2023,15:00,Sunny,6.516,No,Yes
+1085,Ice Cream,Cold,03/02/2023,21:30,Sunny,,No,No
+1045,Ice Cream,Cold,28/02/2023,11:30,Sunny,23.544,No,Yes
+1042,Coffee,Hot,29/03/2023,15:30,Raining,12.564,No,No
+1053,Smoothie,Cold,13/01/2023,14:00,Sunny,12.06,No,No
+1034,Smoothie,Cold,19/03/2023,12:00,Sunny,6.096,Yes,No
+1089,Ice Cream,Cold,21/03/2023,15:30,Sunny,6.98,No,No
+1066,Ice Cream,Cold,13/03/2023,18:00,Sunny,18.95,No,No
+1042,Ice Cream,Cold,01/03/2023,13:30,Sunny,7.13,No,No
+1034,Tea,Hot,10/02/2023,20:00,Raining,14.598,No,No
+1047,Tea,Hot,25/02/2023,20:00,Raining,13.77,Yes,No
+1085,Soup,Hot,22/01/2023,15:00,Raining,14.4072,Yes,No
+1055,Soup,Hot,26/03/2023,18:00,Raining,6.2856,Yes,Yes
+1074,Ice Cream,Cold,05/01/2023,19:30,Sunny,6.74,No,No
+1031,Ice Cream,Cold,05/03/2023,19:00,Sunny,14.244,Yes,No
+1062,Smoothie,Cold,03/04/2023,15:30,Sunny,18.02,No,No
+1083,Smoothie,Cold,22/01/2023,19:00,Sunny,16.5,Yes,No
+1067,Soup,Hot,01/01/2023,22:00,Raining,9.3852,Yes,Yes
+1046,Coffee,Hot,28/03/2023,13:00,Raining,21.2976,No,Yes
+1027,Ice Cream,Cold,20/02/2023,20:30,Sunny,7.31,No,No
+1073,Coffee,Hot,28/02/2023,18:00,Raining,17.397,No,No
+1098,Ice Cream,Cold,26/03/2023,19:30,Sunny,11.844,Yes,Yes
+1071,Soup,Hot,04/04/2023,14:30,Raining,16.155,No,No
+1073,Smoothie,Cold,24/03/2023,20:00,Sunny,15.852,No,Yes
+1058,Ice Cream,Cold,18/02/2023,18:00,Sunny,7.608,Yes,Yes
+1062,Smoothie,Cold,27/01/2023,19:00,Sunny,6.81,No,No
+1015,Coffee,Hot,25/02/2023,11:00,Raining,15.174,Yes,No
+1091,Tea,Hot,27/03/2023,16:30,Raining,10.512,No,No
+1046,Ice Cream,Cold,02/03/2023,22:30,Sunny,17.16,No,No
+1094,Ice Cream,Cold,24/01/2023,14:00,Sunny,23.52,No,Yes
+1089,Ice Cream,Cold,29/01/2023,17:30,Sunny,15.492,Yes,Yes
+1045,Ice Cream,Cold,09/03/2023,19:30,Sunny,9.51,No,No
+1032,Ice Cream,Cold,29/03/2023,18:30,Sunny,9.43,No,No
+1072,Coffee,Hot,12/03/2023,18:00,Raining,12.2796,Yes,No
+1079,Tea,Hot,01/03/2023,21:00,Raining,7.938,No,No
+1073,Ice Cream,Cold,09/04/2023,19:30,Sunny,9.228,Yes,No
+1061,Ice Cream,Cold,20/02/2023,20:30,Sunny,9.71,No,No
+1015,Ice Cream,Cold,28/02/2023,17:30,Sunny,10.12,No,No
+1026,Ice Cream,Cold,24/01/2023,13:30,Sunny,18.07,No,No
+1088,Smoothie,Cold,25/02/2023,19:00,Sunny,9.096,Yes,No
+1095,Ice Cream,Cold,28/02/2023,11:00,Sunny,9.54,No,No
+1061,Ice Cream,Cold,20/03/2023,15:00,Sunny,17.07,No,No
+1014,Smoothie,Cold,17/01/2023,16:30,Sunny,18.528,No,Yes
+1000,Smoothie,Cold,04/01/2023,16:00,Sunny,13.848,No,Yes
+1015,Smoothie,Cold,10/03/2023,21:00,Sunny,12.11,No,No
+1059,Tea,Hot,15/01/2023,11:00,Raining,21.0168,Yes,No
+1008,Ice Cream,Cold,03/01/2023,10:30,Sunny,13.54,No,No
+1046,Ice Cream,Cold,20/02/2023,19:30,Sunny,23.628,No,Yes
+1029,Ice Cream,Cold,05/03/2023,16:30,Sunny,6.672,Yes,No
+1038,Ice Cream,Cold,04/03/2023,10:00,Sunny,10.176,Yes,No
+1070,Smoothie,Cold,09/03/2023,11:00,Sunny,9.02,No,No
+1012,Ice Cream,Cold,23/02/2023,22:00,Sunny,11.72,No,No
+1085,Ice Cream,Cold,03/01/2023,10:30,Sunny,13.884,No,Yes
+1084,Coffee,Hot,29/01/2023,19:30,Raining,,Yes,No
+1017,Ice Cream,Cold,26/03/2023,16:00,Sunny,23.28,Yes,No
+1046,Soup,Hot,28/03/2023,16:30,Raining,12.897,No,No
+1001,Smoothie,Cold,30/03/2023,19:00,Sunny,7.99,No,No
+1011,Tea,Hot,04/03/2023,19:00,Raining,10.314,Yes,No
+1057,Tea,Hot,13/03/2023,13:00,Raining,,No,No
+1003,Soup,Hot,23/01/2023,14:00,Raining,9.063,No,No
+1010,Ice Cream,Cold,21/03/2023,16:00,Sunny,19.9,No,No
+1032,Ice Cream,Cold,15/02/2023,15:30,Sunny,18.44,No,No
+1097,Smoothie,Cold,30/03/2023,15:30,Sunny,18.9,No,No
+1051,Soup,Hot,28/02/2023,20:00,Raining,18.0576,No,Yes
+1008,Smoothie,Cold,14/01/2023,14:00,Sunny,17.34,Yes,No
+1087,Ice Cream,Cold,27/01/2023,10:30,Sunny,16.43,No,No
+1046,Ice Cream,Cold,04/04/2023,21:00,Sunny,17.29,No,No
+1006,Soup,Hot,26/01/2023,17:30,Raining,7.812,No,No
+1050,Ice Cream,Cold,02/03/2023,20:00,Sunny,12.708,No,Yes
+1076,Ice Cream,Cold,23/02/2023,15:00,Sunny,16.81,No,No
+1064,Coffee,Hot,24/02/2023,17:30,Raining,15.228,No,No
+1045,Smoothie,Cold,04/01/2023,19:00,Sunny,7.524,No,Yes
+1079,Smoothie,Cold,21/02/2023,11:30,Sunny,17.88,No,Yes
+1075,Ice Cream,Cold,20/01/2023,18:30,Sunny,11.29,No,No
+1003,Ice Cream,Cold,29/03/2023,12:00,Sunny,18.64,No,No
+1074,Ice Cream,Cold,05/02/2023,21:30,Sunny,14.028,Yes,No
+1095,Coffee,Hot,11/03/2023,22:00,Raining,10.9944,Yes,No
+1003,Soup,Hot,25/03/2023,11:00,Raining,5.994,Yes,No
+1021,Coffee,Hot,19/02/2023,16:00,Raining,,Yes,No
+1000,Ice Cream,Cold,28/01/2023,14:30,Sunny,19.632,Yes,No
+1093,Tea,Hot,03/01/2023,20:30,Raining,7.758,No,No
+1048,Smoothie,Cold,08/02/2023,17:00,Sunny,17.62,No,No
+1018,Smoothie,Cold,22/03/2023,21:30,Sunny,14.076,No,Yes
+1020,Smoothie,Cold,05/04/2023,19:30,Sunny,10.26,No,No
+1047,Soup,Hot,27/03/2023,14:30,Raining,14.148,No,No
+1018,Smoothie,Cold,05/04/2023,13:30,Sunny,17.34,No,No
+1092,Ice Cream,Cold,28/02/2023,11:00,Sunny,6.23,No,No
+1043,Smoothie,Cold,24/02/2023,14:30,Sunny,10.54,No,No
+1015,Ice Cream,Cold,21/02/2023,20:30,Sunny,13.76,No,No
+1034,Ice Cream,Cold,24/02/2023,21:30,Sunny,17.36,No,No
+1004,Smoothie,Cold,06/03/2023,22:00,Sunny,15.42,No,No
+1039,Tea,Hot,02/03/2023,11:00,Raining,16.947,No,No
+1032,Ice Cream,Cold,19/03/2023,11:00,Sunny,6.72,Yes,Yes
+1076,Ice Cream,Cold,16/01/2023,17:00,Sunny,12.29,No,No
+1091,Tea,Hot,19/01/2023,21:30,Raining,16.506,No,No
+1055,Coffee,Hot,24/01/2023,17:30,Raining,,No,Yes
+1087,Ice Cream,Cold,06/01/2023,22:00,Sunny,18.5,No,No
+1026,Soup,Hot,18/02/2023,14:30,Raining,17.7444,Yes,No
+1089,,Hot,23/03/2023,14:30,Raining,16.2,No,No
+1007,Ice Cream,Cold,12/01/2023,13:00,Sunny,8.49,No,No
+1016,Ice Cream,Cold,13/02/2023,20:30,Sunny,16.04,No,No
+1006,Ice Cream,Cold,12/01/2023,10:30,Sunny,16.104,No,Yes
+1072,Smoothie,Cold,24/03/2023,19:30,Sunny,19.36,No,No
+1095,Smoothie,Cold,25/01/2023,22:00,Sunny,14.87,No,No
+1090,Smoothie,Cold,24/01/2023,20:00,Sunny,17.45,No,No
+1074,Ice Cream,Cold,16/03/2023,16:30,Sunny,11.03,No,No
+1006,Soup,Hot,04/03/2023,12:00,Raining,12.1176,Yes,No
+1050,Smoothie,Cold,09/03/2023,17:30,Sunny,,No,Yes
+1011,Ice Cream,Cold,19/01/2023,14:00,Sunny,23.136,No,Yes
+1038,Smoothie,Cold,22/01/2023,15:00,Sunny,18.84,Yes,No
+1032,Ice Cream,Cold,19/02/2023,13:00,Sunny,10.644,Yes,No
+1086,Smoothie,Cold,16/01/2023,13:30,Sunny,12.39,No,No
