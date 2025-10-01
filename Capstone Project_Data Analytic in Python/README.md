@@ -32,7 +32,3 @@ Using a **Kaggle survey dataset (June 2025)**, the project examines how **work a
 - Exploratory data analysis  
 - Data visualization & interpretation of results
 
----
-
-## 🖼 Sample Visualization
-[📄 View Presentation (PDF)](Capstone Project_ Employee Well-Being and Work Flexibility in the Technology Industry (2025)_Lee Sze Ning (1).pdf)
