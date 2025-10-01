@@ -1,0 +1,594 @@
+Survey_ID,Survey_Date,Age,Gender,Region,Job_Role,Work_Arrangement,Salary_Range
+SURV009,2025-06-01,30,Female,South America,Software Engineer,Remote,$60K-80K
+SURV012,2025-06-01,64,Male,North America,Business Analyst,Remote,$40K-60K
+SURV013,2025-06-01,25,Female,Oceania,Data Scientist,Hybrid,$80K-100K
+SURV038,2025-06-01,42,Male,Europe,Customer Service Manager,Remote,$60K-80K
+SURV040,2025-06-01,29,Female,Africa,Sales Representative,Hybrid,$80K-100K
+SURV041,2025-06-01,31,Female,Africa,Product Manager,Hybrid,$100K-120K
+SURV048,2025-06-01,58,Male,Oceania,Project Manager,Hybrid,$80K-100K
+SURV051,2025-06-01,62,Female,Africa,DevOps Engineer,Remote,$100K-120K
+SURV052,2025-06-01,50,Male,South America,UX Designer,Onsite,$40K-60K
+SURV062,2025-06-01,31,Female,North America,Data Analyst,Remote,$80K-100K
+SURV064,2025-06-01,40,Male,North America,Business Analyst,Remote,$60K-80K
+SURV065,2025-06-01,39,Female,North America,Customer Service Manager,Hybrid,$60K-80K
+SURV068,2025-06-01,39,Male,Europe,Marketing Specialist,Hybrid,$60K-80K
+SURV069,2025-06-01,22,Male,Oceania,Sales Representative,Onsite,$60K-80K
+SURV074,2025-06-01,64,Female,Asia,Technical Writer,Remote,$60K-80K
+SURV078,2025-06-01,41,Female,Europe,Sales Representative,Hybrid,$120K+
+SURV079,2025-06-01,25,Female,South America,Customer Service Manager,Remote,$60K-80K
+SURV081,2025-06-01,58,Male,Oceania,Product Manager,Remote,$120K+
+SURV092,2025-06-01,59,Male,Africa,HR Manager,Remote,$80K-100K
+SURV097,2025-06-01,53,Female,Asia,DevOps Engineer,Remote,$100K-120K
+SURV100,2025-06-02,23,Male,Asia,Sales Representative,Remote,$40K-60K
+SURV104,2025-06-02,45,Male,Asia,Quality Assurance,Remote,$60K-80K
+SURV107,2025-06-02,63,Male,Europe,Account Manager,Remote,$60K-80K
+SURV113,2025-06-02,43,Male,Oceania,Product Manager,Onsite,$80K-100K
+SURV114,2025-06-02,45,Female,South America,Business Analyst,Onsite,$80K-100K
+SURV115,2025-06-02,47,Male,North America,Sales Representative,Remote,$40K-60K
+SURV118,2025-06-02,51,Female,North America,Business Analyst,Hybrid,$40K-60K
+SURV120,2025-06-02,62,Male,Europe,UX Designer,Hybrid,$60K-80K
+SURV124,2025-06-02,52,Male,Asia,Quality Assurance,Remote,$40K-60K
+SURV130,2025-06-02,23,Male,North America,Product Manager,Remote,$60K-80K
+SURV132,2025-06-02,25,Female,,Operations Manager,Remote,$40K-60K
+SURV133,2025-06-02,42,Female,Oceania,Business Analyst,Remote,$100K-120K
+SURV135,2025-06-02,26,Female,Asia,Project Manager,Hybrid,$80K-100K
+SURV138,2025-06-02,53,Female,South America,Executive Assistant,Hybrid,$120K+
+SURV139,2025-06-02,37,Non-binary,South America,Quality Assurance,Onsite,$80K-100K
+SURV142,2025-06-02,46,Male,Africa,Quality Assurance,Remote,$80K-100K
+SURV145,2025-06-02,49,Female,South America,Data Analyst,Hybrid,$60K-80K
+SURV148,2025-06-02,44,Female,Oceania,Operations Manager,Remote,$60K-80K
+SURV152,2025-06-02,47,Female,Europe,Social Media Manager,Hybrid,$80K-100K
+SURV158,2025-06-02,61,Female,Oceania,Financial Analyst,Remote,$80K-100K
+SURV161,2025-06-02,40,Male,Africa,Social Media Manager,Remote,$80K-100K
+SURV163,2025-06-02,55,Female,Africa,Quality Assurance,Hybrid,$80K-100K
+SURV164,2025-06-02,32,Male,Asia,Digital Marketing Specialist,Remote,$60K-80K
+SURV165,2025-06-02,57,Male,Oceania,DevOps Engineer,Hybrid,$120K+
+SURV187,2025-06-02,33,Male,Africa,Executive Assistant,Hybrid,$120K+
+SURV192,2025-06-02,47,Non-binary,Africa,HR Manager,Hybrid,$60K-80K
+SURV224,2025-06-03,32,Female,Europe,Quality Assurance,Remote,$40K-60K
+SURV225,2025-06-03,65,Female,Asia,Operations Manager,Hybrid,$80K-100K
+SURV236,2025-06-03,22,Male,Asia,Sales Representative,Remote,$60K-80K
+SURV245,2025-06-03,34,Male,Africa,Consultant,Hybrid,$60K-80K
+SURV250,2025-06-03,61,Male,Europe,Sales Representative,Hybrid,$60K-80K
+SURV257,2025-06-03,65,Male,Europe,Marketing Specialist,Hybrid,$80K-100K
+SURV258,2025-06-03,48,Female,South America,Product Manager,Remote,$100K-120K
+SURV264,2025-06-03,47,Male,Oceania,Social Media Manager,Onsite,$60K-80K
+SURV265,2025-06-03,47,Male,North America,HR Manager,Remote,$60K-80K
+SURV280,2025-06-03,41,Male,South America,Research Scientist,Remote,$40K-60K
+SURV282,2025-06-03,31,Female,Oceania,Data Analyst,Hybrid,$60K-80K
+SURV292,2025-06-03,24,Male,South America,Data Analyst,Hybrid,$120K+
+SURV303,2025-06-03,24,Female,Oceania,Quality Assurance,Remote,$40K-60K
+SURV307,2025-06-03,22,Female,Africa,Executive Assistant,Hybrid,$60K-80K
+SURV308,2025-06-03,64,Female,North America,Product Manager,Remote,$60K-80K
+SURV314,2025-06-03,22,Female,Europe,Content Writer,Onsite,$60K-80K
+SURV318,2025-06-03,28,Female,Oceania,Financial Analyst,Onsite,$60K-80K
+SURV325,2025-06-03,23,Female,Asia,Customer Service Manager,Hybrid,$60K-80K
+SURV332,2025-06-04,40,Female,Europe,UX Designer,Hybrid,$80K-100K
+SURV341,2025-06-04,51,Female,Asia,UX Designer,Hybrid,$80K-100K
+SURV358,2025-06-04,35,Female,Asia,Project Manager,Onsite,$80K-100K
+SURV380,2025-06-04,56,Male,Africa,Operations Manager,Hybrid,$40K-60K
+SURV389,2025-06-04,49,Female,Asia,Technical Writer,Hybrid,$40K-60K
+SURV391,2025-06-04,62,Female,Africa,IT Support,Hybrid,$100K-120K
+SURV410,2025-06-04,39,Female,South America,HR Manager,Hybrid,$60K-80K
+SURV411,2025-06-04,38,Male,Europe,IT Support,Onsite,$40K-60K
+SURV412,2025-06-04,53,Male,Europe,Data Analyst,Remote,$80K-100K
+SURV414,2025-06-04,40,Male,Africa,IT Support,Remote,$80K-100K
+SURV425,2025-06-04,32,Female,Africa,Customer Service Manager,Remote,$40K-60K
+SURV428,2025-06-04,47,Male,Asia,Project Manager,Remote,$100K-120K
+SURV434,2025-06-04,53,Male,,Quality Assurance,Hybrid,$80K-100K
+SURV438,2025-06-04,62,Male,South America,Quality Assurance,Hybrid,$80K-100K
+SURV446,2025-06-04,31,Female,North America,Technical Writer,Onsite,$60K-80K
+SURV451,2025-06-04,38,Female,Oceania,Project Manager,Hybrid,$60K-80K
+SURV455,2025-06-04,34,Female,Africa,Technical Writer,Remote,$60K-80K
+SURV468,2025-06-05,51,Female,South America,Quality Assurance,Hybrid,$120K+
+SURV474,2025-06-05,48,Male,North America,Account Manager,Hybrid,$100K-120K
+SURV479,2025-06-05,57,Male,South America,IT Support,Hybrid,$40K-60K
+SURV482,2025-06-05,56,Male,Europe,Sales Representative,Remote,$80K-100K
+SURV483,2025-06-05,33,Male,Oceania,Project Manager,Onsite,$100K-120K
+SURV485,2025-06-05,55,Female,South America,Product Manager,Remote,$60K-80K
+SURV486,2025-06-05,56,Male,South America,Technical Writer,Remote,$100K-120K
+SURV490,2025-06-05,49,Male,Asia,IT Support,Remote,$60K-80K
+SURV499,2025-06-05,34,Male,Africa,Digital Marketing Specialist,Hybrid,$80K-100K
+SURV503,2025-06-05,45,Non-binary,Oceania,Research Scientist,Remote,$120K+
+SURV504,2025-06-05,45,Male,Oceania,Account Manager,Onsite,$100K-120K
+SURV505,2025-06-05,49,Female,South America,HR Manager,Remote,$80K-100K
+SURV510,2025-06-05,64,Female,Africa,Digital Marketing Specialist,Remote,$60K-80K
+SURV517,2025-06-05,31,Male,North America,Account Manager,Hybrid,$60K-80K
+SURV518,2025-06-05,59,Male,Asia,Research Scientist,Onsite,$60K-80K
+SURV525,2025-06-05,38,Male,South America,UX Designer,Remote,$60K-80K
+SURV526,2025-06-05,47,Male,Oceania,Data Analyst,Hybrid,$60K-80K
+SURV528,2025-06-05,58,Male,South America,Account Manager,Hybrid,$100K-120K
+SURV529,2025-06-05,31,Female,South America,Sales Representative,Remote,$60K-80K
+SURV538,2025-06-05,58,Female,Oceania,Project Manager,Hybrid,$100K-120K
+SURV542,2025-06-05,57,Male,Africa,Content Writer,Hybrid,$80K-100K
+SURV544,2025-06-05,50,Female,Europe,Product Manager,Hybrid,$60K-80K
+SURV545,2025-06-05,61,Male,Asia,Content Writer,Hybrid,$40K-60K
+SURV549,2025-06-05,53,Male,North America,Technical Writer,Remote,$40K-60K
+SURV552,2025-06-05,40,Male,Europe,DevOps Engineer,Onsite,$100K-120K
+SURV563,2025-06-05,37,Male,South America,Data Scientist,Remote,$100K-120K
+SURV566,2025-06-05,25,Male,Oceania,Research Scientist,Hybrid,$40K-60K
+SURV567,2025-06-05,55,Male,South America,Account Manager,Hybrid,$60K-80K
+SURV575,2025-06-05,50,Male,Africa,Data Analyst,Hybrid,$40K-60K
+SURV578,2025-06-05,64,Female,Asia,Quality Assurance,Remote,$60K-80K
+SURV597,2025-06-05,44,Female,Asia,Financial Analyst,Remote,$80K-100K
+SURV598,2025-06-05,44,Non-binary,Asia,Quality Assurance,Hybrid,$60K-80K
+SURV599,2025-06-05,60,Male,Asia,Quality Assurance,Hybrid,$100K-120K
+SURV603,2025-06-06,43,Female,Oceania,Data Analyst,Hybrid,$80K-100K
+SURV611,2025-06-06,25,Female,South America,UX Designer,Remote,$40K-60K
+SURV613,2025-06-06,38,Male,Africa,Digital Marketing Specialist,Hybrid,$80K-100K
+SURV617,2025-06-06,44,Female,South America,Account Manager,Onsite,$60K-80K
+SURV621,2025-06-06,38,Male,North America,Data Scientist,Onsite,$60K-80K
+SURV629,2025-06-06,48,Female,South America,Project Manager,Hybrid,$100K-120K
+SURV630,2025-06-06,51,Male,South America,Technical Writer,Onsite,$60K-80K
+SURV634,2025-06-06,31,Female,North America,UX Designer,Hybrid,$40K-60K
+SURV643,2025-06-06,30,Male,South America,Project Manager,Remote,$100K-120K
+SURV651,2025-06-06,35,Female,Asia,Executive Assistant,Onsite,$80K-100K
+SURV653,2025-06-06,35,Male,Oceania,Social Media Manager,Remote,$120K+
+SURV664,2025-06-06,57,Female,Oceania,Content Writer,Hybrid,$60K-80K
+SURV665,2025-06-06,64,Male,Europe,Data Scientist,Hybrid,$120K+
+SURV666,2025-06-06,57,Female,Oceania,Content Writer,Remote,$40K-60K
+SURV670,2025-06-06,39,Female,Asia,Customer Service Manager,Remote,$40K-60K
+SURV676,2025-06-06,45,Female,North America,Digital Marketing Specialist,Onsite,$80K-100K
+SURV678,2025-06-06,46,Male,South America,Research Scientist,Hybrid,$80K-100K
+SURV682,2025-06-06,27,Male,South America,Software Engineer,Hybrid,$60K-80K
+SURV684,2025-06-06,27,Female,Asia,Financial Analyst,Onsite,$80K-100K
+SURV686,2025-06-06,46,Male,South America,Consultant,Onsite,$80K-100K
+SURV689,2025-06-06,44,Female,South America,Social Media Manager,Hybrid,$100K-120K
+SURV698,2025-06-06,42,Female,Europe,Quality Assurance,Remote,$80K-100K
+SURV702,2025-06-06,57,Female,Asia,Operations Manager,Hybrid,$60K-80K
+SURV708,2025-06-06,61,Female,South America,Digital Marketing Specialist,Onsite,$60K-80K
+SURV711,2025-06-06,50,Male,Europe,Marketing Specialist,Hybrid,$60K-80K
+SURV714,2025-06-06,55,Male,Asia,Executive Assistant,Onsite,$60K-80K
+SURV715,2025-06-06,41,Male,Oceania,Customer Service Manager,Remote,$60K-80K
+SURV716,2025-06-06,36,Female,North America,Digital Marketing Specialist,Hybrid,$40K-60K
+SURV721,2025-06-07,50,Male,Oceania,Customer Service Manager,Hybrid,$60K-80K
+SURV722,2025-06-07,59,Male,South America,Social Media Manager,Hybrid,$100K-120K
+SURV727,2025-06-07,23,Male,Oceania,Data Scientist,Remote,$120K+
+SURV733,2025-06-07,53,Male,Asia,Consultant,Onsite,$100K-120K
+SURV736,2025-06-07,64,Female,South America,Consultant,Remote,$60K-80K
+SURV737,2025-06-07,48,Female,Asia,Digital Marketing Specialist,Onsite,$120K+
+SURV745,2025-06-07,51,Female,Africa,Quality Assurance,Remote,$40K-60K
+SURV746,2025-06-07,41,Male,Oceania,Content Writer,Remote,$80K-100K
+SURV747,2025-06-07,43,Female,South America,Software Engineer,Remote,$80K-100K
+SURV758,2025-06-07,61,Female,North America,Customer Service Manager,Hybrid,$60K-80K
+SURV764,2025-06-07,36,Male,South America,Consultant,Hybrid,$40K-60K
+SURV765,2025-06-07,52,Female,South America,Data Analyst,Remote,$60K-80K
+SURV766,2025-06-07,48,Female,South America,Data Scientist,Hybrid,$80K-100K
+SURV782,2025-06-07,32,Female,South America,HR Manager,Hybrid,$60K-80K
+SURV783,2025-06-07,60,Male,Europe,Marketing Specialist,Hybrid,$80K-100K
+SURV786,2025-06-07,23,Male,North America,Product Manager,Hybrid,$60K-80K
+SURV810,2025-06-07,56,Female,Africa,Data Scientist,Onsite,$120K+
+SURV814,2025-06-07,52,Male,Oceania,Customer Service Manager,Remote,$100K-120K
+SURV830,2025-06-07,43,Male,Europe,Financial Analyst,Remote,$120K+
+SURV831,2025-06-07,65,Male,South America,IT Support,Hybrid,$40K-60K
+SURV832,2025-06-07,53,Male,Oceania,Sales Representative,Hybrid,$80K-100K
+SURV835,2025-06-07,31,Male,Oceania,Sales Representative,Remote,$80K-100K
+SURV842,2025-06-07,57,Female,Africa,Consultant,Hybrid,$100K-120K
+SURV843,2025-06-07,31,Female,Europe,DevOps Engineer,Hybrid,$100K-120K
+SURV844,2025-06-07,35,Female,Europe,HR Manager,Hybrid,$40K-60K
+SURV852,2025-06-07,62,Female,Europe,Software Engineer,Hybrid,$60K-80K
+SURV853,2025-06-07,63,Male,Asia,Executive Assistant,Hybrid,$80K-100K
+SURV854,2025-06-07,60,Female,Oceania,Product Manager,Onsite,$100K-120K
+SURV856,2025-06-07,30,Male,Africa,Data Analyst,Remote,$40K-60K
+SURV864,2025-06-08,64,Male,South America,Quality Assurance,Remote,$40K-60K
+SURV874,2025-06-08,25,Male,Europe,Social Media Manager,Hybrid,$60K-80K
+SURV879,2025-06-08,34,Female,Oceania,Sales Representative,Onsite,$40K-60K
+SURV880,2025-06-08,63,Male,Europe,Research Scientist,Hybrid,$60K-80K
+SURV884,2025-06-08,22,Female,South America,Project Manager,Remote,$80K-100K
+SURV888,2025-06-08,29,Female,North America,Executive Assistant,Hybrid,$100K-120K
+SURV889,2025-06-08,30,Male,Africa,Software Engineer,Hybrid,$60K-80K
+SURV891,2025-06-08,24,Male,Oceania,HR Manager,Remote,$60K-80K
+SURV895,2025-06-08,65,Male,Africa,Consultant,Hybrid,$40K-60K
+SURV896,2025-06-08,30,Male,North America,Customer Service Manager,Remote,$80K-100K
+SURV899,2025-06-08,26,Male,Oceania,IT Support,Hybrid,$40K-60K
+SURV905,2025-06-08,30,Female,Oceania,Consultant,Onsite,$120K+
+SURV916,2025-06-08,31,Female,Europe,Product Manager,Hybrid,$100K-120K
+SURV919,2025-06-08,24,Female,,Financial Analyst,Onsite,$80K-100K
+SURV927,2025-06-08,35,Female,Europe,Technical Writer,Onsite,$60K-80K
+SURV930,2025-06-08,47,Male,North America,DevOps Engineer,Remote,$40K-60K
+SURV932,2025-06-08,62,Female,South America,Digital Marketing Specialist,Hybrid,$60K-80K
+SURV934,2025-06-08,47,Male,Europe,Social Media Manager,Onsite,$120K+
+SURV937,2025-06-08,51,Male,Africa,Product Manager,Onsite,$60K-80K
+SURV938,2025-06-08,44,Male,Asia,Content Writer,Remote,$100K-120K
+SURV941,2025-06-08,23,Male,North America,Digital Marketing Specialist,Hybrid,$40K-60K
+SURV946,2025-06-08,39,Male,Africa,HR Manager,Hybrid,$40K-60K
+SURV960,2025-06-08,35,Female,North America,Marketing Specialist,Onsite,$40K-60K
+SURV961,2025-06-08,26,Male,Asia,Data Analyst,Hybrid,$40K-60K
+SURV965,2025-06-08,60,Female,Africa,Financial Analyst,Hybrid,$80K-100K
+SURV970,2025-06-08,58,Female,Europe,Account Manager,Hybrid,$80K-100K
+SURV986,2025-06-09,33,Female,Oceania,Executive Assistant,Remote,$60K-80K
+SURV1008,2025-06-09,48,Female,Asia,Financial Analyst,Remote,$40K-60K
+SURV1011,2025-06-09,49,Female,Europe,Business Analyst,Hybrid,$80K-100K
+SURV1014,2025-06-09,50,Female,North America,Data Scientist,Hybrid,$100K-120K
+SURV1038,2025-06-09,49,Female,Oceania,Research Scientist,Hybrid,$40K-60K
+SURV1042,2025-06-09,55,Female,North America,Digital Marketing Specialist,Remote,$60K-80K
+SURV1048,2025-06-09,45,Female,South America,Data Scientist,Remote,$80K-100K
+SURV1050,2025-06-09,32,Male,Asia,Product Manager,Remote,$100K-120K
+SURV1055,2025-06-09,48,Non-binary,Africa,Executive Assistant,Onsite,$80K-100K
+SURV1056,2025-06-09,61,Male,Africa,IT Support,Onsite,$60K-80K
+SURV1060,2025-06-09,24,Male,South America,Sales Representative,Onsite,$40K-60K
+SURV1062,2025-06-09,24,Female,Europe,Social Media Manager,Hybrid,$60K-80K
+SURV1063,2025-06-09,59,Male,Africa,Content Writer,Hybrid,$60K-80K
+SURV1067,2025-06-09,65,Male,Europe,IT Support,Remote,$80K-100K
+SURV1082,2025-06-10,30,Male,Oceania,Technical Writer,Onsite,$80K-100K
+SURV1084,2025-06-10,46,Female,Africa,Quality Assurance,Hybrid,$60K-80K
+SURV1085,2025-06-10,56,Female,Oceania,Executive Assistant,Onsite,$80K-100K
+SURV1089,2025-06-10,62,Male,North America,Operations Manager,Remote,$60K-80K
+SURV1104,2025-06-10,54,Male,Africa,Operations Manager,Onsite,$80K-100K
+SURV1110,2025-06-10,29,Male,Europe,IT Support,Hybrid,$80K-100K
+SURV1112,2025-06-10,43,Female,Europe,Research Scientist,Remote,$60K-80K
+SURV1121,2025-06-10,60,Male,North America,IT Support,Hybrid,$40K-60K
+SURV1130,2025-06-10,38,Female,South America,Digital Marketing Specialist,Remote,$60K-80K
+SURV1133,2025-06-10,52,Female,Europe,Sales Representative,Onsite,$60K-80K
+SURV1148,2025-06-10,47,Male,North America,Quality Assurance,Hybrid,$40K-60K
+SURV1151,2025-06-10,63,Male,South America,Financial Analyst,Hybrid,$60K-80K
+SURV1155,2025-06-10,57,Male,Africa,Technical Writer,Remote,$80K-100K
+SURV1158,2025-06-10,40,Female,Asia,Financial Analyst,Remote,$80K-100K
+SURV1160,2025-06-10,50,Female,Asia,Software Engineer,Hybrid,$80K-100K
+SURV1166,2025-06-10,28,Male,North America,HR Manager,Remote,$60K-80K
+SURV1171,2025-06-10,25,Female,,Product Manager,Hybrid,$60K-80K
+SURV1177,2025-06-10,54,Female,Oceania,Operations Manager,Hybrid,$80K-100K
+SURV1199,2025-06-11,24,Female,Oceania,Executive Assistant,Hybrid,$60K-80K
+SURV1219,2025-06-11,29,Female,Oceania,DevOps Engineer,Onsite,$100K-120K
+SURV1221,2025-06-11,47,Female,Africa,Social Media Manager,Hybrid,$80K-100K
+SURV1224,2025-06-11,64,Male,South America,Project Manager,Onsite,$100K-120K
+SURV1225,2025-06-11,31,Male,Oceania,Financial Analyst,Hybrid,$60K-80K
+SURV1227,2025-06-11,48,Female,South America,Data Scientist,Hybrid,$80K-100K
+SURV1228,2025-06-11,47,Male,Oceania,DevOps Engineer,Remote,$40K-60K
+SURV1239,2025-06-11,34,Female,Europe,Business Analyst,Hybrid,$60K-80K
+SURV1244,2025-06-11,23,Male,South America,Product Manager,Onsite,$120K+
+SURV1245,2025-06-11,26,Male,Oceania,Account Manager,Hybrid,$60K-80K
+SURV1268,2025-06-11,24,Male,Africa,Research Scientist,Onsite,$120K+
+SURV1269,2025-06-11,34,Male,Asia,Project Manager,Hybrid,$60K-80K
+SURV1279,2025-06-11,44,Male,North America,Software Engineer,Remote,$120K+
+SURV1281,2025-06-11,52,Male,North America,Research Scientist,Remote,$60K-80K
+SURV1282,2025-06-11,40,Male,South America,Business Analyst,Onsite,$100K-120K
+SURV1283,2025-06-11,45,Female,Oceania,Research Scientist,Remote,$80K-100K
+SURV1288,2025-06-11,36,Male,South America,HR Manager,Hybrid,$40K-60K
+SURV1290,2025-06-11,62,Female,Europe,Operations Manager,Onsite,$100K-120K
+SURV1304,2025-06-12,37,Female,Europe,Customer Service Manager,Remote,$60K-80K
+SURV1306,2025-06-12,65,Female,Oceania,Financial Analyst,Remote,$100K-120K
+SURV1312,2025-06-12,32,Male,North America,Research Scientist,Hybrid,$40K-60K
+SURV1313,2025-06-12,63,Female,Oceania,Digital Marketing Specialist,Hybrid,$100K-120K
+SURV1326,2025-06-12,65,Female,North America,UX Designer,Onsite,$80K-100K
+SURV1334,2025-06-12,39,Male,Europe,Data Scientist,Hybrid,$40K-60K
+SURV1335,2025-06-12,34,Female,South America,Research Scientist,Hybrid,$60K-80K
+SURV1349,2025-06-12,55,Non-binary,Oceania,Consultant,Hybrid,$80K-100K
+SURV1350,2025-06-12,30,Male,Africa,Customer Service Manager,Hybrid,$40K-60K
+SURV1355,2025-06-12,24,Male,Asia,Executive Assistant,Remote,$60K-80K
+SURV1356,2025-06-12,57,Male,South America,Technical Writer,Remote,$80K-100K
+SURV1368,2025-06-12,52,Male,Africa,Consultant,Hybrid,$60K-80K
+SURV1371,2025-06-12,34,Female,Oceania,Technical Writer,Onsite,$60K-80K
+SURV1373,2025-06-12,23,Female,South America,Customer Service Manager,Remote,$80K-100K
+SURV1375,2025-06-12,28,Female,North America,Technical Writer,Hybrid,$40K-60K
+SURV1377,2025-06-12,58,Female,Oceania,HR Manager,Hybrid,$40K-60K
+SURV1380,2025-06-12,64,Male,Europe,DevOps Engineer,Hybrid,$100K-120K
+SURV1395,2025-06-12,45,Male,Europe,Business Analyst,Remote,$60K-80K
+SURV1402,2025-06-12,23,Female,Asia,Quality Assurance,Onsite,$80K-100K
+SURV1416,2025-06-12,47,Male,South America,Data Analyst,Hybrid,$60K-80K
+SURV1417,2025-06-12,31,Female,Asia,Digital Marketing Specialist,Remote,$80K-100K
+SURV1425,2025-06-12,56,Female,Europe,Product Manager,Remote,$80K-100K
+SURV1431,2025-06-12,26,Male,Europe,Product Manager,Remote,$80K-100K
+SURV1453,2025-06-13,39,Female,Asia,Technical Writer,Hybrid,$80K-100K
+SURV1462,2025-06-13,64,Female,Asia,Business Analyst,Hybrid,$60K-80K
+SURV1463,2025-06-13,24,Male,Africa,IT Support,Remote,$40K-60K
+SURV1464,2025-06-13,64,Male,North America,Consultant,Hybrid,$120K+
+SURV1469,2025-06-13,57,Male,Africa,UX Designer,Remote,$60K-80K
+SURV1470,2025-06-13,31,Male,Africa,Research Scientist,Hybrid,$40K-60K
+SURV1473,2025-06-13,53,Male,Africa,Research Scientist,Remote,$40K-60K
+SURV1479,2025-06-13,29,Male,Europe,Project Manager,Remote,$80K-100K
+SURV1484,2025-06-13,26,Male,Africa,Account Manager,Onsite,$80K-100K
+SURV1486,2025-06-13,45,Female,Asia,Product Manager,Hybrid,$100K-120K
+SURV1489,2025-06-13,30,Non-binary,Europe,Operations Manager,Hybrid,$60K-80K
+SURV1491,2025-06-13,50,Male,Europe,Business Analyst,Hybrid,$60K-80K
+SURV1493,2025-06-13,27,Male,Oceania,Technical Writer,Remote,$40K-60K
+SURV1508,2025-06-13,54,Female,Oceania,Consultant,Remote,$80K-100K
+SURV1509,2025-06-13,30,Male,North America,Content Writer,Onsite,$60K-80K
+SURV1511,2025-06-13,36,Male,North America,Executive Assistant,Hybrid,$120K+
+SURV1513,2025-06-13,43,Male,South America,Technical Writer,Remote,$40K-60K
+SURV1515,2025-06-13,24,Female,Oceania,UX Designer,Hybrid,$60K-80K
+SURV1521,2025-06-13,32,Female,Asia,DevOps Engineer,Onsite,$100K-120K
+SURV1522,2025-06-13,43,Female,Oceania,Data Analyst,Remote,$80K-100K
+SURV1535,2025-06-13,53,Male,South America,Software Engineer,Remote,$100K-120K
+SURV1545,2025-06-13,62,Female,Europe,Digital Marketing Specialist,Hybrid,$40K-60K
+SURV1555,2025-06-14,41,Male,Africa,Marketing Specialist,Onsite,$40K-60K
+SURV1571,2025-06-14,42,Male,Oceania,Executive Assistant,Remote,$60K-80K
+SURV1577,2025-06-14,23,Male,North America,Technical Writer,Remote,$80K-100K
+SURV1581,2025-06-14,31,Male,Europe,UX Designer,Onsite,$80K-100K
+SURV1582,2025-06-14,47,Male,Africa,Financial Analyst,Hybrid,$40K-60K
+SURV1584,2025-06-14,33,Female,Europe,Customer Service Manager,Hybrid,$100K-120K
+SURV1592,2025-06-14,34,Male,Africa,Executive Assistant,Onsite,$100K-120K
+SURV1595,2025-06-14,51,Male,Asia,Sales Representative,Hybrid,$60K-80K
+SURV1600,2025-06-14,42,Male,North America,Technical Writer,Remote,$60K-80K
+SURV1604,2025-06-14,45,Male,Europe,Customer Service Manager,Onsite,$80K-100K
+SURV1618,2025-06-14,27,Male,Europe,Research Scientist,Hybrid,$80K-100K
+SURV1624,2025-06-14,59,Female,South America,Customer Service Manager,Onsite,$60K-80K
+SURV1627,2025-06-14,56,Male,Oceania,UX Designer,Hybrid,$80K-100K
+SURV1628,2025-06-14,47,Male,Oceania,Research Scientist,Onsite,$60K-80K
+SURV1630,2025-06-14,60,Male,Asia,Business Analyst,Hybrid,$100K-120K
+SURV1631,2025-06-14,46,Male,Oceania,IT Support,Hybrid,$100K-120K
+SURV1647,2025-06-14,36,Male,Africa,Project Manager,Onsite,$60K-80K
+SURV1656,2025-06-14,60,Female,Asia,Sales Representative,Remote,$40K-60K
+SURV1661,2025-06-14,63,Female,North America,Research Scientist,Hybrid,$60K-80K
+SURV1667,2025-06-14,35,Male,North America,Business Analyst,Remote,$40K-60K
+SURV1675,2025-06-14,59,Female,North America,Product Manager,Hybrid,$60K-80K
+SURV1676,2025-06-14,25,Male,Asia,Customer Service Manager,Hybrid,$40K-60K
+SURV1677,2025-06-14,28,Male,Oceania,Consultant,Remote,$40K-60K
+SURV1679,2025-06-15,43,Female,Oceania,Software Engineer,Onsite,$100K-120K
+SURV1681,2025-06-15,58,Male,Europe,Product Manager,Remote,$60K-80K
+SURV1682,2025-06-15,35,Male,Oceania,Digital Marketing Specialist,Remote,$100K-120K
+SURV1697,2025-06-15,49,Prefer not to say,Oceania,Operations Manager,Hybrid,$60K-80K
+SURV1711,2025-06-15,65,Female,Europe,Digital Marketing Specialist,Hybrid,$60K-80K
+SURV1718,2025-06-15,46,Male,South America,Customer Service Manager,Hybrid,$40K-60K
+SURV1734,2025-06-15,45,Female,Africa,Project Manager,Remote,$120K+
+SURV1737,2025-06-15,51,Male,Oceania,Business Analyst,Remote,$60K-80K
+SURV1741,2025-06-15,33,Male,Asia,UX Designer,Onsite,$80K-100K
+SURV1745,2025-06-15,63,Male,Asia,Marketing Specialist,Onsite,$80K-100K
+SURV1747,2025-06-15,60,Male,Oceania,Software Engineer,Hybrid,$100K-120K
+SURV1752,2025-06-15,39,Female,Europe,IT Support,Onsite,$60K-80K
+SURV1754,2025-06-15,48,Female,Asia,UX Designer,Remote,$80K-100K
+SURV1765,2025-06-15,59,Female,North America,Marketing Specialist,Hybrid,$60K-80K
+SURV1766,2025-06-15,47,Male,North America,Sales Representative,Onsite,$40K-60K
+SURV1767,2025-06-15,27,Male,Asia,Technical Writer,Onsite,$80K-100K
+SURV1775,2025-06-15,46,Male,South America,Operations Manager,Hybrid,$40K-60K
+SURV1779,2025-06-15,45,Male,South America,Customer Service Manager,Hybrid,$60K-80K
+SURV1783,2025-06-15,56,Female,Africa,DevOps Engineer,Onsite,$60K-80K
+SURV1785,2025-06-15,60,Male,South America,Consultant,Hybrid,$60K-80K
+SURV1788,2025-06-15,44,Male,South America,Executive Assistant,Onsite,$60K-80K
+SURV1789,2025-06-15,34,Male,South America,Sales Representative,Remote,$40K-60K
+SURV1790,2025-06-15,36,Female,South America,Research Scientist,Onsite,$120K+
+SURV1795,2025-06-15,54,Male,Asia,Project Manager,Remote,$40K-60K
+SURV1797,2025-06-15,24,Male,South America,DevOps Engineer,Hybrid,$80K-100K
+SURV1798,2025-06-15,31,Male,Asia,Project Manager,Hybrid,$80K-100K
+SURV1803,2025-06-15,63,Male,Europe,Research Scientist,Hybrid,$80K-100K
+SURV1805,2025-06-15,45,Male,Asia,DevOps Engineer,Remote,$80K-100K
+SURV1812,2025-06-16,22,Female,North America,Quality Assurance,Remote,$80K-100K
+SURV1813,2025-06-16,34,Male,South America,Software Engineer,Remote,$80K-100K
+SURV1814,2025-06-16,50,Female,Oceania,Software Engineer,Onsite,$100K-120K
+SURV1819,2025-06-16,30,Male,Africa,Product Manager,Hybrid,$80K-100K
+SURV1820,2025-06-16,38,Female,Oceania,HR Manager,Hybrid,$80K-100K
+SURV1822,2025-06-16,60,Female,Asia,Operations Manager,Onsite,$80K-100K
+SURV1823,2025-06-16,58,Female,Europe,UX Designer,Remote,$80K-100K
+SURV1830,2025-06-16,36,Male,South America,Quality Assurance,Hybrid,$60K-80K
+SURV1832,2025-06-16,45,Female,South America,Quality Assurance,Hybrid,$60K-80K
+SURV1837,2025-06-16,22,Female,Africa,DevOps Engineer,Onsite,$60K-80K
+SURV1838,2025-06-16,49,Female,Africa,Data Scientist,Remote,$100K-120K
+SURV1843,2025-06-16,27,Female,Africa,Business Analyst,Hybrid,$100K-120K
+SURV1850,2025-06-16,51,Female,Africa,Software Engineer,Remote,$80K-100K
+SURV1852,2025-06-16,28,Male,Africa,Data Analyst,Hybrid,$40K-60K
+SURV1869,2025-06-16,31,Female,North America,Product Manager,Hybrid,$60K-80K
+SURV1870,2025-06-16,42,Female,South America,Project Manager,Remote,$60K-80K
+SURV1874,2025-06-16,29,Male,Oceania,Software Engineer,Hybrid,$80K-100K
+SURV1876,2025-06-16,62,Female,South America,Digital Marketing Specialist,Hybrid,$40K-60K
+SURV1886,2025-06-16,28,Male,South America,Technical Writer,Hybrid,$100K-120K
+SURV1892,2025-06-16,42,Female,North America,Research Scientist,Onsite,$60K-80K
+SURV1893,2025-06-16,26,Male,South America,Executive Assistant,Hybrid,$60K-80K
+SURV1902,2025-06-16,24,Female,Oceania,Digital Marketing Specialist,Onsite,$60K-80K
+SURV1903,2025-06-16,32,Male,Europe,Marketing Specialist,Hybrid,$80K-100K
+SURV1910,2025-06-16,49,Male,Asia,Digital Marketing Specialist,Onsite,$60K-80K
+SURV1918,2025-06-16,34,Female,Africa,Data Scientist,Onsite,$120K+
+SURV1927,2025-06-16,60,Non-binary,Africa,IT Support,Hybrid,$100K-120K
+SURV1928,2025-06-16,41,Male,Oceania,Quality Assurance,Remote,$120K+
+SURV1930,2025-06-16,62,Female,Europe,Technical Writer,Hybrid,$100K-120K
+SURV1933,2025-06-16,31,Female,Africa,Account Manager,Hybrid,$80K-100K
+SURV1936,2025-06-16,49,Female,Africa,Research Scientist,Remote,$60K-80K
+SURV1946,2025-06-17,45,Male,Europe,Consultant,Remote,$80K-100K
+SURV1947,2025-06-17,61,Female,South America,Marketing Specialist,Onsite,$100K-120K
+SURV1951,2025-06-17,42,Male,South America,Project Manager,Hybrid,$40K-60K
+SURV1956,2025-06-17,34,Male,North America,Customer Service Manager,Onsite,$60K-80K
+SURV1967,2025-06-17,51,Male,Europe,UX Designer,Hybrid,$60K-80K
+SURV1969,2025-06-17,50,Female,South America,Financial Analyst,Hybrid,$60K-80K
+SURV1970,2025-06-17,37,Female,Asia,Software Engineer,Remote,$80K-100K
+SURV1985,2025-06-17,36,Non-binary,South America,Digital Marketing Specialist,Hybrid,$40K-60K
+SURV1986,2025-06-17,37,Male,Asia,Sales Representative,Hybrid,$60K-80K
+SURV1989,2025-06-17,51,Female,Asia,IT Support,Onsite,$80K-100K
+SURV1998,2025-06-17,49,Male,Europe,Operations Manager,Onsite,$120K+
+SURV1999,2025-06-17,27,Non-binary,South America,Marketing Specialist,Onsite,$120K+
+SURV2014,2025-06-17,27,Female,Africa,Operations Manager,Onsite,$60K-80K
+SURV2015,2025-06-17,41,Female,Oceania,Project Manager,Hybrid,$60K-80K
+SURV2025,2025-06-17,51,Male,Europe,Marketing Specialist,Onsite,$80K-100K
+SURV2042,2025-06-17,64,Male,Africa,DevOps Engineer,Remote,$100K-120K
+SURV2052,2025-06-17,53,Female,Europe,DevOps Engineer,Hybrid,$120K+
+SURV2053,2025-06-17,56,Female,Oceania,Research Scientist,Remote,$40K-60K
+SURV2062,2025-06-17,47,Female,North America,Software Engineer,Onsite,$80K-100K
+SURV2066,2025-06-18,63,Male,South America,Executive Assistant,Hybrid,$80K-100K
+SURV2068,2025-06-18,43,Male,Asia,Operations Manager,Hybrid,$80K-100K
+SURV2069,2025-06-18,39,Female,South America,Software Engineer,Hybrid,$120K+
+SURV2071,2025-06-18,33,Female,South America,Technical Writer,Onsite,$120K+
+SURV2072,2025-06-18,38,Female,South America,Consultant,Hybrid,$60K-80K
+SURV2075,2025-06-18,59,Female,Asia,Executive Assistant,Remote,$40K-60K
+SURV2080,2025-06-18,53,Female,North America,Data Scientist,Onsite,$80K-100K
+SURV2083,2025-06-18,62,Male,North America,Digital Marketing Specialist,Onsite,$40K-60K
+SURV2092,2025-06-18,22,Female,Asia,Technical Writer,Hybrid,$40K-60K
+SURV2097,2025-06-18,65,Male,Oceania,Project Manager,Hybrid,$60K-80K
+SURV2103,2025-06-18,50,Male,Oceania,Executive Assistant,Hybrid,$60K-80K
+SURV2113,2025-06-18,25,Male,Oceania,Research Scientist,Remote,$60K-80K
+SURV2133,2025-06-18,35,Female,North America,Operations Manager,Remote,$40K-60K
+SURV2143,2025-06-18,28,Female,Europe,Research Scientist,Hybrid,$60K-80K
+SURV2147,2025-06-18,39,Female,North America,Product Manager,Hybrid,$60K-80K
+SURV2152,2025-06-18,61,Male,South America,Project Manager,Hybrid,$60K-80K
+SURV2153,2025-06-18,56,Female,South America,Social Media Manager,Onsite,$60K-80K
+SURV2154,2025-06-18,32,Male,Oceania,Social Media Manager,Onsite,$80K-100K
+SURV2156,2025-06-18,27,Male,Europe,HR Manager,Onsite,$60K-80K
+SURV2157,2025-06-18,51,Female,Europe,HR Manager,Hybrid,$80K-100K
+SURV2159,2025-06-18,29,Female,North America,Data Analyst,Onsite,$40K-60K
+SURV2161,2025-06-18,55,Female,Africa,Account Manager,Hybrid,$60K-80K
+SURV2163,2025-06-18,40,Male,Oceania,Data Analyst,Hybrid,$80K-100K
+SURV2174,2025-06-18,56,Female,Europe,Product Manager,Hybrid,$40K-60K
+SURV2175,2025-06-18,43,Male,Africa,Data Analyst,Remote,$60K-80K
+SURV2195,2025-06-19,53,Male,Europe,Digital Marketing Specialist,Onsite,$40K-60K
+SURV2208,2025-06-19,60,Male,Africa,Digital Marketing Specialist,Onsite,$80K-100K
+SURV2210,2025-06-19,51,Female,Africa,Social Media Manager,Remote,$120K+
+SURV2211,2025-06-19,23,Female,Oceania,Social Media Manager,Remote,$60K-80K
+SURV2217,2025-06-19,29,Male,South America,Research Scientist,Hybrid,$100K-120K
+SURV2220,2025-06-19,35,Male,Asia,Social Media Manager,Remote,$60K-80K
+SURV2225,2025-06-19,36,Female,North America,IT Support,Remote,$40K-60K
+SURV2227,2025-06-19,55,Male,,Content Writer,Remote,$80K-100K
+SURV2231,2025-06-19,42,Female,Africa,Research Scientist,Hybrid,$60K-80K
+SURV2232,2025-06-19,24,Male,Europe,Consultant,Hybrid,$40K-60K
+SURV2242,2025-06-19,32,Male,Europe,Content Writer,Onsite,$60K-80K
+SURV2246,2025-06-19,53,Male,South America,Data Scientist,Remote,$80K-100K
+SURV2257,2025-06-19,55,Male,Africa,IT Support,Remote,$80K-100K
+SURV2272,2025-06-19,37,Female,Africa,Data Scientist,Onsite,$60K-80K
+SURV2274,2025-06-19,34,Male,Oceania,UX Designer,Remote,$40K-60K
+SURV2276,2025-06-19,40,Female,North America,Business Analyst,Onsite,$60K-80K
+SURV2288,2025-06-19,63,Female,North America,Marketing Specialist,Onsite,$60K-80K
+SURV2300,2025-06-19,25,Male,South America,Executive Assistant,Onsite,$60K-80K
+SURV2307,2025-06-19,48,Male,Europe,Software Engineer,Hybrid,$100K-120K
+SURV2309,2025-06-19,59,Female,South America,Research Scientist,Hybrid,$60K-80K
+SURV2310,2025-06-19,62,Female,Africa,Operations Manager,Remote,$60K-80K
+SURV2315,2025-06-20,59,Female,Europe,Business Analyst,Onsite,$80K-100K
+SURV2318,2025-06-20,33,Male,Europe,IT Support,Onsite,$100K-120K
+SURV2322,2025-06-20,31,Female,Africa,Technical Writer,Onsite,$60K-80K
+SURV2323,2025-06-20,29,Female,North America,Financial Analyst,Hybrid,$60K-80K
+SURV2324,2025-06-20,27,Male,South America,Executive Assistant,Remote,$80K-100K
+SURV2329,2025-06-20,55,Female,South America,Consultant,Hybrid,$120K+
+SURV2335,2025-06-20,40,Female,Africa,Sales Representative,Onsite,$60K-80K
+SURV2346,2025-06-20,40,Female,Asia,Quality Assurance,Hybrid,$80K-100K
+SURV2361,2025-06-20,38,Male,South America,Digital Marketing Specialist,Remote,$60K-80K
+SURV2363,2025-06-20,58,Female,South America,Content Writer,Remote,$80K-100K
+SURV2364,2025-06-20,37,Female,Africa,Data Scientist,Remote,$100K-120K
+SURV2372,2025-06-20,27,Male,North America,IT Support,Hybrid,$60K-80K
+SURV2375,2025-06-20,29,Male,Oceania,Project Manager,Hybrid,$60K-80K
+SURV2380,2025-06-20,24,Female,Oceania,Data Scientist,Hybrid,$120K+
+SURV2386,2025-06-20,27,Male,Oceania,Technical Writer,Onsite,$120K+
+SURV2403,2025-06-20,39,Male,North America,Data Analyst,Remote,$80K-100K
+SURV2411,2025-06-20,22,Female,South America,Consultant,Hybrid,$60K-80K
+SURV2439,2025-06-21,42,Female,North America,Project Manager,Onsite,$60K-80K
+SURV2442,2025-06-21,50,Male,North America,Sales Representative,Remote,$80K-100K
+SURV2443,2025-06-21,37,Female,North America,UX Designer,Onsite,$60K-80K
+SURV2458,2025-06-21,39,Female,Africa,DevOps Engineer,Onsite,$60K-80K
+SURV2475,2025-06-21,33,Male,North America,Marketing Specialist,Hybrid,$60K-80K
+SURV2482,2025-06-21,64,Female,South America,Marketing Specialist,Hybrid,$60K-80K
+SURV2492,2025-06-21,45,Female,South America,HR Manager,Remote,$40K-60K
+SURV2493,2025-06-21,30,Female,South America,DevOps Engineer,Hybrid,$100K-120K
+SURV2498,2025-06-21,23,Male,North America,HR Manager,Hybrid,$100K-120K
+SURV2504,2025-06-21,42,Female,Asia,Research Scientist,Onsite,$100K-120K
+SURV2505,2025-06-21,37,Male,Oceania,Content Writer,Remote,$100K-120K
+SURV2509,2025-06-21,61,Female,Africa,Research Scientist,Onsite,$80K-100K
+SURV2518,2025-06-21,45,Male,Asia,DevOps Engineer,Hybrid,$120K+
+SURV2522,2025-06-21,24,Male,Africa,Product Manager,Onsite,$40K-60K
+SURV2523,2025-06-21,54,Female,Africa,Data Analyst,Hybrid,$60K-80K
+SURV2525,2025-06-21,23,Female,North America,HR Manager,Onsite,$60K-80K
+SURV2526,2025-06-21,40,Male,Africa,Technical Writer,Remote,$60K-80K
+SURV2540,2025-06-21,38,Male,Oceania,Marketing Specialist,Onsite,$40K-60K
+SURV2546,2025-06-21,58,Female,Africa,Sales Representative,Onsite,$60K-80K
+SURV2547,2025-06-21,44,Male,Africa,Research Scientist,Remote,$60K-80K
+SURV2550,2025-06-21,29,Male,South America,Project Manager,Hybrid,$120K+
+SURV2552,2025-06-21,53,Female,Europe,Business Analyst,Remote,$80K-100K
+SURV2565,2025-06-22,60,Female,Europe,Marketing Specialist,Remote,$60K-80K
+SURV2585,2025-06-22,55,Male,Oceania,Sales Representative,Remote,$40K-60K
+SURV2586,2025-06-22,42,Male,South America,Operations Manager,Onsite,$80K-100K
+SURV2591,2025-06-22,58,Female,North America,IT Support,Hybrid,$60K-80K
+SURV2592,2025-06-22,26,Male,Africa,Software Engineer,Hybrid,$100K-120K
+SURV2595,2025-06-22,28,Female,Asia,Content Writer,Hybrid,$120K+
+SURV2596,2025-06-22,49,Female,North America,HR Manager,Hybrid,$80K-100K
+SURV2597,2025-06-22,52,Male,Oceania,Financial Analyst,Onsite,$60K-80K
+SURV2600,2025-06-22,63,Male,North America,Quality Assurance,Hybrid,$40K-60K
+SURV2601,2025-06-22,25,Female,Oceania,Customer Service Manager,Remote,$40K-60K
+SURV2607,2025-06-22,60,Male,Oceania,Data Analyst,Onsite,$80K-100K
+SURV2613,2025-06-22,65,Female,Europe,HR Manager,Remote,$60K-80K
+SURV2615,2025-06-22,63,Female,Asia,Software Engineer,Onsite,$100K-120K
+SURV2624,2025-06-22,61,Male,Africa,Data Scientist,Hybrid,$80K-100K
+SURV2625,2025-06-22,51,Female,South America,Data Analyst,Remote,$60K-80K
+SURV2629,2025-06-22,48,Non-binary,North America,Research Scientist,Hybrid,$80K-100K
+SURV2631,2025-06-22,60,Female,Europe,Operations Manager,Hybrid,$80K-100K
+SURV2636,2025-06-22,37,Prefer not to say,Oceania,Account Manager,Hybrid,$40K-60K
+SURV2637,2025-06-22,31,Female,Asia,Social Media Manager,Onsite,$80K-100K
+SURV2640,2025-06-22,22,Male,Africa,Marketing Specialist,Hybrid,$60K-80K
+SURV2643,2025-06-22,33,Female,Oceania,Sales Representative,Hybrid,$80K-100K
+SURV2646,2025-06-22,45,Prefer not to say,Asia,Quality Assurance,Onsite,$80K-100K
+SURV2654,2025-06-22,49,Female,Africa,Data Analyst,Onsite,$40K-60K
+SURV2666,2025-06-22,33,Non-binary,North America,Data Analyst,Hybrid,$80K-100K
+SURV2672,2025-06-22,26,Non-binary,Europe,Product Manager,Hybrid,$100K-120K
+SURV2675,2025-06-22,46,Female,Europe,Account Manager,Hybrid,$40K-60K
+SURV2676,2025-06-22,59,Female,Africa,Data Analyst,Remote,$100K-120K
+SURV2678,2025-06-22,41,Male,Asia,HR Manager,Onsite,$60K-80K
+SURV2686,2025-06-22,25,Female,Europe,Digital Marketing Specialist,Remote,$80K-100K
+SURV2693,2025-06-23,23,Male,Asia,HR Manager,Hybrid,$60K-80K
+SURV2697,2025-06-23,23,Female,Africa,Social Media Manager,Remote,$40K-60K
+SURV2700,2025-06-23,64,Male,Africa,IT Support,Onsite,$40K-60K
+SURV2704,2025-06-23,29,Female,Europe,Operations Manager,Onsite,$60K-80K
+SURV2712,2025-06-23,23,Female,Oceania,Operations Manager,Onsite,$80K-100K
+SURV2715,2025-06-23,62,Female,Africa,Operations Manager,Onsite,$80K-100K
+SURV2720,2025-06-23,24,Male,Africa,Financial Analyst,Hybrid,$100K-120K
+SURV2750,2025-06-23,46,Male,North America,IT Support,Remote,$80K-100K
+SURV2751,2025-06-23,33,Male,South America,Project Manager,Onsite,$60K-80K
+SURV2756,2025-06-23,50,Female,South America,Data Analyst,Remote,$80K-100K
+SURV2757,2025-06-23,35,Female,South America,Product Manager,Remote,$100K-120K
+SURV2759,2025-06-23,37,Female,Oceania,DevOps Engineer,Hybrid,$60K-80K
+SURV2760,2025-06-23,25,Female,Europe,Marketing Specialist,Hybrid,$60K-80K
+SURV2770,2025-06-23,60,Female,South America,Account Manager,Hybrid,$60K-80K
+SURV2771,2025-06-23,54,Male,North America,Operations Manager,Remote,$60K-80K
+SURV2772,2025-06-23,53,Male,Oceania,Marketing Specialist,Hybrid,$60K-80K
+SURV2774,2025-06-23,65,Female,Africa,DevOps Engineer,Onsite,$80K-100K
+SURV2775,2025-06-23,40,Female,North America,Consultant,Onsite,$40K-60K
+SURV2776,2025-06-23,57,Male,North America,Consultant,Hybrid,$60K-80K
+SURV2793,2025-06-23,60,Female,Asia,Social Media Manager,Onsite,$80K-100K
+SURV2794,2025-06-23,56,Male,North America,DevOps Engineer,Hybrid,$120K+
+SURV2797,2025-06-23,63,Male,Europe,Content Writer,Onsite,$100K-120K
+SURV2807,2025-06-23,65,Female,South America,Technical Writer,Remote,$40K-60K
+SURV2808,2025-06-23,29,Male,Asia,Product Manager,Remote,$40K-60K
+SURV2813,2025-06-23,43,Male,Oceania,Digital Marketing Specialist,Remote,$100K-120K
+SURV2816,2025-06-23,62,Male,Africa,Product Manager,Hybrid,$60K-80K
+SURV2818,2025-06-23,56,Male,Asia,DevOps Engineer,Remote,$80K-100K
+SURV2827,2025-06-24,39,Female,Oceania,UX Designer,Onsite,$100K-120K
+SURV2844,2025-06-24,52,Male,Africa,Account Manager,Onsite,$40K-60K
+SURV2865,2025-06-24,40,Female,Europe,Quality Assurance,Remote,$80K-100K
+SURV2867,2025-06-24,45,Female,South America,IT Support,Remote,$60K-80K
+SURV2869,2025-06-24,28,Female,Oceania,Consultant,Onsite,$40K-60K
+SURV2870,2025-06-24,37,Male,Europe,DevOps Engineer,Onsite,$60K-80K
+SURV2875,2025-06-24,26,Male,Africa,Marketing Specialist,Onsite,$60K-80K
+SURV2880,2025-06-24,22,Male,Europe,Operations Manager,Remote,$40K-60K
+SURV2887,2025-06-24,27,Female,Oceania,HR Manager,Hybrid,$120K+
+SURV2890,2025-06-24,27,Female,Asia,Technical Writer,Remote,$60K-80K
+SURV2895,2025-06-24,59,Male,Oceania,Business Analyst,Hybrid,$80K-100K
+SURV2899,2025-06-24,36,Non-binary,Europe,Content Writer,Hybrid,$80K-100K
+SURV2905,2025-06-24,46,Male,Africa,Financial Analyst,Onsite,$100K-120K
+SURV2907,2025-06-24,29,Female,Africa,Data Scientist,Remote,$100K-120K
+SURV2910,2025-06-24,57,Male,Europe,Social Media Manager,Hybrid,$60K-80K
+SURV2918,2025-06-24,41,Male,Oceania,Sales Representative,Remote,$120K+
+SURV2919,2025-06-24,49,Non-binary,Asia,Social Media Manager,Hybrid,$60K-80K
+SURV2932,2025-06-24,29,Female,North America,Research Scientist,Hybrid,$60K-80K
+SURV2933,2025-06-24,59,Female,Africa,IT Support,Hybrid,$100K-120K
+SURV2936,2025-06-25,51,Female,Europe,Social Media Manager,Remote,$40K-60K
+SURV2956,2025-06-25,23,Non-binary,South America,Operations Manager,Remote,$40K-60K
+SURV2960,2025-06-25,35,Male,North America,DevOps Engineer,Remote,$80K-100K
+SURV2965,2025-06-25,47,Female,North America,Digital Marketing Specialist,Remote,$40K-60K
+SURV2967,2025-06-25,46,Male,Europe,Research Scientist,Remote,$60K-80K
+SURV2969,2025-06-25,36,Male,Africa,Product Manager,Hybrid,$80K-100K
+SURV2971,2025-06-25,32,Male,Asia,Business Analyst,Remote,$40K-60K
+SURV2972,2025-06-25,52,Male,Asia,Software Engineer,Hybrid,$60K-80K
+SURV2981,2025-06-25,24,Female,Asia,Customer Service Manager,Remote,$60K-80K
+SURV2987,2025-06-25,43,Female,Africa,UX Designer,Hybrid,$60K-80K
+SURV2991,2025-06-25,45,Male,Africa,DevOps Engineer,Remote,$120K+
+SURV2999,2025-06-25,65,Female,Europe,Financial Analyst,Remote,$60K-80K
+SURV3004,2025-06-25,64,Female,Asia,Operations Manager,Hybrid,$60K-80K
+SURV3011,2025-06-25,64,Female,South America,Business Analyst,Hybrid,$80K-100K
+SURV3031,2025-06-25,41,Male,South America,Data Analyst,Onsite,$40K-60K
+SURV3037,2025-06-25,33,Male,Asia,Financial Analyst,Hybrid,$80K-100K
+SURV3042,2025-06-25,39,Female,North America,Sales Representative,Hybrid,$80K-100K
+SURV3043,2025-06-25,48,Male,South America,Quality Assurance,Remote,$80K-100K
+SURV3049,2025-06-25,57,Male,Oceania,Product Manager,Remote,$80K-100K
+SURV3054,2025-06-26,51,Female,North America,Software Engineer,Onsite,$100K-120K
+SURV3058,2025-06-26,40,Female,South America,HR Manager,Onsite,$80K-100K
+SURV3061,2025-06-26,31,Male,Asia,Operations Manager,Remote,$40K-60K
+SURV3062,2025-06-26,59,Male,Europe,Sales Representative,Remote,$60K-80K
+SURV3068,2025-06-26,42,Female,Oceania,Consultant,Onsite,$60K-80K
+SURV3070,2025-06-26,30,Female,North America,Executive Assistant,Hybrid,$40K-60K
+SURV3072,2025-06-26,65,Male,North America,Customer Service Manager,Hybrid,$40K-60K
+SURV3078,2025-06-26,37,Male,South America,Financial Analyst,Hybrid,$60K-80K
+SURV3082,2025-06-26,23,Female,Asia,Account Manager,Onsite,$60K-80K
+SURV3091,2025-06-26,51,Male,Oceania,Project Manager,Remote,$120K+
+SURV3100,2025-06-26,48,Female,Oceania,Consultant,Remote,$40K-60K
+SURV3111,2025-06-26,46,Male,Asia,Operations Manager,Remote,$120K+
+SURV3113,2025-06-26,37,Male,Asia,IT Support,Remote,$40K-60K
+SURV3125,2025-06-26,24,Female,Europe,Quality Assurance,Hybrid,$60K-80K
+SURV3126,2025-06-26,53,Male,Africa,Technical Writer,Remote,$80K-100K
+SURV3133,2025-06-26,43,Female,Asia,Consultant,Remote,$60K-80K
+SURV3136,2025-06-26,48,Female,Europe,Quality Assurance,Remote,$60K-80K
+SURV3141,2025-06-26,42,Male,Oceania,Data Analyst,Hybrid,$80K-100K
+SURV3142,2025-06-26,41,Female,North America,Product Manager,Remote,$100K-120K
+SURV3149,2025-06-26,35,Male,Europe,Project Manager,Hybrid,$40K-60K
+SURV3150,2025-06-26,64,Male,Africa,Software Engineer,Remote,$60K-80K
+SURV3151,2025-06-26,42,Male,North America,Account Manager,Onsite,$80K-100K

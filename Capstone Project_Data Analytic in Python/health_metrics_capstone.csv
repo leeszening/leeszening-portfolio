@@ -1,0 +1,594 @@
+Survey_ID,Hours_Per_Week,Mental_Health_Status,Burnout_Level,Work_Life_Balance_Score,Physical_Health_Issues,Social_Isolation_Score
+SURV009,47.0,Anxiety,Medium,2,Neck Pain,4
+SURV012,35.0,ADHD,Medium,3,Eye Strain; Wrist Pain,4
+SURV013,57.0,Burnout,High,2,Back Pain; Eye Strain,1
+SURV038,43.0,ADHD,Low,3,Eye Strain; Neck Pain,4
+SURV040,55.0,,Medium,2,Back Pain; Eye Strain,3
+SURV041,42.0,PTSD,High,2,Shoulder Pain; Eye Strain; Wrist Pain,4
+SURV048,65.0,PTSD,Medium,3,Wrist Pain,4
+SURV051,46.0,Depression,High,1,Back Pain; Shoulder Pain; Neck Pain,4
+SURV052,42.0,ADHD,High,4,Back Pain; Eye Strain; Neck Pain,1
+SURV062,45.0,ADHD,Medium,3,Eye Strain,2
+SURV064,50.0,,Low,1,Back Pain; Shoulder Pain,3
+SURV065,54.0,Depression,High,2,Back Pain; Eye Strain,3
+SURV068,55.0,Burnout,Medium,4,Shoulder Pain; Eye Strain; Neck Pain,2
+SURV069,43.0,Stress Disorder,Medium,1,Shoulder Pain; Eye Strain; Wrist Pain,2
+SURV074,40.0,Burnout,High,4,Back Pain; Shoulder Pain; Eye Strain,4
+SURV078,43.0,,High,3,Shoulder Pain,1
+SURV079,59.0,Depression,Low,2,,4
+SURV081,37.0,Depression,High,1,Back Pain; Shoulder Pain; Neck Pain,4
+SURV092,58.0,Depression,Medium,5,,3
+SURV097,38.0,Anxiety,High,5,Back Pain; Shoulder Pain; Eye Strain,5
+SURV100,44.0,Burnout,High,5,Back Pain; Eye Strain; Neck Pain,5
+SURV104,39.0,PTSD,Low,1,Back Pain; Shoulder Pain,4
+SURV107,51.0,,Low,3,Back Pain; Shoulder Pain,2
+SURV113,55.0,Anxiety,Medium,3,Back Pain; Eye Strain,2
+SURV114,57.0,PTSD,Low,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,3
+SURV115,55.0,Stress Disorder,High,3,Back Pain; Shoulder Pain,3
+SURV118,51.0,,High,3,Back Pain; Eye Strain,5
+SURV120,52.0,ADHD,High,4,Back Pain; Eye Strain,5
+SURV124,42.0,Stress Disorder,Medium,3,Back Pain; Shoulder Pain; Neck Pain,4
+SURV130,50.0,Anxiety,High,4,Back Pain; Shoulder Pain,5
+SURV132,42.0,PTSD,Medium,4,Back Pain; Eye Strain; Wrist Pain,5
+SURV133,60.0,,High,4,Eye Strain; Wrist Pain,3
+SURV135,41.0,Stress Disorder,High,3,Back Pain; Neck Pain; Wrist Pain,3
+SURV138,44.0,Anxiety,Medium,2,Eye Strain,4
+SURV139,48.0,Anxiety,Low,1,,3
+SURV142,41.0,ADHD,Medium,2,Back Pain,5
+SURV145,49.0,ADHD,Low,1,,1
+SURV148,45.0,Anxiety,Low,5,Eye Strain,3
+SURV152,50.0,,High,1,Shoulder Pain,3
+SURV158,45.0,ADHD,Low,1,Back Pain; Shoulder Pain; Neck Pain,3
+SURV161,35.0,PTSD,High,2,Neck Pain; Wrist Pain,3
+SURV163,53.0,Anxiety,High,3,Back Pain; Shoulder Pain; Neck Pain,2
+SURV164,44.0,Stress Disorder,High,5,Eye Strain; Neck Pain,4
+SURV165,58.0,,Low,3,Back Pain; Shoulder Pain; Eye Strain,1
+SURV187,59.0,Anxiety,Medium,3,Shoulder Pain,4
+SURV192,64.0,Anxiety,Low,3,,1
+SURV224,59.0,PTSD,Medium,3,Shoulder Pain; Eye Strain,5
+SURV225,55.0,Stress Disorder,Low,5,Back Pain; Eye Strain,2
+SURV236,39.0,,High,3,Eye Strain; Neck Pain,1
+SURV245,45.0,Anxiety,High,2,,2
+SURV250,55.0,ADHD,Low,4,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,3
+SURV257,59.0,,Medium,3,Back Pain; Shoulder Pain; Eye Strain,3
+SURV258,53.0,ADHD,Low,1,,4
+SURV264,55.0,,Medium,5,Back Pain,2
+SURV265,37.0,ADHD,Medium,1,Wrist Pain,5
+SURV280,49.0,Stress Disorder,Medium,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,2
+SURV282,49.0,Depression,Low,1,Back Pain; Neck Pain,4
+SURV292,56.0,ADHD,Low,3,Back Pain; Eye Strain; Wrist Pain,2
+SURV303,65.0,PTSD,High,3,Back Pain,4
+SURV307,52.0,Anxiety,Medium,4,Shoulder Pain; Eye Strain,2
+SURV308,45.0,Burnout,High,2,Eye Strain,1
+SURV314,49.0,Stress Disorder,Low,3,Back Pain,2
+SURV318,55.0,ADHD,High,2,Eye Strain,2
+SURV325,40.0,,High,4,Back Pain; Shoulder Pain; Neck Pain; Wrist Pain,4
+SURV332,44.0,Burnout,Medium,3,Back Pain; Shoulder Pain,1
+SURV341,41.0,Burnout,High,2,Back Pain,3
+SURV358,56.0,PTSD,Low,4,Back Pain; Wrist Pain,3
+SURV380,59.0,,Medium,4,Back Pain; Shoulder Pain; Neck Pain; Wrist Pain,4
+SURV389,59.0,ADHD,High,3,Back Pain,2
+SURV391,52.0,,Medium,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,5
+SURV410,47.0,Burnout,High,4,Back Pain; Shoulder Pain,3
+SURV411,59.0,,Medium,3,Shoulder Pain,2
+SURV412,41.0,PTSD,Medium,2,Eye Strain,4
+SURV414,36.0,Burnout,Low,4,Back Pain; Shoulder Pain,4
+SURV425,43.0,,High,3,Back Pain; Shoulder Pain,3
+SURV428,60.0,,Medium,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,2
+SURV434,40.0,,Medium,4,Back Pain; Shoulder Pain; Eye Strain,2
+SURV438,53.0,Depression,Low,4,Shoulder Pain; Eye Strain,2
+SURV446,45.0,,High,4,Back Pain; Eye Strain,1
+SURV451,53.0,Burnout,Medium,3,Eye Strain,4
+SURV455,58.0,Stress Disorder,Medium,2,Eye Strain; Neck Pain,3
+SURV468,44.0,Stress Disorder,High,4,Eye Strain,1
+SURV474,42.0,Stress Disorder,Low,1,Back Pain; Neck Pain,1
+SURV479,65.0,Stress Disorder,Medium,1,Back Pain; Eye Strain; Neck Pain,2
+SURV482,37.0,Burnout,High,3,Back Pain; Shoulder Pain,5
+SURV483,49.0,ADHD,Medium,1,Eye Strain; Neck Pain,2
+SURV485,35.0,ADHD,Medium,3,Shoulder Pain; Eye Strain,1
+SURV486,36.0,,High,1,Back Pain,4
+SURV490,39.0,,High,1,Shoulder Pain; Eye Strain,4
+SURV499,53.0,,High,2,,5
+SURV503,56.0,,Medium,1,Eye Strain; Neck Pain,5
+SURV504,44.0,Stress Disorder,Medium,3,Back Pain; Shoulder Pain; Eye Strain,1
+SURV505,56.0,Stress Disorder,High,4,Shoulder Pain; Eye Strain; Neck Pain; Wrist Pain,4
+SURV510,44.0,Depression,Low,2,,4
+SURV517,35.0,PTSD,High,3,Shoulder Pain; Eye Strain,2
+SURV518,,Depression,Medium,1,Back Pain,2
+SURV525,42.0,ADHD,High,5,Shoulder Pain,5
+SURV526,47.0,Stress Disorder,Medium,3,Back Pain; Shoulder Pain,3
+SURV528,45.0,Burnout,Medium,4,Eye Strain,1
+SURV529,60.0,Depression,Low,5,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,4
+SURV538,45.0,Stress Disorder,High,4,Back Pain; Eye Strain,1
+SURV542,44.0,,Medium,4,Back Pain; Eye Strain; Neck Pain,3
+SURV544,41.0,Stress Disorder,Low,5,,2
+SURV545,35.0,,High,3,Back Pain,3
+SURV549,43.0,,Medium,3,Back Pain; Eye Strain; Wrist Pain,3
+SURV552,59.0,Stress Disorder,High,3,Back Pain,1
+SURV563,49.0,ADHD,High,2,Back Pain; Eye Strain; Neck Pain,4
+SURV566,55.0,,Medium,3,Shoulder Pain,3
+SURV567,39.0,PTSD,Low,5,Back Pain; Shoulder Pain,3
+SURV575,,Anxiety,High,5,Shoulder Pain,2
+SURV578,61.0,,High,5,Wrist Pain,4
+SURV597,45.0,,Medium,3,Shoulder Pain; Eye Strain; Wrist Pain,3
+SURV598,35.0,,Medium,4,Shoulder Pain,2
+SURV599,49.0,ADHD,Low,1,Back Pain,1
+SURV603,48.0,Stress Disorder,Low,2,Eye Strain,1
+SURV611,57.0,,High,2,Back Pain; Neck Pain,1
+SURV613,41.0,PTSD,Medium,2,Back Pain; Eye Strain; Neck Pain,4
+SURV617,59.0,Depression,Low,1,Back Pain,2
+SURV621,53.0,Stress Disorder,Low,3,Eye Strain,2
+SURV629,56.0,,High,3,Shoulder Pain,3
+SURV630,63.0,,Low,4,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,2
+SURV634,39.0,Anxiety,Medium,4,,3
+SURV643,58.0,ADHD,High,2,Back Pain; Eye Strain,2
+SURV651,37.0,PTSD,Medium,2,,3
+SURV653,58.0,,High,2,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,3
+SURV664,63.0,,High,5,Shoulder Pain; Eye Strain,3
+SURV665,54.0,Depression,Medium,3,Shoulder Pain; Eye Strain,4
+SURV666,40.0,Stress Disorder,Medium,1,Shoulder Pain,4
+SURV670,41.0,,High,4,Back Pain; Eye Strain; Neck Pain,3
+SURV676,65.0,,Low,3,Shoulder Pain; Eye Strain,2
+SURV678,57.0,Depression,Medium,4,Back Pain,3
+SURV682,41.0,PTSD,Medium,3,Back Pain,3
+SURV684,38.0,,Low,4,Shoulder Pain,1
+SURV686,43.0,PTSD,Low,2,Back Pain,1
+SURV689,41.0,PTSD,High,1,,2
+SURV698,64.0,Depression,High,3,Eye Strain; Wrist Pain,2
+SURV702,48.0,Anxiety,Medium,4,Back Pain; Eye Strain,2
+SURV708,61.0,ADHD,High,1,Back Pain; Shoulder Pain,2
+SURV711,62.0,Stress Disorder,Low,5,Neck Pain,1
+SURV714,39.0,Anxiety,Medium,4,Shoulder Pain,1
+SURV715,,,High,4,Back Pain; Shoulder Pain,4
+SURV716,38.0,,Medium,2,,2
+SURV721,37.0,Anxiety,Medium,3,,2
+SURV722,40.0,Anxiety,Medium,2,Back Pain; Wrist Pain,3
+SURV727,51.0,ADHD,Medium,2,Back Pain; Shoulder Pain,5
+SURV733,64.0,PTSD,Medium,3,Shoulder Pain; Neck Pain,3
+SURV736,37.0,Anxiety,High,4,Back Pain; Shoulder Pain,3
+SURV737,37.0,Depression,Medium,3,Shoulder Pain,3
+SURV745,39.0,Stress Disorder,Medium,4,Back Pain,1
+SURV746,63.0,PTSD,Medium,3,Back Pain; Eye Strain,3
+SURV747,52.0,ADHD,Medium,2,Back Pain; Neck Pain,3
+SURV758,47.0,ADHD,Medium,3,Shoulder Pain; Eye Strain,3
+SURV764,35.0,Anxiety,Medium,2,Back Pain; Eye Strain,3
+SURV765,43.0,,High,3,Shoulder Pain,3
+SURV766,49.0,Anxiety,High,3,,4
+SURV782,35.0,Anxiety,High,2,Shoulder Pain; Eye Strain; Neck Pain,2
+SURV783,36.0,Stress Disorder,Medium,3,Neck Pain,2
+SURV786,46.0,,Medium,5,Back Pain; Eye Strain; Neck Pain,2
+SURV810,54.0,Depression,Low,3,Neck Pain,3
+SURV814,59.0,,Medium,2,Neck Pain,3
+SURV830,45.0,,High,4,Shoulder Pain; Eye Strain,4
+SURV831,61.0,,Medium,3,Eye Strain; Neck Pain,3
+SURV832,53.0,Anxiety,High,3,Back Pain,4
+SURV835,47.0,,High,3,Back Pain; Shoulder Pain; Neck Pain,4
+SURV842,61.0,Anxiety,Medium,3,Eye Strain,1
+SURV843,39.0,,Medium,3,Back Pain; Eye Strain; Wrist Pain,4
+SURV844,35.0,Burnout,Medium,1,Back Pain; Shoulder Pain; Eye Strain,3
+SURV852,37.0,,High,3,Shoulder Pain; Eye Strain; Wrist Pain,2
+SURV853,58.0,PTSD,Medium,2,Eye Strain; Neck Pain; Wrist Pain,3
+SURV854,43.0,PTSD,Medium,1,,3
+SURV856,,ADHD,Medium,1,Back Pain; Shoulder Pain; Eye Strain,4
+SURV864,44.0,,Medium,5,Back Pain,3
+SURV874,53.0,Anxiety,High,2,Eye Strain,2
+SURV879,61.0,PTSD,Low,5,Eye Strain,2
+SURV880,38.0,Depression,High,1,Shoulder Pain; Wrist Pain,2
+SURV884,54.0,,Medium,1,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,4
+SURV888,45.0,Anxiety,High,4,Back Pain; Eye Strain,1
+SURV889,37.0,Anxiety,High,2,Back Pain; Shoulder Pain,3
+SURV891,62.0,Stress Disorder,High,1,Back Pain; Neck Pain; Wrist Pain,3
+SURV895,47.0,PTSD,Medium,3,,3
+SURV896,45.0,,Medium,5,Shoulder Pain; Eye Strain; Neck Pain,3
+SURV899,61.0,Depression,High,3,Back Pain; Eye Strain,3
+SURV905,46.0,Depression,High,4,,1
+SURV916,53.0,ADHD,Low,4,Eye Strain; Neck Pain,2
+SURV919,63.0,Stress Disorder,Medium,4,,1
+SURV927,58.0,,Medium,3,Shoulder Pain; Eye Strain,1
+SURV930,55.0,PTSD,High,1,Shoulder Pain; Neck Pain,1
+SURV932,41.0,ADHD,Low,2,Back Pain; Shoulder Pain; Wrist Pain,3
+SURV934,57.0,Stress Disorder,Medium,2,Back Pain; Shoulder Pain; Eye Strain,1
+SURV937,53.0,PTSD,Low,2,Back Pain; Shoulder Pain; Eye Strain,5
+SURV938,62.0,ADHD,Medium,4,Back Pain; Eye Strain; Wrist Pain,1
+SURV941,63.0,ADHD,High,5,Eye Strain,3
+SURV946,59.0,PTSD,High,3,Eye Strain,4
+SURV960,43.0,ADHD,High,3,Back Pain; Shoulder Pain; Neck Pain; Wrist Pain,3
+SURV961,64.0,,Medium,3,Back Pain; Eye Strain,2
+SURV965,54.0,ADHD,Medium,1,Back Pain; Shoulder Pain; Eye Strain,3
+SURV970,65.0,,Medium,4,Back Pain; Shoulder Pain; Neck Pain,4
+SURV986,47.0,Burnout,High,3,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,4
+SURV1008,50.0,Stress Disorder,High,5,Back Pain; Eye Strain,3
+SURV1011,49.0,Depression,Low,2,Back Pain; Neck Pain,1
+SURV1014,59.0,ADHD,Low,3,Eye Strain,3
+SURV1038,55.0,Burnout,Medium,1,Shoulder Pain; Neck Pain,2
+SURV1042,59.0,ADHD,Medium,3,Back Pain; Eye Strain,2
+SURV1048,65.0,Stress Disorder,High,1,Back Pain; Eye Strain,5
+SURV1050,58.0,Burnout,High,2,Back Pain,3
+SURV1055,45.0,ADHD,Low,3,Back Pain; Eye Strain; Wrist Pain,2
+SURV1056,40.0,Burnout,High,2,Shoulder Pain; Neck Pain,1
+SURV1060,37.0,PTSD,Medium,3,Back Pain; Eye Strain; Neck Pain; Wrist Pain,4
+SURV1062,41.0,Stress Disorder,Medium,4,Back Pain; Shoulder Pain,3
+SURV1063,47.0,PTSD,Medium,4,Neck Pain,3
+SURV1067,54.0,PTSD,High,4,Neck Pain,2
+SURV1082,59.0,PTSD,High,2,Eye Strain,3
+SURV1084,35.0,PTSD,High,4,Back Pain; Shoulder Pain,2
+SURV1085,41.0,Anxiety,Low,1,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,1
+SURV1089,57.0,Burnout,High,3,,1
+SURV1104,59.0,Stress Disorder,Medium,1,Back Pain; Shoulder Pain,3
+SURV1110,41.0,Burnout,Medium,2,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,1
+SURV1112,48.0,,Medium,1,Wrist Pain,1
+SURV1121,59.0,,High,4,Shoulder Pain,3
+SURV1130,53.0,ADHD,High,4,Shoulder Pain; Neck Pain,4
+SURV1133,48.0,Burnout,Medium,3,Back Pain,2
+SURV1148,53.0,,High,3,Shoulder Pain; Eye Strain,3
+SURV1151,56.0,PTSD,Medium,1,,3
+SURV1155,60.0,Depression,Medium,3,Eye Strain; Neck Pain,3
+SURV1158,44.0,PTSD,High,3,Back Pain; Shoulder Pain,5
+SURV1160,65.0,Stress Disorder,Medium,4,Back Pain; Eye Strain; Neck Pain; Wrist Pain,4
+SURV1166,40.0,Anxiety,Low,3,Back Pain; Eye Strain,3
+SURV1171,57.0,Anxiety,Low,2,Shoulder Pain,2
+SURV1177,60.0,,Medium,1,Back Pain; Eye Strain; Neck Pain,1
+SURV1199,40.0,PTSD,High,3,Shoulder Pain; Eye Strain,5
+SURV1219,57.0,,Medium,3,Shoulder Pain,3
+SURV1221,46.0,,Medium,3,Neck Pain,3
+SURV1224,54.0,PTSD,Medium,3,Shoulder Pain,2
+SURV1225,49.0,,High,1,,1
+SURV1227,41.0,PTSD,Medium,5,Shoulder Pain; Eye Strain,4
+SURV1228,43.0,,High,4,Back Pain; Eye Strain; Neck Pain,3
+SURV1239,53.0,ADHD,High,5,Shoulder Pain,2
+SURV1244,56.0,Anxiety,Low,3,Back Pain; Eye Strain; Neck Pain; Wrist Pain,2
+SURV1245,56.0,,Medium,3,Neck Pain; Wrist Pain,3
+SURV1268,51.0,Anxiety,Medium,4,Eye Strain; Wrist Pain,3
+SURV1269,42.0,ADHD,High,4,Eye Strain,4
+SURV1279,37.0,Depression,Low,4,Shoulder Pain,5
+SURV1281,65.0,Anxiety,High,3,Shoulder Pain,3
+SURV1282,50.0,ADHD,Medium,2,Back Pain; Eye Strain,1
+SURV1283,43.0,PTSD,High,1,Eye Strain; Wrist Pain,4
+SURV1288,45.0,Burnout,High,3,Back Pain; Shoulder Pain; Eye Strain,2
+SURV1290,42.0,,High,3,Back Pain,2
+SURV1304,56.0,Stress Disorder,High,3,Back Pain; Shoulder Pain; Neck Pain,4
+SURV1306,42.0,,High,1,Back Pain; Shoulder Pain; Neck Pain,1
+SURV1312,56.0,Anxiety,Low,2,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,2
+SURV1313,39.0,PTSD,High,4,Back Pain,4
+SURV1326,54.0,Depression,Medium,3,Back Pain; Neck Pain,1
+SURV1334,60.0,Stress Disorder,Medium,2,Shoulder Pain; Eye Strain,2
+SURV1335,56.0,ADHD,High,4,Back Pain; Eye Strain,4
+SURV1349,50.0,,High,3,Back Pain,3
+SURV1350,42.0,Depression,Medium,3,Back Pain,4
+SURV1355,47.0,Depression,Low,2,,3
+SURV1356,62.0,,Medium,3,Eye Strain; Neck Pain,4
+SURV1368,56.0,Stress Disorder,High,2,Back Pain; Eye Strain,3
+SURV1371,64.0,ADHD,High,3,Back Pain; Eye Strain; Neck Pain,2
+SURV1373,53.0,Stress Disorder,High,3,Back Pain; Eye Strain; Neck Pain,1
+SURV1375,62.0,Burnout,Low,2,Back Pain; Neck Pain,2
+SURV1377,51.0,Burnout,Medium,1,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,2
+SURV1380,60.0,PTSD,Medium,4,Back Pain; Shoulder Pain,3
+SURV1395,,PTSD,Medium,5,,4
+SURV1402,60.0,PTSD,High,5,Shoulder Pain; Eye Strain; Neck Pain; Wrist Pain,4
+SURV1416,61.0,PTSD,High,4,Back Pain; Shoulder Pain; Neck Pain,2
+SURV1417,50.0,Anxiety,High,4,Back Pain; Eye Strain; Neck Pain,5
+SURV1425,40.0,Stress Disorder,High,1,Eye Strain; Wrist Pain,3
+SURV1431,39.0,PTSD,Medium,1,Back Pain; Eye Strain,4
+SURV1453,46.0,Burnout,High,3,,3
+SURV1462,54.0,Stress Disorder,High,2,Eye Strain,3
+SURV1463,57.0,,High,1,Back Pain; Shoulder Pain,3
+SURV1464,57.0,ADHD,Medium,5,Shoulder Pain,3
+SURV1469,49.0,,Medium,3,Back Pain; Eye Strain,4
+SURV1470,41.0,Stress Disorder,Medium,2,Back Pain; Eye Strain; Wrist Pain,2
+SURV1473,58.0,ADHD,Low,4,Eye Strain,4
+SURV1479,42.0,Stress Disorder,Medium,3,Back Pain; Eye Strain,4
+SURV1484,55.0,Anxiety,Low,3,Back Pain; Eye Strain,2
+SURV1486,56.0,,Medium,3,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,3
+SURV1489,45.0,PTSD,High,2,Eye Strain; Neck Pain,3
+SURV1491,62.0,,High,4,,5
+SURV1493,42.0,Stress Disorder,High,3,,4
+SURV1508,53.0,Burnout,High,2,,1
+SURV1509,65.0,Burnout,Low,3,Back Pain; Shoulder Pain,1
+SURV1511,61.0,Anxiety,High,4,Back Pain; Neck Pain; Wrist Pain,2
+SURV1513,50.0,ADHD,Medium,3,,5
+SURV1515,44.0,Anxiety,Low,2,Shoulder Pain; Eye Strain,2
+SURV1521,57.0,Anxiety,Medium,5,Shoulder Pain,1
+SURV1522,45.0,ADHD,Medium,3,Back Pain; Eye Strain; Neck Pain,2
+SURV1535,46.0,,Medium,3,Shoulder Pain; Eye Strain; Neck Pain; Wrist Pain,3
+SURV1545,51.0,Depression,Low,1,Shoulder Pain,3
+SURV1555,40.0,Anxiety,High,5,Back Pain,3
+SURV1571,64.0,,High,5,Shoulder Pain,3
+SURV1577,61.0,PTSD,Low,2,Neck Pain,4
+SURV1581,49.0,Stress Disorder,Low,1,Back Pain; Eye Strain; Neck Pain,1
+SURV1582,63.0,Depression,High,3,Shoulder Pain; Eye Strain,3
+SURV1584,56.0,PTSD,High,3,Back Pain; Eye Strain,3
+SURV1592,,PTSD,Low,5,Back Pain; Neck Pain,5
+SURV1595,53.0,Depression,High,5,Shoulder Pain,4
+SURV1600,49.0,Burnout,High,3,Shoulder Pain,3
+SURV1604,46.0,Anxiety,Medium,4,Back Pain; Eye Strain,3
+SURV1618,58.0,,High,4,Back Pain; Shoulder Pain; Eye Strain,1
+SURV1624,43.0,Anxiety,High,4,,1
+SURV1627,49.0,Depression,Low,4,Shoulder Pain; Eye Strain,3
+SURV1628,57.0,,Low,4,Back Pain; Shoulder Pain; Neck Pain,2
+SURV1630,60.0,ADHD,Medium,2,Back Pain; Shoulder Pain,2
+SURV1631,47.0,ADHD,Medium,1,,2
+SURV1647,36.0,Depression,Medium,3,Back Pain; Neck Pain,2
+SURV1656,48.0,PTSD,High,3,Back Pain; Eye Strain; Neck Pain,3
+SURV1661,50.0,Burnout,Medium,4,Back Pain; Shoulder Pain; Eye Strain,2
+SURV1667,50.0,,High,1,Shoulder Pain; Eye Strain; Wrist Pain,4
+SURV1675,56.0,ADHD,Medium,1,Back Pain; Shoulder Pain; Eye Strain,4
+SURV1676,41.0,ADHD,Low,3,Eye Strain; Neck Pain,1
+SURV1677,41.0,Anxiety,Low,3,Back Pain; Neck Pain,1
+SURV1679,43.0,,Medium,2,Shoulder Pain,2
+SURV1681,44.0,,High,4,Back Pain,3
+SURV1682,,,Medium,3,Back Pain,4
+SURV1697,53.0,Depression,Medium,3,Eye Strain,2
+SURV1711,53.0,Anxiety,High,5,Eye Strain,1
+SURV1718,35.0,,High,3,Back Pain; Eye Strain,3
+SURV1734,42.0,ADHD,High,2,Shoulder Pain; Eye Strain,4
+SURV1737,63.0,,High,5,Shoulder Pain; Eye Strain,4
+SURV1741,35.0,,High,4,Back Pain; Shoulder Pain; Eye Strain,3
+SURV1745,,Burnout,Medium,4,Back Pain; Shoulder Pain,2
+SURV1747,59.0,ADHD,High,1,Eye Strain,3
+SURV1752,52.0,Anxiety,High,5,Back Pain; Eye Strain; Neck Pain,3
+SURV1754,39.0,,High,3,Back Pain; Shoulder Pain; Eye Strain,5
+SURV1765,50.0,Stress Disorder,Low,3,Back Pain; Shoulder Pain; Eye Strain,1
+SURV1766,40.0,,High,2,Back Pain; Eye Strain,3
+SURV1767,42.0,Depression,Medium,3,Back Pain; Eye Strain,1
+SURV1775,52.0,Depression,Medium,3,Eye Strain,1
+SURV1779,43.0,ADHD,Medium,4,,4
+SURV1783,41.0,Burnout,Low,2,Shoulder Pain; Eye Strain; Neck Pain,2
+SURV1785,51.0,,Low,5,Shoulder Pain,2
+SURV1788,39.0,Stress Disorder,Medium,2,Back Pain,3
+SURV1789,43.0,ADHD,High,4,Back Pain,2
+SURV1790,52.0,,Medium,4,Back Pain; Shoulder Pain,1
+SURV1795,57.0,Depression,High,5,Shoulder Pain; Neck Pain,5
+SURV1797,61.0,,High,3,Shoulder Pain; Eye Strain,2
+SURV1798,48.0,Depression,Low,3,Back Pain; Neck Pain,3
+SURV1803,63.0,PTSD,Medium,4,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,3
+SURV1805,54.0,ADHD,Medium,4,Shoulder Pain,4
+SURV1812,55.0,Anxiety,High,5,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,5
+SURV1813,37.0,Stress Disorder,High,3,Shoulder Pain,5
+SURV1814,65.0,PTSD,Medium,3,Back Pain,4
+SURV1819,62.0,PTSD,Medium,3,Back Pain; Neck Pain,3
+SURV1820,35.0,Depression,Medium,2,Back Pain,3
+SURV1822,39.0,,High,4,Back Pain; Eye Strain,2
+SURV1823,50.0,Anxiety,Medium,4,Back Pain,4
+SURV1830,64.0,Depression,Medium,3,Back Pain; Shoulder Pain; Eye Strain,3
+SURV1832,47.0,PTSD,Low,3,Back Pain; Eye Strain,4
+SURV1837,43.0,Stress Disorder,Medium,3,Back Pain; Shoulder Pain; Eye Strain,3
+SURV1838,36.0,Anxiety,Low,1,Back Pain; Eye Strain; Wrist Pain,3
+SURV1843,43.0,PTSD,Medium,3,Back Pain; Shoulder Pain; Eye Strain,3
+SURV1850,53.0,Stress Disorder,Medium,2,Back Pain,1
+SURV1852,40.0,Stress Disorder,Medium,3,Shoulder Pain,4
+SURV1869,44.0,,High,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,2
+SURV1870,,,High,4,Eye Strain; Wrist Pain,2
+SURV1874,56.0,PTSD,High,3,Back Pain; Shoulder Pain,3
+SURV1876,50.0,,Low,3,Back Pain; Neck Pain,2
+SURV1886,47.0,,Medium,3,,4
+SURV1892,63.0,Anxiety,High,5,Shoulder Pain; Eye Strain,2
+SURV1893,48.0,Stress Disorder,High,2,Back Pain; Neck Pain,3
+SURV1902,62.0,Anxiety,Low,4,,1
+SURV1903,36.0,PTSD,Medium,3,Shoulder Pain,3
+SURV1910,36.0,PTSD,Low,3,Back Pain; Shoulder Pain; Eye Strain,2
+SURV1918,36.0,Depression,Medium,4,Back Pain; Shoulder Pain; Wrist Pain,5
+SURV1927,50.0,,High,3,Shoulder Pain; Neck Pain,3
+SURV1928,43.0,Stress Disorder,Low,3,Eye Strain,4
+SURV1930,46.0,Anxiety,High,3,Back Pain; Shoulder Pain,1
+SURV1933,55.0,Stress Disorder,Medium,2,Eye Strain,5
+SURV1936,43.0,Stress Disorder,High,3,Eye Strain,1
+SURV1946,51.0,PTSD,High,2,Back Pain; Eye Strain,4
+SURV1947,52.0,Anxiety,Low,4,Shoulder Pain; Neck Pain,5
+SURV1951,39.0,Burnout,Medium,3,Back Pain; Shoulder Pain; Eye Strain,3
+SURV1956,49.0,ADHD,Medium,2,Back Pain; Eye Strain; Neck Pain,1
+SURV1967,41.0,Stress Disorder,Low,2,Back Pain; Neck Pain,1
+SURV1969,62.0,ADHD,Low,3,Back Pain; Wrist Pain,3
+SURV1970,50.0,Burnout,Medium,4,Back Pain; Eye Strain,4
+SURV1985,45.0,,Medium,3,Eye Strain; Neck Pain,2
+SURV1986,40.0,Burnout,Medium,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,3
+SURV1989,65.0,Stress Disorder,Medium,3,Eye Strain,1
+SURV1998,41.0,ADHD,High,3,Eye Strain,2
+SURV1999,51.0,,High,3,Back Pain; Eye Strain,2
+SURV2014,48.0,Depression,Medium,2,Shoulder Pain; Eye Strain,3
+SURV2015,36.0,,Medium,3,Back Pain; Shoulder Pain,4
+SURV2025,40.0,Anxiety,Medium,5,Eye Strain; Neck Pain,2
+SURV2042,45.0,Burnout,High,3,Shoulder Pain,4
+SURV2052,63.0,Anxiety,High,2,Back Pain; Shoulder Pain; Eye Strain,1
+SURV2053,55.0,ADHD,High,3,,3
+SURV2062,47.0,,High,5,Back Pain; Neck Pain,1
+SURV2066,37.0,Stress Disorder,High,3,Shoulder Pain; Neck Pain,4
+SURV2068,43.0,ADHD,Low,1,Shoulder Pain,4
+SURV2069,,,Medium,2,Shoulder Pain; Eye Strain; Neck Pain,2
+SURV2071,36.0,,Low,3,Wrist Pain,1
+SURV2072,46.0,Anxiety,Medium,3,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,4
+SURV2075,61.0,,Medium,4,Eye Strain,3
+SURV2080,55.0,ADHD,Medium,3,Shoulder Pain; Eye Strain,2
+SURV2083,57.0,Stress Disorder,High,2,Eye Strain,2
+SURV2092,57.0,ADHD,Medium,4,Back Pain,2
+SURV2097,55.0,Stress Disorder,Low,5,,4
+SURV2103,57.0,PTSD,Low,1,Back Pain,5
+SURV2113,49.0,PTSD,Medium,2,Back Pain; Eye Strain,5
+SURV2133,54.0,,High,3,Eye Strain; Neck Pain,2
+SURV2143,40.0,PTSD,Low,1,Back Pain; Eye Strain; Neck Pain,3
+SURV2147,37.0,Anxiety,High,3,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,1
+SURV2152,43.0,Burnout,Medium,2,,2
+SURV2153,52.0,,Low,3,Back Pain; Eye Strain,2
+SURV2154,,Burnout,High,4,Shoulder Pain,2
+SURV2156,53.0,,Low,4,Back Pain; Shoulder Pain,3
+SURV2157,53.0,Stress Disorder,Medium,5,Shoulder Pain,1
+SURV2159,52.0,,Medium,3,Back Pain; Shoulder Pain,3
+SURV2161,41.0,,Medium,2,Back Pain; Eye Strain,1
+SURV2163,48.0,Stress Disorder,High,4,Shoulder Pain; Neck Pain,1
+SURV2174,52.0,Stress Disorder,Medium,3,Shoulder Pain; Eye Strain,1
+SURV2175,45.0,Stress Disorder,Medium,2,,5
+SURV2195,64.0,,Low,2,Eye Strain,3
+SURV2208,65.0,Anxiety,Medium,4,Shoulder Pain; Eye Strain,1
+SURV2210,37.0,Depression,High,2,Back Pain; Shoulder Pain; Eye Strain,3
+SURV2211,62.0,,Medium,3,Back Pain; Neck Pain,2
+SURV2217,43.0,Anxiety,High,2,Back Pain; Eye Strain; Wrist Pain,1
+SURV2220,45.0,,Medium,2,Eye Strain; Wrist Pain,3
+SURV2225,36.0,,High,3,Back Pain; Eye Strain,2
+SURV2227,62.0,Anxiety,Medium,5,Shoulder Pain; Eye Strain,5
+SURV2231,60.0,Depression,Medium,5,Back Pain; Eye Strain; Neck Pain,3
+SURV2232,,,High,4,Back Pain; Shoulder Pain,3
+SURV2242,62.0,PTSD,High,4,Eye Strain; Wrist Pain,2
+SURV2246,43.0,,High,3,Shoulder Pain; Wrist Pain,2
+SURV2257,50.0,Depression,High,2,Eye Strain; Neck Pain,3
+SURV2272,53.0,ADHD,Low,2,Back Pain; Eye Strain; Neck Pain,2
+SURV2274,60.0,,High,2,Back Pain; Shoulder Pain; Eye Strain,4
+SURV2276,45.0,Depression,Medium,1,Wrist Pain,2
+SURV2288,37.0,Stress Disorder,Medium,2,Shoulder Pain; Eye Strain,3
+SURV2300,45.0,,Low,2,,3
+SURV2307,64.0,PTSD,High,3,Back Pain; Shoulder Pain; Eye Strain,3
+SURV2309,50.0,,Medium,5,Back Pain,3
+SURV2310,42.0,,Low,3,Back Pain; Shoulder Pain; Eye Strain,5
+SURV2315,55.0,,High,3,Eye Strain,2
+SURV2318,35.0,Burnout,Low,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain; Wrist Pain,2
+SURV2322,60.0,PTSD,Medium,3,Shoulder Pain; Wrist Pain,5
+SURV2323,37.0,Stress Disorder,Medium,3,Shoulder Pain,1
+SURV2324,47.0,,High,3,Eye Strain,3
+SURV2329,54.0,,Medium,1,Back Pain,1
+SURV2335,57.0,Stress Disorder,High,4,Back Pain,3
+SURV2346,64.0,Stress Disorder,High,3,Shoulder Pain; Eye Strain,2
+SURV2361,43.0,,High,5,Shoulder Pain; Eye Strain,2
+SURV2363,52.0,ADHD,High,5,Back Pain; Neck Pain; Wrist Pain,2
+SURV2364,54.0,,Medium,3,Eye Strain,3
+SURV2372,49.0,,High,1,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,3
+SURV2375,50.0,,Low,3,Back Pain; Shoulder Pain; Eye Strain,2
+SURV2380,55.0,,Medium,4,Back Pain,2
+SURV2386,61.0,Burnout,High,4,,1
+SURV2403,39.0,ADHD,High,2,Back Pain,4
+SURV2411,45.0,PTSD,Medium,4,Back Pain; Shoulder Pain,4
+SURV2439,65.0,Depression,High,3,Shoulder Pain; Eye Strain,5
+SURV2442,51.0,,Low,5,Shoulder Pain; Eye Strain,4
+SURV2443,38.0,,Low,4,Back Pain; Shoulder Pain; Eye Strain,2
+SURV2458,46.0,Stress Disorder,Low,4,Back Pain; Eye Strain; Wrist Pain,2
+SURV2475,38.0,Stress Disorder,Low,2,Back Pain,3
+SURV2482,37.0,Anxiety,Medium,3,Back Pain; Eye Strain,4
+SURV2492,64.0,Anxiety,High,1,Eye Strain; Wrist Pain,4
+SURV2493,44.0,Stress Disorder,High,3,Back Pain,3
+SURV2498,55.0,Burnout,High,3,Back Pain; Shoulder Pain; Eye Strain,4
+SURV2504,43.0,Burnout,Medium,3,Shoulder Pain; Wrist Pain,2
+SURV2505,43.0,Burnout,Low,3,Shoulder Pain; Eye Strain,4
+SURV2509,39.0,PTSD,Medium,3,Neck Pain; Wrist Pain,3
+SURV2518,58.0,PTSD,High,4,Back Pain; Eye Strain,5
+SURV2522,60.0,Stress Disorder,High,1,Back Pain; Wrist Pain,3
+SURV2523,42.0,,High,2,Back Pain,2
+SURV2525,36.0,,Medium,5,Back Pain; Shoulder Pain; Eye Strain,4
+SURV2526,45.0,PTSD,High,4,Back Pain,1
+SURV2540,60.0,,Medium,3,Shoulder Pain,2
+SURV2546,49.0,PTSD,Low,5,Back Pain,1
+SURV2547,39.0,Anxiety,High,4,Eye Strain,4
+SURV2550,63.0,,Medium,4,Eye Strain; Wrist Pain,2
+SURV2552,41.0,Burnout,Low,5,Back Pain; Eye Strain; Neck Pain,3
+SURV2565,44.0,Anxiety,Medium,3,Back Pain; Shoulder Pain,2
+SURV2585,53.0,Depression,High,3,,3
+SURV2586,51.0,PTSD,Medium,4,Shoulder Pain,3
+SURV2591,50.0,Anxiety,Medium,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,3
+SURV2592,65.0,PTSD,Low,4,,2
+SURV2595,41.0,Depression,High,4,,3
+SURV2596,49.0,Anxiety,Low,3,Eye Strain,2
+SURV2597,54.0,Burnout,Low,2,Shoulder Pain; Eye Strain,2
+SURV2600,43.0,PTSD,High,2,Back Pain,1
+SURV2601,50.0,,Medium,5,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,3
+SURV2607,56.0,,Medium,1,Back Pain; Eye Strain,2
+SURV2613,47.0,,High,2,Back Pain; Shoulder Pain; Neck Pain; Wrist Pain,2
+SURV2615,38.0,PTSD,High,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,1
+SURV2624,50.0,Anxiety,Medium,1,Back Pain; Eye Strain,4
+SURV2625,42.0,Burnout,Medium,2,Back Pain; Shoulder Pain; Eye Strain,4
+SURV2629,44.0,Stress Disorder,Medium,3,Back Pain,3
+SURV2631,44.0,Depression,High,5,Back Pain,3
+SURV2636,42.0,,High,1,Back Pain; Shoulder Pain; Eye Strain,4
+SURV2637,47.0,Burnout,Medium,3,Shoulder Pain; Eye Strain,1
+SURV2640,51.0,PTSD,High,3,Shoulder Pain,3
+SURV2643,43.0,ADHD,Medium,4,Shoulder Pain; Eye Strain,2
+SURV2646,58.0,,High,3,Shoulder Pain,2
+SURV2654,36.0,,Low,5,Eye Strain; Neck Pain,3
+SURV2666,53.0,Depression,Medium,1,Back Pain; Eye Strain; Neck Pain,4
+SURV2672,64.0,Anxiety,Low,5,Shoulder Pain,3
+SURV2675,41.0,ADHD,Medium,4,Back Pain; Shoulder Pain,3
+SURV2676,38.0,Stress Disorder,Medium,3,Back Pain; Shoulder Pain,4
+SURV2678,50.0,ADHD,Low,5,Back Pain,1
+SURV2686,47.0,Burnout,Medium,4,Back Pain; Eye Strain,3
+SURV2693,62.0,PTSD,Medium,3,Shoulder Pain,1
+SURV2697,54.0,Anxiety,High,3,Eye Strain; Neck Pain,4
+SURV2700,42.0,ADHD,Medium,4,Shoulder Pain,4
+SURV2704,54.0,,Low,2,Back Pain; Eye Strain,1
+SURV2712,60.0,ADHD,High,1,Eye Strain; Neck Pain,3
+SURV2715,41.0,PTSD,Low,1,Back Pain,1
+SURV2720,48.0,Burnout,Medium,2,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,4
+SURV2750,53.0,Burnout,Medium,3,Back Pain; Shoulder Pain; Eye Strain,4
+SURV2751,52.0,Burnout,Low,3,Back Pain; Shoulder Pain,2
+SURV2756,65.0,,High,3,,3
+SURV2757,36.0,,High,2,Back Pain,3
+SURV2759,44.0,Burnout,Low,4,Shoulder Pain; Eye Strain,3
+SURV2760,39.0,Depression,Medium,5,Back Pain; Shoulder Pain; Neck Pain; Wrist Pain,4
+SURV2770,55.0,ADHD,Medium,2,Shoulder Pain; Eye Strain,2
+SURV2771,44.0,,Medium,1,Eye Strain,4
+SURV2772,38.0,ADHD,Medium,1,Back Pain; Eye Strain; Neck Pain,1
+SURV2774,59.0,Depression,Low,3,Back Pain; Shoulder Pain; Eye Strain,5
+SURV2775,35.0,PTSD,Low,2,Shoulder Pain; Neck Pain,3
+SURV2776,60.0,,Low,4,Wrist Pain,1
+SURV2793,37.0,ADHD,Medium,4,Eye Strain; Wrist Pain,1
+SURV2794,58.0,Depression,Medium,3,Back Pain; Eye Strain,4
+SURV2797,64.0,Depression,Low,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,3
+SURV2807,35.0,Anxiety,High,4,Shoulder Pain; Eye Strain,4
+SURV2808,39.0,,Medium,5,Back Pain; Shoulder Pain; Eye Strain; Wrist Pain,4
+SURV2813,63.0,PTSD,High,3,Back Pain,5
+SURV2816,58.0,Stress Disorder,Medium,2,Back Pain; Shoulder Pain; Neck Pain; Wrist Pain,3
+SURV2818,40.0,,High,3,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,5
+SURV2827,48.0,ADHD,High,2,Back Pain,2
+SURV2844,53.0,,Low,2,Shoulder Pain; Eye Strain,3
+SURV2865,45.0,ADHD,Low,3,,3
+SURV2867,41.0,,High,4,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,5
+SURV2869,48.0,ADHD,Medium,2,Back Pain; Eye Strain,1
+SURV2870,49.0,Anxiety,Low,5,Shoulder Pain; Eye Strain; Neck Pain,2
+SURV2875,46.0,,High,3,Back Pain; Shoulder Pain,4
+SURV2880,35.0,Depression,High,2,Eye Strain,3
+SURV2887,52.0,Depression,High,1,,1
+SURV2890,64.0,PTSD,Medium,3,Shoulder Pain; Eye Strain,3
+SURV2895,41.0,,High,4,Shoulder Pain; Wrist Pain,3
+SURV2899,42.0,Stress Disorder,High,3,Shoulder Pain; Eye Strain,5
+SURV2905,55.0,Burnout,Medium,1,Back Pain; Eye Strain; Neck Pain,1
+SURV2907,50.0,Anxiety,Low,3,Shoulder Pain,2
+SURV2910,50.0,Depression,Medium,3,Eye Strain; Wrist Pain,4
+SURV2918,,Burnout,High,1,Shoulder Pain; Eye Strain,4
+SURV2919,,PTSD,Medium,1,Back Pain; Eye Strain,3
+SURV2932,43.0,,High,3,Back Pain; Eye Strain,3
+SURV2933,46.0,Stress Disorder,High,3,Back Pain; Shoulder Pain,3
+SURV2936,60.0,Anxiety,High,3,Back Pain,3
+SURV2956,42.0,Depression,Medium,5,Shoulder Pain,5
+SURV2960,62.0,,Low,2,Eye Strain,2
+SURV2965,35.0,ADHD,Low,3,Back Pain; Shoulder Pain,4
+SURV2967,45.0,,Low,5,Shoulder Pain; Neck Pain; Wrist Pain,4
+SURV2969,47.0,,Low,4,Back Pain; Shoulder Pain,1
+SURV2971,49.0,Burnout,High,1,Shoulder Pain,5
+SURV2972,60.0,Burnout,Medium,3,Neck Pain,3
+SURV2981,64.0,ADHD,Medium,5,Shoulder Pain; Eye Strain,3
+SURV2987,54.0,,Medium,3,Back Pain; Eye Strain,4
+SURV2991,41.0,PTSD,Medium,2,Back Pain; Eye Strain; Neck Pain,3
+SURV2999,56.0,,Medium,5,Back Pain; Wrist Pain,2
+SURV3004,55.0,Depression,High,3,,2
+SURV3011,39.0,,Medium,4,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,3
+SURV3031,52.0,Burnout,Medium,4,Shoulder Pain,2
+SURV3037,35.0,PTSD,Medium,2,Shoulder Pain; Eye Strain,2
+SURV3042,62.0,PTSD,Medium,3,Neck Pain,4
+SURV3043,36.0,PTSD,Medium,2,Shoulder Pain,2
+SURV3049,38.0,Burnout,Low,2,Back Pain; Eye Strain; Neck Pain,2
+SURV3054,62.0,ADHD,High,1,Back Pain; Shoulder Pain; Neck Pain,3
+SURV3058,50.0,Depression,High,2,Shoulder Pain; Eye Strain,2
+SURV3061,62.0,PTSD,High,4,Shoulder Pain,3
+SURV3062,64.0,,High,4,Back Pain; Shoulder Pain,4
+SURV3068,42.0,Burnout,Low,4,Back Pain,1
+SURV3070,44.0,PTSD,High,1,Back Pain; Shoulder Pain; Eye Strain; Neck Pain,3
+SURV3072,55.0,,Medium,4,Shoulder Pain; Neck Pain,1
+SURV3078,51.0,ADHD,High,2,Back Pain; Eye Strain; Neck Pain,3
+SURV3082,58.0,Anxiety,Medium,4,Shoulder Pain,2
+SURV3091,63.0,,Low,2,Back Pain; Shoulder Pain,3
+SURV3100,36.0,PTSD,Medium,3,Back Pain; Shoulder Pain; Eye Strain,1
+SURV3111,35.0,Burnout,High,3,Shoulder Pain; Eye Strain,3
+SURV3113,58.0,Depression,High,2,Back Pain; Eye Strain,2
+SURV3125,44.0,,Low,5,Shoulder Pain,3
+SURV3126,63.0,Depression,High,3,Back Pain; Eye Strain; Wrist Pain,5
+SURV3133,40.0,Burnout,High,2,Back Pain; Eye Strain; Neck Pain,3
+SURV3136,43.0,PTSD,Medium,4,Eye Strain,3
+SURV3141,55.0,ADHD,High,2,Back Pain,1
+SURV3142,59.0,Stress Disorder,High,2,Shoulder Pain,1
+SURV3149,53.0,Burnout,Medium,2,Back Pain; Shoulder Pain; Eye Strain,2
+SURV3150,49.0,Anxiety,Low,1,Back Pain; Shoulder Pain; Neck Pain; Wrist Pain,1
+SURV3151,45.0,ADHD,Low,3,,3
